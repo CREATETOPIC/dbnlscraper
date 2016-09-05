@@ -16,8 +16,10 @@ function scraperTimeLoop () {
 
 			if (i < 10) {
 				var currentNumber = '0' + i;
+				currentNumber++;
 			} else {
 				var currentNumber = i;
+				currentNumber++;
 			}
 
 			x(scrapedUrl + currentNumber + '.php', 'div.contentholder', [{
