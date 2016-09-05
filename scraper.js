@@ -4,6 +4,7 @@ var x = Xray();
 var author = process.argv[2];
 var firstPage = process.argv[3];
 var amountPages = process.argv[4];
+amountPages++;
 
 var scrapedUrl = 'http://www.dbnl.org/tekst/' + author + '_01/' + author + '_01_00';
 
@@ -16,10 +17,8 @@ function scraperTimeLoop () {
 
 			if (i < 10) {
 				var currentNumber = '0' + i;
-				currentNumber++;
 			} else {
 				var currentNumber = i;
-				currentNumber++;
 			}
 
 			x(scrapedUrl + currentNumber + '.php', 'div.contentholder', [{
@@ -27,8 +26,8 @@ function scraperTimeLoop () {
 		  text: 'p',
 			}])(function(err, obj) {
 
-			console.log(obj[0].heading);
-			// console.log('current page ' + currentNumber);
+			// console.log(obj[0].heading);
+			console.log('current page ' + currentNumber);
 			// text += obj[0].heading;
 			// console.log(text);
 
