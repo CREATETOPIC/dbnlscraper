@@ -2,11 +2,12 @@ var Xray = require('x-ray');
 var x = Xray();
 
 var author = process.argv[2];
-var amountPages = process.argv[3];
+var firstPage = process.argv[3];
+var amountPages = process.argv[4];
 
 var scrapedUrl = 'http://www.dbnl.org/tekst/' + author + '_01/' + author + '_01_00';
 
-var i = 1;
+var i = firstPage;
 
 // var text = '';
 
