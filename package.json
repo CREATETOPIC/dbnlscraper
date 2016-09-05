@@ -1,0 +1,21 @@
+{
+  "name": "dbnlscraper",
+  "version": "1.0.0",
+  "description": "Scraper voor DBNL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CREATETOPIC/dbnlscraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CREATETOPIC/dbnlscraper/issues"
+  },
+  "dependencies": {
+    "x-ray": "^2.3.0"
+  }
+}
