@@ -7,7 +7,7 @@ var author = process.argv[2];
 var firstPage = process.argv[3];
 var amountPages = process.argv[4];
 
-var scrapedUrl = 'http://www.dbnl.org/tekst/' + author + '_01/' + author + '_01_00';
+var scrapedUrl = 'http://www.dbnl.org/tekst/' + author + '_01/' + author + '_01_0';
 var he = require('he');
 
 var i = firstPage;
@@ -18,6 +18,8 @@ function scraperTimeLoop () {
    setTimeout(function () {  
 
 			if (i < 10) {
+				var currentNumber = '00' + i;
+			} else if (i < 100) {
 				var currentNumber = '0' + i;
 			} else {
 				var currentNumber = i;
