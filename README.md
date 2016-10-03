@@ -27,5 +27,7 @@ Tussen het downloaden van iedere afbeelding zit twee seconde wachttijd.
 ## STCN Scraper
 Hernoem `config.example.json` naar `config.json`. Vul de AWS credentials in.
 
+...
+
 
 
