@@ -24,5 +24,8 @@ Vul vervolgens de vier opties in. De belangrijkste is de URN-code: klik met je r
 
 Tussen het downloaden van iedere afbeelding zit twee seconde wachttijd.
 
+## STCN Scraper
+Hernoem `config.example.json` naar `config.json`. Vul de AWS credentials in.
+
 
 

@@ -16,7 +16,14 @@
     "url": "https://github.com/CREATETOPIC/dbnlscraper/issues"
   },
   "dependencies": {
+    "aws-sdk": "^2.6.4",
+    "csvtojson": "^1.0.2",
+    "googleapis": "^13.0.0",
     "he": "^1.1.0",
+    "json2csv": "^3.6.3",
+    "jsonexport": "^1.1.0",
+    "lodash": "^4.15.0",
+    "nice-json2csv": "^0.2.2",
     "x-ray": "^2.3.0"
   }
 }
