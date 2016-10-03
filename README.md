@@ -2,7 +2,7 @@
 Scraper voor DBNL en Geheugen van Nederland. Gemaakt in het kader van CREATE TOPIC.
 
 ## DBNL scraper
-Vereist Node.js
+Node.js is vereist
 
 Tik in de terminal:
 `node scraper_literatuur.js TITLE FIRSTPAGE LASTPAGE > RECORDNUMBER.txt`
@@ -15,6 +15,14 @@ TITLE staat hier voor de titel die zichtbaar is in de URL van de DBNL-website. W
 FIRSTPAGE & LASTPAGE is eveneens zichtbaar in de DBNL URL. Kijk hiervoor naar de laatste getallen voor het stukje `.php`.
 
 RECORDNUMBER zoals beschreven staat in Picarta.
+
+## DBNL scraper voor meerdere teksten
+Node.js is vereist
+
+Tik in de terminal: 
+`node scraper_multiple.js`
+
+De te downloaden teksten worden automatisch uit de DBNL koppelsheet (Google Spreadsheet) gehaald. Deze teksten worden vervolgens in het mapje 'teksten' geplaatst. Om de DBNL servers niet te overbelasten zit er één minuut pauze tussen ieder boek. Tussen iedere pagina is er een delay van één seconde.
 
 ## Geheugen van Nederland scraper
 Tik in de terminal:

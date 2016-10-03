@@ -149,7 +149,7 @@ converter.on("end_parsed", function (scrapelijst) {
       if (iOuter < scrapelijst.length) {       
          scraperOuterTimeLoop();        
       }                   
-   }, 30000)
+   }, 60000)
 }
 
 scraperOuterTimeLoop();
