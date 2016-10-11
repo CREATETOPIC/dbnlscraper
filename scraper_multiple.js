@@ -104,7 +104,11 @@ converter.on("end_parsed", function (scrapelijst) {
 						  text: '#tekst_en_noten@html',
 							}])(function(err, obj) {
 
-								var dirtyText = obj[0].text;
+								if (obj[0] == null) {
+									var dirtyText = "";
+								} else {
+									var dirtyText = obj[0].text;
+								}
 								/* Remove everything inside <a href> */
 								dirtyText = dirtyText.replace(/<a.*a>/g, '');
 								/* Remove toneel lines */
