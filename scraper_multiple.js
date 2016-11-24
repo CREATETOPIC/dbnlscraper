@@ -66,7 +66,7 @@ var he = require('he');
 // scraperTimeLoop();
 
 
-
+console.log('SCRAPER STARTED');
 
 var converter = new Converter({});
 
@@ -86,12 +86,13 @@ converter.on("end_parsed", function (scrapelijst) {
 
 
    		function toScrape (auth, firstP, lastP, ppn) {
-				var scrapedUrl = 'http://www.dbnl.org/tekst/' + auth + '_01/' + auth + '_01_0';
+				var scrapedUrl = 'http://www.dbnl.org/tekst/' + auth + '/' + auth + '_0';
 				var i = firstP;
 				var text = '';
 
 				function scraperTimeLoop () { 
 				   setTimeout(function () {  
+				   		console.log('NIEUWE LOOP');
 
 							if (i < 10) {
 								var currentNumber = '00' + i;
@@ -103,6 +104,7 @@ converter.on("end_parsed", function (scrapelijst) {
 							x(scrapedUrl + currentNumber + '.php', 'article', [{
 						  text: '#tekst_en_noten@html',
 							}])(function(err, obj) {
+								// console.log(obj);
 
 								if (obj[0] == null) {
 									var dirtyText = "";
@@ -135,9 +137,9 @@ converter.on("end_parsed", function (scrapelijst) {
 				         scraperTimeLoop();        
 				      }
 				      if (i === lastP) {       
-				         fs.writeFile('teksten/' + ppn + '.txt', text, function (err) {
+				         fs.writeFile('teksten/november/' + ppn + '.txt', text, function (err) {
 								  if (err) return console.log(err);
-								  console.log('Saved!');
+								  console.log('Saved! ', ppn);
 								});    
 				      }                       
 				   }, 1000)
@@ -153,7 +155,7 @@ converter.on("end_parsed", function (scrapelijst) {
       if (iOuter < scrapelijst.length) {       
          scraperOuterTimeLoop();        
       }                   
-   }, 60000)
+   }, 120000)
 }
 
 scraperOuterTimeLoop();

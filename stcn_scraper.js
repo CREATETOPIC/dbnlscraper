@@ -37,7 +37,8 @@ converter.on("end_parsed", function (ppnNumbers) {
 			results[currentSTCN] = {};
 
 	    for (d = 0; d < STCN.results.bindings.length; d++) { 
-				if (STCN.results.bindings[d].p.value == 'http://purl.org/dc/elements/1.1/date') {
+
+	if (STCN.results.bindings[d].p.value == 'http://purl.org/dc/elements/1.1/date') {
 					results[currentSTCN].jaar = JSON.stringify(STCN.results.bindings[d].o.value);
 					// console.log(results[currentSTCN].jaar)
 				} else if (STCN.results.bindings[d].p.value == 'http://purl.org/dc/elements/1.1/creator') {
@@ -46,8 +47,8 @@ converter.on("end_parsed", function (ppnNumbers) {
 				} else if (STCN.results.bindings[d].p.value == 'http://purl.org/dc/elements/1.1/publisher') {
 					results[currentSTCN].thesaurus_drukker = JSON.stringify(STCN.results.bindings[d].o.value);
 				} else if (STCN.results.bindings[d].p.value == 'http://purl.org/dc/elements/1.1/title') {
+					console.log('Saving ' + currentSTCN);
 					results[currentSTCN].titel = JSON.stringify(STCN.results.bindings[d].o.value);
-					console.log('momenteel bezig met ', currentSTCN);
 					results[currentSTCN].ppn = currentSTCN;
 					results[currentSTCN].url_text = 'https://raw.githubusercontent.com/CREATETOPIC/corpus/master/collectiea/' + currentSTCN + '.txt';
 					results[currentSTCN].url_stcn = 'http://picarta.nl/DB=3.11/XMLPRS=Y/PPN?PPN=' + currentSTCN;
@@ -56,6 +57,12 @@ converter.on("end_parsed", function (ppnNumbers) {
 					results[currentSTCN].plaats = '';
 					results[currentSTCN].keywords = '';
 				}
+
+
+
+				
+
+			
 			}
 		});
 
@@ -63,7 +70,7 @@ converter.on("end_parsed", function (ppnNumbers) {
       if (i < ppnNumbers.length) {
     			STCNLoop();			
 			  }
-			}, 1000)
+			}, 4000)
 
 	console.log(i);
 
@@ -105,7 +112,7 @@ converter.on("end_parsed", function (ppnNumbers) {
 			  console.error(err);
 			}
 
-				}, 8000);
+				}, 32000);
 			}
 
 			//time
@@ -117,7 +124,7 @@ converter.on("end_parsed", function (ppnNumbers) {
 // S3 upload
 
 // Normale PPN
-// require("request").get("https://docs.google.com/spreadsheets/d/1mqxwr6G3eKbawASg-VM16pJeK_j81Y8ngg_c36uqQ60/pub?gid=0&single=true&output=csv").pipe(converter);
+require("request").get("https://docs.google.com/spreadsheets/d/1mqxwr6G3eKbawASg-VM16pJeK_j81Y8ngg_c36uqQ60/pub?gid=0&single=true&output=csv").pipe(converter);
 
 // PPN Referentiecorpus
-require("request").get("https://docs.google.com/spreadsheets/d/1H4mv578CjDaWfXvCcQkCwmi8T7Fcrm5h9hXQTqjmgFQ/pub?gid=0&single=true&output=csv").pipe(converter);
+// require("request").get("https://docs.google.com/spreadsheets/d/1H4mv578CjDaWfXvCcQkCwmi8T7Fcrm5h9hXQTqjmgFQ/pub?gid=0&single=true&output=csv").pipe(converter);

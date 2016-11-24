@@ -1,0 +1,3731 @@
+
+
+         -->
+
+Verantwoording van de digitale uitgave van Barbarologia, Sijnde de Sleutel der Grandiloquentia paganismi, ofte Boeren-Latyn van Salomon van Rusting (1733) 
+        
+door Nicoline van der Sijs 
+ 
+            Bron
+            
+De uitgave betreft de digitale versie van Barbarologia, Sijnde de Sleutel der Grandiloquentia paganismi; ofte Boeren-Latyn van Salomon van Rusting uit 1733 (tweede druk). Gebruik is gemaakt van het exemplaar dat onder de signatuur OD Br 15978 berust in de Universiteitsbibliotheek Nijmegen. Bij onleesbare of moeilijke passages is een exemplaar in particulier bezit van de eerste druk uit 1693 geraadpleegd; de tekst van dit boek komt overeen met de editie uit 1733, maar de drukker was een andere: Jan ten Hoorn, Boekverkooper over ’t oude Heeren Logement, t’Amsterdam. Beide drukken, alsmede de derde druk, verschenen te Amsterdam bij de drukker/uitgever J. Rotterdam, bevatten een titelplaat van Caspar Luyken.
+
+            Medewerkers aan de digitale uitgave van de teksten van Van Rusting
+            
+Het boekje van Van Rusting is gedigitaliseerd door vrijwilligers die behoren tot het Vrijwilligersnetwerk Nederlandse Taal. Dit netwerk is ontstaan nadat een groot aantal vrijwilligers zich had aangemeld als reactie op een oproep in de media in juni 2007, waarin Nicoline van der Sijs hulp vroeg bij het digitaliseren van de Statenvertaling 1637. Sindsdien zijn een tiental oude Bijbels, twee Friese bijbelvertalingen, zes oude psalmvertalingen en diverse wereldse werken getranscribeerd. Alle teksten zijn gepubliceerd op de website van DBNL en gedeponeerd bij Data Archieving and Networked Services DANS, een onderdeel van de KNAW. De Bijbels zijn voorts gepubliceerd op de website van het Nederlands Bijbelgenootschap (NBG).
+            
+Aan het overtikken en tot tweemaal toe corrigeren van de teksten van Van Rusting hebben onderstaande 13 personen een bijdrage geleverd. 
+
+Coördinatie
+
+dr. Nicoline van der Sijs, Leiden (NL)
+
+Medewerkers
+
+drs. Hans Beelen, Oldenburg (D) (corrector)
+
+ir. J.F. (Jan) Entrop, Tiel (NL)
+
+	Jan Fraanje, Krimpen aan den IJssel (NL)
+
+	drs. Annalies van Haaften, Maastricht (NL)
+
+	Huib Neven, Krimpen aan den IJssel (NL)
+
+	Henk van de Rest, Alphen N.B. (NL)
+
+	drs. Carri Sijssens, Maarn (NL)
+
+drs. Dagmar Stiebral, Den Haag (NL)
+
+Jan Dirk Wiegman, Alphen a.d. Rijn (NL)
+
+drs. Conny Wesdijk, Breda (NL)
+
+Herman Wiltink, Krimpen a/d IJssel (NL) (corrector)
+
+	Tineke Wiltink, Krimpen a/d IJssel (NL) (corrector)
+
+             Achtergrondinformatie over Salomon van Rusting en zijn werken 
+            
+Over het leven van de arts en dichter Salomon van Rusting (Amsterdam 1652 - gestorven tussen 1709 en 1713) is weinig bekend. Hij was een zoon van de Amsterdamse schilder Abraham Gerbrandsz. van Rusting. Misschien heeft hij in Duitsland gewoond, want zijn werk vertoont veel germanismen, bijvoorbeeld erneeren voor voeden, erweelen voor kiezen, heronder en omsonst (Van Praag 1938: 395, 400). Volgens eigen zeggen was hij in 1674 gepromoveerd in de medicijnen te Montpellier. Daarna vestigde hij zich als arts in Zuidschermer.
+            
+Van Rusting schreef diverse medische werken, maar werd veel bekender door de publicatie van allerlei satirische en burleske werken. Zijn eerste werk, getiteld Vol-geestige werken, verscheen in twee delen in 1685 en 1687. Later werden deze nog een paar maal uitgebreid. Aan de derde druk werd onder andere de satire De kat in het vagevuur toegevoegd, waarin Van Rusting onder andere Brabanders en Duitsers parodieert, die slecht Nederlands gebruiken, bijvoorbeeld op p. 92: 
+
+Bah neen (zei de abt), kik heb es geen
+
+Kik liet main geld in mijn convent
+
+en op p. 93:
+
+Pots mausen! ’k heb jouw boek gelezen;
+
+En ’t grilt mij nu nog door mijn vel:
+
+Je bracht me duzendmaal meer vrezen,
+
+Voor ’t vagevuur, als voor de hel.
+
+Pots mausen! en pots kool met krenten!
+
+In 1693 verscheen Barbarologia, ofte Boeren-Latyn, waarvan de volledige titel luidde Barbarologia, Sijnde de Sleutel der Grandiloquentia paganismi, ofte Boeren-Latyn. So als by Voorname Boeren, en sommige Stedelingen, in Zuyd- en Noord-Holland, seer geleerdelijk van haar gesproken wort. Als mede een kroeg-praatjen, Daar al de aardigheden van ’t Boeren-Latyn in getoont werden. Uyt eygen ondervinding zamen gestelt. Dit lexicografisch werkje geeft aardige informatie over de manier waarop eind 17e eeuw Franse en Latijnse leenwoorden verbasterd werden door het ‘gewone’ volk. Het boek oogstte onder tijdgenoten veel succes oogstte, getuige ook de herdrukken die het nog in 1733 en in 1746 beleefde. De titelpagina uit 1733 is identiek, met uitzondering van de naam van de uitgever en de spelling haer en daer (in 1693 haar en daar).
+            
+In zijn opdracht aan ‘Messieurs’ zegt Van Rusting dat hij twee redenen had om zijn werk te schrijven: omdat het soms moeilijk is mensen te begrijpen die een vreemde taal gebruiken terwijl ze deze niet beheersen, en tot vermaak. Hij beweert dat hij alleen woorden heeft opgetekend die hij – of drie informanten die hem hebben geholpen - daadwerkelijk had aangetroffen in het levende taalgebruik. Ter illustratie heeft hij in het boek na de woordenlijst een ‘kroeg-praatjen’ toegevoegd, zodat de verbasterde woorden in context worden getoond. 
+            
+Het boekje omvat slechts 100 pagina’s. In zijn ‘Berigt voor den leezer’ verklaart Van Rusting dat in de eerste woordenlijst als ingang de vreemde woorden zijn opgenomen, gevolgd door de manier waarop deze in de volkstaal gebruikt worden; die woorden worden uitgesproken op ‘onse Amsterdamse manier’. In de tweede woordenlijst zijn de ingangen juist de verbasterde woorden. Sommige van de verbasteringen herkennen we nog steeds, denk aan besoer als verbastering van bonjour, of conclementen, contelenten, contementen voor complimenten, of rinneweren voor ruïneren (Van Rusting vermeldt als verbasteringen hiervan renoveeren en verringeneeren). 
+            
+Na het kroegpraatje doet Van Rusting een oproep aan de lezer om meer voorbeelden van verbasteringen op te sturen, met veel praktische details, in hertaling: 
+            
+	Ik verzoek de snaakse geesten om woorden te verzamelen uit de hierboven beschreven taal die bij de taalgebruikers algemeen in gebruik zijn en die niet in deze Barbarologia zijn beschreven. Ik woon in Groot-Schermer  , de schuit legt in Amsterdam aan de Haringpakkerstoren aan, en vaart daarheen dinsdags en vrijdags om twaalf uur ’s middags. Als men een aantal van die woorden verzameld heeft, gelieve die naar mij te sturen en dan de porto te betalen, opdat ik ze franco krijg, omdat de schippers brieven zonder porto weigeren. Of anders naar mijn boekdrukker Johannes Rotterdam in de Harte-staat.
+            
+Het is opmerkelijk dat dit tekstje in de editie uit 1733 werd opgenomen, lang nadat Van Rusting was overleden; en de tekst blijkt zelfs aangepast ten opzichte van van die in de eerste druk uit 1693, want daar staat als uitgever Jan ten Hoorn, boven het oude Heeren Logement, vermeld. 
+            
+Hierna volgt in zowel de eerste als de tweede druk een lofdicht op het werk van de hand van H. Rampen. In de tweede druk uit 1733 volgt dan nog een toegift van vier pagina's woordenlijst, die ontbreekt in de editie uit 1693. Zou het gaan om woorden die snaakse geesten franco aan Van Rusting hebben toegezonden?
+            
+Hoewel het werk van Van Rusting tijdens zijn leven heel populair was, veranderde dat in de 18e eeuw, wellicht mede door het oordeel van Pieter Langendyk, die de omschrijving drekpoëet voor hem muntte, in een kwatrijn getiteld “Grafschrift op een drekpoëet” :
+
+Hier rot een vuns poëet, die ijvrig in zijn leven
+                Van duivels, watjekal, en dreutels heeft geschreven.
+                Paai Charon stopt zijn neus, zo stinkt het in zijn schuit,
+                Nu Rusting van de Droes met veesten wordt beluid.
+
+In 2002 gebruikte Gerrit Komrij deze term als boektitel voor een selectie van het werk van Van Rusting en vergelijkbare schrijvers: De drekpoëten. Uit het werk van Salomon van Rusting, Jan Goeree, Hermannus van den Burg en consorten. 
+            
+Het langst populair en het meest herdrukt is een dodendans die Van Rusting schreef: Het schouwtoneel des doods, verciert met 30 zinnebeelden (1707, herdr. 1726, 1735, 1741 en 1801). Dit werk werd zelfs door J.G. Meintel in het Duits vertaald als Schau-platz des Todes (1736). Van Rusting is dankzij dit werk de bekendste Nederlandstalige dodendansauteur, want dit genre kwam in Nederland en België nauwelijks voor.
+
+Gebruikte literatuur
+
+Meer informatie over Rusting en zijn werk is te vinden in:
+
+- Aa, A.J. van der e.a. (18521878), Biographisch woordenboek der Nederlanden, bevattende levensbeschrijvingen van zoodanige personen, die zich op eenigerlei wijze in ons vaderland vermaard gemaakt hebben, Haarlem, 21 delen.
+
+- Biografisch portaal: http://www.biografischportaal.nl.
+
+- Bork, G.J. van en P.J. Verkruijsse (1985), 
+
+"http://dbnl.org/tekst/bork001nede01_01/bork001nede01_01_1316.php" De Nederlandse en Vlaamse auteurs, Weesp.
+
+- Frederiks, J.G. en F. Jos. van den Branden (1888-1891), Biographisch woordenboek der Noord- en Zuidnederlandsche letterkunde, Amsterdam.
+
+- Laan, K. ter (1952),  "http://dbnl.org/tekst/laan005lett01_01/laan005lett01_01_7516.php" Letterkundig woordenboek voor Noord en Zuid, Den Haag.
+
+- Praag, J.A. van (1938), ‘Een Hollandsch epigoon van Quevedo: Salomon van Rusting’, in: Neophilologus 23, 304-401.
+
+- Witsen Geysbeek, P.G. (1824), "http://dbnl.org/tekst/wits004biog05_01/wits004biog05_01_0254.php" Biographisch anthologisch en critisch woordenboek der Nederduitsche dichters, deel 5, Amsterdam.
+
+            Inhoudsopgave van de digitale uitgave van Rusting 
+
+Barbarologia, Sijnde de Sleutel der Grandiloquentia paganismi; ofte Boeren-Latyn van Salomon van Rusting (1733)
+
+- Opdragt
+
+- Berigt voor den leezer
+
+- Barbarologia, ofte Boeren-Latyn
+
+- Twede vocabulaar, waar in het Barbarisch Boere-Latijn, voor gestelt word
+
+- Toe-gift, onder den naam van een kroegh-praatjen, in dese lekkere taal, waar in de Barbarische spreekwijzen der boeren in maniere van zamen-spraak, te berde gebracht worden
+
+- Bekent-making, aen alle liefhebbers
+
+- Slot-vers, op de Barbarologia
+
+- Toe-gift op de Barbarologie, ofte Boeren-Latyn
+
+            Gevolgde werkwijze bij het digitaliseren
+
+Diplomatische uitgave
+
+De gedigitaliseerde versie is een diplomatische weergave van de tekst, dat wil zeggen dat het origineel zo exact mogelijk is gevolgd, inclusief inconsequente spellingen, zet- en drukfouten. Ook het hoofdlettergebruik en de interpunctie van het origineel en de leestekens zijn exact overgenomen. 
+            
+Vormverschillen tussen letters zijn buiten beschouwing gelaten, omdat het gaat om betekenisloze typografische verschillen. Dus het gebruik van twee verschillende letters s (de korte en de lange s, die wat op een f lijkt) is genegeerd.
+            
+Het spatiegebruik rond leestekens is in de digitale versie genormaliseerd. In het zetsel staat een halve spatie vóór interpunctie zoals een komma (eigenlijk is er sprake van wat lege ruimte op het zetblokje voor het leesteken) en een hele spatie erna. In de digitale editie is consequent na – en niet vóór – leestekens een spatie gezet, onafhankelijk van wat er in het origineel staat. Deze keuze is gemaakt omdat het gaat om een betekenisloos typografisch verschil. 
+
+Aangepaste vormgeving
+
+De vormgeving van de oorspronkelijke tekst is in de digitale uitgave losgelaten. De regeleinden van lopende tekst komen in de digitale uitgave dus niet overeen met die in de oorspronkelijke tekst. Afgebroken woorden zijn in de digitale uitgave aaneengetikt.
+            
+In de woordenlijsten zijn de trefwoorden in romeins schrift gedrukt en de daaropvolgende woorden in gotisch schrift. In de transcriptie zijn de trefwoorden gecursiveerd en is het gotische schrift romein overgenomen. Gotische komma’s (/) zijn als normale komma’s weergegeven. Soms is een verklarend woord dat bij twee trefwoorden hoort, in het origineel slechts eenmaal afgedrukt, voorafgegaan door een accolade. In de transcriptie zijn de accolades weggelaten en is de bedoelde tekst bij ieder trefwoord herhaalt.
+
+Paginering
+
+Er is altijd aangegeven waar een nieuwe pagina in het origineel begint, en de paginanummers uit het origineel zijn overgenomen. Ongenummerde pagina’s in het origineel zijn in de transcriptie doorgenummerd. Dat er sprake is van een gereconstrueerd, toegevoegd nummer, is aangegeven door de toevoeging van een asterisk.
+            
+Custodes onder aan de pagina’s, katernnummeringen voor de drukker en binder en kopteksten boven aan de pagina zijn in de digitale uitgave genegeerd.
+
+januari 2012
+
+
+
+Opdragt.
+
+Messieurs,
+    
+’K HEb vermaek gevonden om de onervarenen (in dese lekkere taal) door dese bladen ervaren te maken, ’t is niet gants onnut, wijl men ’t somtijts quaat genoeg heeft om dat soort van volk wel te verstaan, die met haer lantstaal niet te vreden zyn, en geen andre geleert hebben. Wy hebben ’er moeyte genoeg mee gehad om ’t met ons vieren zo verre in drie jaren te brengen als gy ’t hier siet. Wy hebben geen woorden aangeteekent als die wy in gemeen gebruyk bevonden, sonder datter andre hebben mogen insluypen. Die my hier in bygestaan hebben, zyn drie respectable personen van gelove. ’K heb ’t Herbergs-praatje in de selve taal achter aangevoegt, soo kort als ’t my mooglyk dacht om alle de aangeteekende konstwoorden daar in te begrijpen, De t’Samensprekers moesten (dacht my) soodanige zyn als ik daar gesteldt heb; om dat anders alle die woorden haar behooren niet souden gehad hebben, en niet om dat ik enigsints soude van voorneemen zyn sodanige persoonen op die wijs te affronteeren: om de- se reden heeft men ook niet aangeteekent de namen van sulken als wy die woorden van gehoort hebben, ’t welk een laster soude zijn.
+
+Een Godversaaker, schelm, en dief, en eernaam-rover,
+
+En een ondankbaare, heb ik mond nog pen voor over;
+
+’t Zijn vijf ontaarden; ’k achtse stem nog letter waart.
+
+Wie, by die vijf, de drie navolgende vergaart,
+
+Een waanwijse, een die meer geluyt gebruykt, als reeden,
+
+En een die ’t all’ gelooft; is die dan wel te vreeden
+
+Met sulk een huysgesin, so zijn daar negen by
+
+Malkander, daar ik in mijn huys geen een van ly.
+
+Om de waerheydt niet te verswijgen, ’k heb het meest opgestelt, om de snaaken tijdverdrijf te geven, en tot vermaek te dienen, wijl ik daar selfs somtijts vermaak in vinde. Gebruykt het waar toe ’t u lust: en kunt gy, tot een eerlyk vermaak; soo sal ik blijven uwen toegeneygden
+
+     S. van Rusting,
+    
+     Medecinae Doct. 
+
+
+
+Berigt voor den Leezer.
+
+Waarde Leezer.
+
+OM in dese bladen alles na behooren te lezen, is van noden aan te merken, dat men in’t eerste Vocabularium leest de voorste woorden, sodanig als die, elk na sijn eygenschap gelezen moeten worden, en de beteekeningen van deselve: leest die na onse Amsterdamse manier.
+
+Waar ik twee even eensse letteren gesteld heb, gelijk tt, ss, ee (namelijk principal in de laatste syllab) sulke letteren moet men stijf uyt spreeken, volgens onse eygen taals gewoonte.
+
+In ’t tweede, daar de Boeren Barbarische Konstwoorden voorkomen, moet men sich reguleren, dat men dien regel met de eerste woorden houd, die men in’t eerste, met de tweede woorden volgen moet.
+
+Waar ik dit teeken ′ boven eenig letter 
+  
+gesteld hebbe, die moet stijf uytgesproken worden, waar ik boven een vocal twee stippen gestelt heb, daar begint een tweede syllab in beyde Vocabularien. Gelijk in ’t eerste, in een voorwoort; Poët, zijn twee syllaben: in ’t Boeren Barbarisch vind gy Poet sonder stippen boven de e, en is maar een syllab; dits voor die, die sodanigen wijse van leezen onbekent zijn. De taalkundigen sullen het alles sonder desen nota vvel lesen.
+
+
+
+Barbarologia, ofte Boeren-Latyn. So als by Voorname Boeren, en sommige Stedelingen, in Zuid- en Noort-Hollant, seer geleerdelijk van haar gesproken wort.
+
+A.
+
+ABbbreviéren, decorteeren.
+
+Abominábel, abbobenabel, resonnabel.
+
+Abscés, acces.
+
+Absólvat, apsat.
+
+Absolvéren, opserveeren, opposeeren.
+
+Abuseren, avveseeren, interesseeren.
+
+Acceptéren, attesteeren.
+
+Acces, appell.
+
+Accommodeeren, importeeren, en recommandeeren.
+
+Accordéren, succedeeren.
+
+Actie, regart, request.
+
+Addéren, transsepeteeren.
+
+Administrátie, asmenacie.
+
+Administrátor, ammenistreur.
+
+Administréren, almastreeren.
+
+Admittéren, atmonteeren.
+
+Adoptéren, annemeteeren.
+
+Adviséren, avanceeren, aveseeren.
+
+Advocát, abbekaat.
+
+Affirméren, appermeeren.
+
+Affrontéren, ignoreeren, incorbeeren, interembeeren.
+
+Agéren, heeren, angeeren.
+
+Agnus Dei, hangnes dee. 
+
+Aimábel, bindelijk.
+
+Aliënéren, allegieeren.
+
+Allimentéren, ammeleteeren.
+
+Alloy, elooy, looy, rooy.
+
+Almisseniers, armesiers, armesniers.
+
+Aloës, alewijn
+
+Alterátie, anteracie.
+
+Alteréren, altemereeren.
+
+Ambassadeur, asmedeur.
+
+Amnéstie, amnistitie.
+
+Anatomíe, antemy.
+
+Anatomiséren, antomiseeren.
+
+Animéren, estimeeren.
+
+Antipatíe, magnetismus.
+
+Apart, anpart.
+
+Apocryph, apokrijt, oppetijfs.
+
+Apostema, apsteunie.
+
+Apostíll, appell.
+
+Apostolicq, pollestijk.
+
+Applicatie, cupplecacie.
+
+Applicéren, appelleeren.
+
+Apprehensie, apperencie.
+
+Aprill, apperill.
+
+Aprobéren, appelleeren, appermeeren, avverveeren, berbiren.
+
+Apropóst, appremocie, appremoo.
+
+Arcenicum Album, opprement.
+
+Architect, archimantek, arketett.
+
+Arguéren, arreweeren, heeren.
+
+Arm, (pover) prodio.
+
+Armatúres, ammertures.
+
+Arrestéren, argesteeren, assesteeren.
+
+Arrivement, argement.
+
+Arrius, argus.
+
+Artillery, riddery.
+
+Assignátie, accemenacie, assenacie.
+    
+Assistentie, attestensie. 
+
+Assisteren, desisteeren.
+
+Asseurantie, asserandeurs.
+
+Asseuréren, consacreeren, excreëeren, exekreeren, veraccuseeren, versuykereeren.
+
+Attestatie, arristacie, assestacie.
+
+Avans, lavans, raratijt.
+
+Audi & alteram partem, auterom partom, alterom comparterom, en elderom partom.
+
+Avecq, metafek.
+
+Avontuur, cabely, porbate, portuur.
+
+Autenticq, cronijk, malpijk.
+
+Authorisatie, admenistracie.
+
+Authorityt, arroretijt, coretijt, metode raratijt, reretijt.
+
+B.
+
+BAgàge, bogaadje, bosschaadje.
+
+Balance, samblance.
+
+Bankgelt, verweertgelt.
+
+Bell’Isle, boelijn.
+
+Bemiddelen, muyteneeren.
+
+Beso los manos, balis manis.
+
+Besoignes, bresonjes.
+
+Bewinthebber, ramajer.
+
+Blameren, blatteren.
+
+Boeren ongelden, tribliane.
+
+Bombardéren, bommeneeren.
+
+Bonjour, besoer.
+Bordeaux, pardewis.
+
+Bottelbier, bobbelbier.
+
+Bougett, minjet.
+
+Brave statuur, grandetijke stableur.
+
+Bresse, blessie.
+
+Breukmeester, kuresijn.
+
+Brisach, brysack.
+
+C.
+
+CAbinet, cabiett.
+
+Cabo de finis terrae, caap de veynster.
+
+Cabouter, combouter.
+
+Cadets, camieuse.
+
+Calculeren, schraveseeren.
+
+Candia, canjen.
+
+Canonìcq, cantijk.
+
+Capabel, apcabel, compabel, excabel.
+
+Capitál, compens.
+
+Caracters, chorracters.
+
+Cardinalen, canneralen.
+
+Carduus benedictus, keerte benedictie.
+
+Cargason, carkesoen.
+
+Cariés, cranies.
+
+Cartesián, terciaan.
+
+Cassa, (gelt) militie.
+
+Cassier, cassenier.
+
+Cavéren, couweseeren.
+
+Cautie, cousie.
+
+Cedéren, stoddeeren.
+
+Cesséren, sacceeren, sicceeren.
+
+Chagrinéren, sackerneeren.
+
+Chamade, camade.
+
+Charge, sarsjes.
+
+Charité, cardaat.
+
+Chef, kef.
+
+Chyrarga, podegraaf, poortekra.
+
+Chyrurgijn, kirirgijn, kuresijn, kurgijn, schirergijn.
+
+Cholerìcq, colrich.
+
+Cinceer, sacceerigh.
+
+Circumstantie, circomferencie.
+
+Citéren, cedeeren, instrueeren.
+
+Civil, subtijl.
+    
+Classis, clasthuys, klestis.
+
+Clausul, conclusie.
+
+Climaet, clameet.
+
+Cognoscement, concement, passement.
+
+Colicq, colicompas, collect.
+
+Collatie, claasjen, grollacie.
+
+Combattanten, conquiranten.
+
+Combinatie, condemnatie.
+
+Comedianten, medecomenters.
+
+Comfoor, convojer.
+
+Commandeur, gormedeur, groveneur.
+
+Commensál, passenier, commissaal.
+
+Communicatie, commelecatie.
+
+Comparéren, commeneceeren, cattechseeren.
+
+Comparìtie, conspiracie, compenijcie.
+
+Compensatie, rampenacie.
+
+Competéren, compareeren.
+
+Complaysance, complace.
+
+Compleet, apsort.
+
+Complimenten, conclementen, contelenten, contementen.
+
+Comportemént, comparkement.
+
+Comportéren, compeseeren, deporteeren.
+
+Conclave, conkelavius.
+
+Concluberen, concluseeren, presteeren.
+
+Condemneren, condimineeren.
+
+Conditie, fonks.
+
+Condoleantie, compliance.
+
+Confiscatie, commenecacie.
+
+Congratulatie, crabbelacie, concrabbelacie.
+
+Congregatie, conspiracie, consternacie.
+
+Conjungéren, congieeren.
+
+Conjuratie, conserasie.
+
+Consciéntie, caritaat.
+
+Consent, pardon.
+
+Consenteeren, consteeren.
+    
+Consideratie, conserasie, consideragie, conversatie, secratie. 
+
+Consideréren, constrengeeren, institueeren, succedeeren.
+
+Consternatie, consignatie
+
+Constringeren, apsolveeren, consacreeren, contineweeren.
+
+Consul, constel.
+
+Consuleren, canceleeren, consumeeren.
+
+Consultatie, comsult.
+
+Consumeren, confirmeeren, considereeren.
+
+Contant, quarant.
+
+Contentement, contant.
+
+Contenteeren, accepteeren, conjungeeren.
+
+Continuatie, oppositie.
+
+Continuél fexéren, drammeneeren.
+
+Continuél, conceweerlijk, contrarie.
+
+Continuéeren, conkeleweeren.
+
+Contract, extract.
+
+Contractéren, accepteeren.
+
+Contribueren, continneeren, continneweeren.
+
+Controlléren, concludeeren, contribeweeren.
+
+Conventie, conreverentie.
+
+Conversatie, communesacie.
+
+Copiéren, copijen.
+
+Copy, compy.
+
+Cordiál, rijaals.
+
+Corpulént, corvelent.
+
+Correspondéren, verrespedeeren.
+
+Corrigeren, dicteeren, cordieeren.
+
+Corrodéren, turbeeren.
+
+Corrosiv, turbsijf.
+
+Corrumperen, incorbeeren.
+
+Corsaren, coers eyeren.
+
+Costumen, constuyme.
+
+Courage, creasie.
+
+Couragieus, curjeus.
+
+Courtoysie, cortery.
+    
+Courtoyséren met Juffren, juffrouteeren.
+
+Credit, crebet.
+
+Creditéren, creëeren, kereeren.
+
+Crediteur, crajeteur, createur, creatuur, suffisant.
+
+Crimen, krijm.
+
+Crimen laesae majestatis, crimeneele majestatis, crummelesaasjes majestaasjes.
+
+Criminél, crouweel.
+
+Croatiên, carrewasien.
+
+Curéren, corrigeeren.
+
+D.
+
+DAngereus, degereus, deusjereus.
+
+Debauchant, duvelsant.
+
+Debvoir, gevlay.
+
+Decadéntie, deferentie.
+
+Declarátie, dicclacas.
+
+Declaréren, dikklijneeren, dingeleeren.
+
+Declineren, dootceeren.
+
+Decreet, secreet.
+
+Defenderen, destrueeren, diffinieeren, verdestrueeren, succedeeren.
+
+Depescheren, deboesjeeren.
+
+Deporteren, depeteeren.
+
+Destilleren, destrueeren.
+
+Destructie, instructie.
+
+Destrueren, vertisseveeren.
+
+Diaken, diabel.
+
+Different, deverijn.
+
+Dilay, simmelacie.
+
+Diligént, defencief.
+
+Discipline, discypelijne, dispelijn, ruine, suppelijn.
+
+Discouréren, diskeneeren, discoerssen, exkereeren, maskeneeren, endeclareeren.
+
+Discours, apperencie, diskeracie, exercitie, sekoers.
+    
+Discreet, secreet. 
+
+Discretie, secreecie.
+
+Dispensatie, susplencie.
+
+Dispenséren, disteleeren.
+
+Disponéren, idem.
+
+Dispositie, supstycie.
+
+Disputéren, disteleeren, distrueeren, tispelteeren.
+
+Dominéren, domeneteeren.
+
+Dubieus, positio.
+
+Dubio, dubito, duymio, summetacie, avecacie.
+
+Dublin, duvelingen.
+
+Dupliceren, duvleceeren.
+
+E.
+
+ECclesie, verklesie.
+
+Eclypseren, tanen.
+
+Eclypsis, gripsis.
+
+Egaal, iengaal.
+
+Electie, rapport.
+
+Element, elemijt.
+
+Eminent, element.
+
+Empescheren, besjeeren, instringeereu
+
+Emplastrum, emplainstrum.
+
+Emplojeren, beplojeeren.
+
+Emporteren, impeteeren.
+
+Enarreten, vertaleeren.
+
+Engageren, ingrasseeren.
+
+Essek, esik.
+
+Esquadre, rescontre.
+
+Estime, estemijn.
+
+Estiméren, extemeneeren, meriteeren, presumeren
+
+Euangelie, evejilie.
+
+Europa, ropeka.
+
+Examinateur, exameteur.
+
+Examineren, exemeeren.
+
+Excessiv, exercief, exestief.
+
+    Exellentie, eskelencie.
+
+Exeptie, conclusie
+
+Excuse, accuys.
+
+Excuseren, eckeseeren, exerceeren, veraskereeren, verassereeren, verrespedeeren.
+
+Exempel, excepcie.
+
+Exempt, exept.
+
+Experientie, alcemenacie, espertencie, montsijsie.
+
+Experiment, temperement.
+
+Expliceren, espelceeren.
+
+Exploict, compact.
+
+Extract, compact.
+
+Extreem, estiem, notoor, octrooy.
+
+F.
+
+FAbriceren, fabrijken, volbreeken, verbreeken.
+
+Fabricq, verbreek.
+
+Facon, fansoen, fransoen, rantsoen.
+
+Failleren, fallideeren.
+
+Fameilliár, famiaals.
+
+Fameillie, manielje.
+
+Fantasyen, havesyen.
+
+Faveur, deveur, devoor, fageur, favoriet.
+
+Fexeren continuél, drammeneeren.
+
+Fidei Commis, fijne koemis, vuyle koemis, vierde koemis.
+
+Finál, fiaal, vertaal.
+
+Finis, snert.
+
+Fistul, epistel, fissel.
+
+Floréren, flyeeren.
+
+Fondament, (den aars) voddement.
+
+Forcéren, fortificeeren, futceeren.
+
+Fournéren, verneeren.
+
+Fraay, octrooy.
+
+Frequentéren, frickeceeren.
+
+Fricadellen, crockedillen.
+
+    Friseren, prijseeren. 
+
+Functie, fonks, vuncie.
+
+Furie, vurye.
+
+G.
+
+GAillartje, galjasje.
+
+Galóp, clofje.
+
+Gargarisma, gorgelisma.
+
+Gaudéren, patreeren.
+
+Geaffronteert, mijneedigt.
+
+Gealtereert, veralteriseert.
+
+Geappaiseert, contrilleurt.
+
+Geaprobeert, parbiert.
+
+Gecharmeert, gesjambreert.
+
+Gecontenteert, gecontracteert.
+
+Gecureert, coeriert.
+
+Geêmpescheert, instringeert.
+
+Geêngageert, ingegresseert.
+
+Geêxamineert, geëxament.
+
+Geltbeurs, militie.
+
+Gemaalin, gevelin.
+
+Generál, jeender, jeenderaal.
+
+Generéren, geneeren.
+
+Genereus, curieus.
+
+Geoffenseert, mijneedigt.
+
+Gepromoveert, peprefereert.
+
+Gequalificeert, gequadefuceert.
+
+Geraffineert, geraffieert.
+
+Gerieven, recommandeeren.
+
+Geruineert, gereuneveert.
+
+Gespecificeert, mannefijk.
+
+Gestudeert, soldeert.
+
+Gevalueert, verweels.
+
+Gouvernement, defensie, govenment, goverment.
+
+Gouverneur, gormedeur, groveneur.
+
+Gracie, recracie.
+
+    Guarande, granen. 
+
+Garnison, cargisoen.
+
+H.
+
+HAlte, apprensie.
+
+Heremijt, jeremijt.
+
+Honorabel, rommenabel.
+
+Hoorn en Soutgelt, tribliane.
+
+Horcus, corpus.
+
+Hospes, horsmus, hosmus.
+
+Hostie, hosie.
+
+Hostilityt, sosseletyt.
+
+Humeuren, lameure, lamore, maneuren, mameursjes, regeuren, rumeuren.
+
+Huys-koop conditie, inventaris.
+
+Huwen, frequenteeren.
+
+Hyeronimus, jerodemus.
+
+Hypoteek, appeteek, appetijk.
+
+    I.
+
+JAlours, feljoers, jaaploers, lejoers.
+
+Jalousy, jollesy, jelesy.
+
+Japan, lappon.
+
+Ignorantie, innomenancie.
+
+Ilico, eleko, elekoe, illekoe.
+
+Illumineren, ammeljeeren.
+
+Imagineren, mijnteneeren.
+
+Impertinent, imparkement, pertinent.
+
+Importantie, repensaliën.
+
+Importeren, imbesteeren.
+
+Impotent, imbetent, insolvent, patent.
+
+Impotentie, kermeneringh.
+
+Incommoderen, inflecteeren.
+
+Incorporeeren, imbarkeren.
+
+Infante, infantery.
+
+    Infecteren, inflecteeren. 
+
+Ingenieur, verbreek.
+
+In Presentie, improcens.
+
+Inquireren, defendeeren.
+
+Inquisitie, inkesticie.
+
+In Ruine, intotaliter.
+
+Insinueren, instreweeren.
+
+Insolencie, insolvent.
+
+Insolvent, indevent.
+
+Inspectie, expeccie, refleccie.
+
+Institueeren, insinneweeren, inseleeren.
+
+Instrumenten, eskerenten.
+
+Intentie, request.
+
+Interdict, interdijk, invertedict, rediccie.
+
+Interesse, intresacie.
+
+Interesseren, exkeseeren.
+
+Inventaris, simmetaris.
+
+Invisibel, impesibel.
+
+Journal, jeenderaal, ordenaal.
+
+Jurisdictie, juredoxie.
+
+Juweel, bordeel.
+
+    K.
+
+KErken-order, fonks van formacie.
+
+Kuys, komfuys.
+
+        L.
+
+LAbeur, reubeur.
+
+Labyrínt, labberdaan.
+
+Laodocea, laurodicia.
+
+Lavéren, braveeren.
+
+Leverancié, calandise.
+
+Leverancier, leverier.
+
+Liberaliteyt, ralityt.
+
+Licentie, audientie.
+
+ Legitima portio, litle parporcie, lutje porcie. 
+
+Ligue, lingen.
+
+Liquidéren, likkedeeren.
+
+Litigatie, clammacie.
+
+Logéren, lodjysen, logijsen, ajysen.
+
+Lumiéren, blameeren, lameeren.
+
+Luxurieus, glorieus.
+
+Lymbus patrum, simbolum.
+
+    M.
+
+MAdamoiselle, memmeselle
+
+Magnificq, mannefijk,
+
+Magnificentie, mangnecencie, mannefecencie.
+
+Maintineren, maunteneeren, muyteneeren.
+
+Majombe, mooy dobbe.
+
+Majoor, minjeur.
+
+Malcontenten, marketenters.
+
+Mandament, bannissement, mantestament.
+
+Manifest, manjefest.
+
+Manquement, contelement.
+
+Manqueren, valideeren.
+
+Manuscript, mambersiript.
+
+Marás, (moeras) mattras.
+
+Marchandise, familjaarschap, mars.
+
+Marchéren, fatsjeeren.
+
+Máterialen, marterialen.
+
+Mediateur, admiateur, midlateur.
+
+Medicynen, millesijnen.
+
+Medicinæ Doctor, docter remedecus et medecynecus.
+
+Melancholicq, impertinent, mankolijk.
+
+Melisse, ammenicie.
+
+Mengen, disteleeren.
+
+Mentie, mossenacie.
+
+Mesnageren, patreeren.
+
+Meubele goederen, interest mobilia, meumelen.
+
+Ministerium, magisterium.
+
+Mode, meljeur, mooyte, mote. 
+
+Modést, bedest.
+
+Molestie, quacsatie.
+
+Molest, molett.
+
+Monsjeur, beseur, meseur.
+
+Montecúculi, montesusuli.
+
+Moscovien, beschoopjen.
+
+Movéren, laveeren.
+
+Multipliceeren, confermeeren, dubbleceeren, dulpteceeren, mullepeceeren.
+
+Murmuréren, appelleeren, despeteeren.
+
+    N.
+
+NArmoustiers, armentiers, heerbertier.
+
+Navigatie, haverdegracie.
+
+Negare est prima regula juris, nemeere is primere rejelum susis.
+
+Negéren, nemeere.
+
+Negotie, ingocie.
+
+Neutrál, luyteraals, miliaar, offencief en defencief, rebberaal.
+
+Nominatie, nommerasie.
+
+Nompareille, nommerelle.
+
+Notariál, noteraal.
+
+Notéren, translateeren.
+
+Notificatie, modefecacie.
+
+Nouvelles, pasquillen.
+
+    O.
+
+OBligatie, obelgacie.
+
+Occasie, appetijt.
+
+Octróy, doctrooy.
+
+Odiéus, resonnabel.
+
+Offendéren, incorbeeren.
+
+Ongelden, costuyme.
+
+Opposéren, abbeseeren, opserveeren.
+
+Oratie, juratie.
+
+Order, seffect.
+
+Ordonnantie, vollenancie.
+
+Ordonnéren, constringeeren, ordre pareeren, recommandeeren, rijneeren.
+
+Oréren, oratiëeren.
+
+Oronbaar, (onkundige) poweet.
+
+Ortodox, ortedoctis.
+
+        P.
+
+PAraat, compleet.
+
+Paraphréren, papefreeren.
+
+Paroxismus, proxetismus.
+
+Partageren, verhancelen, verhantceneeren.
+
+Partiaal, parcenaal, speciaal, specialigh.
+
+Participantem, parcelepanten.
+
+Particulier, pickelier, tekeleer.
+
+Paícedul, passement.
+
+Passagier, passenier, sauwenier.
+
+Passéren, pubbleceeren.
+
+Passie, pais.
+
+Pastyen, parsewajen.
+
+Pastor, pastoraal.
+
+Patient, patent.
+
+Patientie, cossencie, pavencie.
+
+Patmos, matfos.
+
+Pauséren, paweseeren.
+
+Peccéren, vacceeren, vecceeren.
+
+Pendanten, pedanten.
+
+Pensionaris, prinstenaris.
+
+Perplex, verplex.
+
+Persoon, posant.
+
+Personeel, parcieel.
+
+Pertinax, pomposigh.
+
+Phantasyen, flaresyen.
+
+Philippus, pellevis, pullevus.
+
+Philosooph, vuylesoop. 
+
+Philosopheren, filesofelare.
+
+Philosophíe, cilofecy, filofecicie.
+
+Placaat, applecacie.
+
+Plenipotentiaris, blindaris, plinnepetaris.
+
+Pleytsuchtigh, punteneurigh.
+
+Podagra, podegraaf, poortekra.
+
+Poët, poet.
+
+Poësy, polesy.
+
+Poinct d’honneur, punctueer.
+
+Polít, poletijk.
+
+Politicq, polentijk.
+
+Polypus, colicompas.
+
+Positive, parcieel.
+
+Possessor, protecter.
+
+Postulant, apostelant.
+
+Potgelt, verweertgelt.
+
+Pourmenéren, imbroseeren, fatsjeeren.
+
+Practiséren, disputeeren, packeseeren.
+
+Præcipitat, prespetaat, pressemetaat.
+
+Predecesseur, predestenateur.
+
+Preferéren, prefeceeren.
+
+Prejudicéren, prefeceeren.
+
+Preparéren, disteleeren.
+
+Present, percent, contant.
+
+Presentatie, prottestacie.
+
+Presentéren, presentablen, pressemeteeren.
+
+Preses, priesjes.
+
+President, pirsedent, present.
+
+Presumeren, proffeteeren, sommeeren, succedeeren, verordeneeren.
+
+Presumptie, apsoncie, besonjes, nemancie, presumacie.
+
+Pretenderen, prockendeeren, prospereeren.
+
+Pretentie, appell.
+
+Principalen, parcialen, pircepalen.
+
+Procedéren, prossendeeren.
+
+Procés, pretest, protest.
+
+Procuréren, prokreëeren. 
+
+Pro Deo, inprocium, pro didio, prote deo.
+
+Professor, massesser, pronovesser.
+
+Profijt, poffetabel, porbate, portuur.
+
+Prognosticatie, pornostefecacie, pronogosticacie.
+
+Progressen, perkressen.
+
+Prologue, proluvië.
+
+Promotie, provoosty.
+
+Promoveren, provosteneeren.
+
+Propheteren, murmereeren, promoveeren.
+
+Propoost, pervoost, provoost, secoers.
+
+Proponént, accedent, prottendent, provendent.
+
+Proponéren, aprobeeren, figuren, opteneeren, probeeren, vilegeeren.
+
+Propositie, promoocie.
+
+Protectie, protestacie.
+
+Protesteren, procesteeren.
+
+Protocoll, pattekrol, brittekol, pretekol, murgoll.
+
+Proviand, provant.
+
+Provoost, prepoost.
+
+Publicéren, pleceeren.
+
+Publicq, pummelijk.
+
+Purgatie, prekacie, prokreacie, procuratie.
+
+Purgéren, brageeren, prekeeren.
+
+Puur, (suyver) soeveryn.
+
+            Q.
+
+QUaat, sammereus.
+
+Qualificéren, deputeeren.
+
+Qualityt, qualitie, quasidie, valejisie.
+
+Quantityt, quanstityt.
+
+Querelleren, pretendeeren.
+
+Querell, clammacie.
+
+Questie, costijf, foncie, questuur, request.
+
+Quohier, cujeur, cujier, kejeer.
+
+Quote, costuyme.
+
+                R.
+
+RAillery, rellery.
+
+Raisonnabel, rijsenavel.
+
+Ranunculus, (flos) arunkelis.
+
+Rasen, rammenten.
+
+Rebellen, remellens.
+
+Recept, respect.
+
+Recognicie, prokkenicie.
+
+Recommanderen, accommodeeren.
+
+Recompens, reconverencie.
+
+Redden, rammenten.
+
+Redemptie, redempie.
+
+Regéren, constrengeeren.
+
+Relás, sallaris, solaas, vertaal.
+
+Relatéren, vertaleeren.
+
+Rendevous, levoes.
+
+Renegáde, rijnegart.
+
+Renommabel, variabel.
+
+Renovéren, renneweeren.
+
+Reparatie, reperdatie.
+
+Reparéren, conseleeren, prospereeren, verhancelen, verhantceneeren, refeleeren.
+
+Repetéren, repperteeren, ripperteeren.
+
+Repriménde, rapprement, remerement, replement.
+
+Reproberen, probbeeren.
+
+Reputatie, remportatie.
+
+Request, conquest.
+
+Rescontre, discontre.
+
+Residentie, resendencie.
+
+Resolveren, apsolveeren.
+
+Resolut, revelduyts.
+
+Respect, qualitie, quasidië, eloquencie.
+
+Respective, ypetijbe.
+
+Respondéren, plojeeren.
+
+Respyt, respect. 
+
+Restanten, magistrande.
+
+Restéren, sisteeren.
+
+Restituéren, controlleeren, institueeren, stuyteweeren.
+
+Resuméren, reverseeren.
+
+Resumptie, resumnacie.
+
+Retiréren, addeeren.
+
+Retour, recteur.
+
+Revenge, revanje.
+
+Reverentie, deverencie.
+
+Revéue, revasie.
+
+Reviséren, presemeeren.
+
+Revisie, servisie.
+
+Risico, avigacie.
+
+Roffián, roffeljan.
+
+Ruffinus de Breukmeester, roffianus, de kuresijn.
+
+Ruine, ruijne.
+
+Ruineren, renoveeren, verringeneeren.
+
+                    S.
+
+SChismaticq, schimmestijk.
+
+Scholieren, schoolders.
+
+Schrupuleus, schrimpeljeus, schrippeljeus.
+
+Secours, discoers.
+
+Secunde, disconde.
+
+Secretaris, sikketaris.
+
+Secretary, sekeratijn.
+
+Secretéren, arresteeren.
+
+Sententioneren, senteneeren.
+
+Sentiment, sentenciement.
+
+Singulier, simpelier.
+
+Sire, sirich.
+
+Soetelaar, soeselaar.
+
+Sollicitéren, stollesteeren.
+
+Somméren, sinneweeren.
+
+Soulagement, versolaseeringh.
+
+Spargéren, propereeren. 
+
+Speciál, spetieel.
+
+Speculatie, propoost.
+
+Speculéren, ordeneeren, pauseeren, schraveseeren, spelleleeren, spikkelteeren.
+
+Spetie, spijs.
+
+Spitheat, spijtegat.
+
+Stampaden, stambaren, stamblades.
+
+Statuyt, riunie.
+
+Stranguleren, strangeleseeren.
+
+Stratagema, strategemis.
+
+Strict, destrict.
+
+Studenten, studio.
+
+Studeeren, disteleeren, stoddeeren, studeleeren.
+
+Studie, studatie, stuudjen.
+
+Subject, subjuyt.
+
+Subjectie, subedicie.
+
+Subtil, civiel.
+
+Sublimaat, summelenaat.
+
+Substituyt, apstuyt, supstuyt, suypschijtuyt.
+
+Succedéren, sicceeren.
+
+Succés, exekrocie, successie, suces.
+
+Sudoriferum, sudorum.
+
+Summa totalis, somma tot alles.
+
+Suite, suijte.
+
+Suppliant, supplekant.
+
+Suppoosten, suspoosten.
+
+Suppositorium, schriptorium, suppestorium.
+
+Suppuréren, susfereeren.
+
+Suspicie, superstitie, huyspuycie.
+
+Sustineren, succedeeren, surceneeren, arrestereren.
+
+Sustinúe, susteny.
+
+Synagoge, sinoge, sjenogootjes.
+
+    T.
+
+TAliter qualiter, (telle quelle) ater kater.
+
+Tandem bona causa triumphat, causa, camfa, tromfa. 
+
+Tardéren, interdeeren.
+
+Tedieus, infaam.
+
+Temperament, temperaliment.
+
+Termen, terne.
+
+Testatéren, testementeeren.
+
+Theologant, dolegant.
+
+Thresaurier, tresecier.
+
+Totaliter, totalyter, totory.
+
+Tout a faict, tefect, toetefrett.
+
+Touts jours, toeresjoeres.
+
+Tour, touwer.
+
+Transformatie, transferstasie.
+
+Translatéren, transseleteeren.
+
+Transport, ranceport.
+
+Transportéren, trancepeteeren.
+
+Transsubstantiatie, transferstasie.
+
+Tribuleeren, tribbeleeren.
+
+Trifolium odoratum, drifoelium admeralte.
+
+Troebel, tribbel.
+
+Tumult, reumult.
+
+        V.
+
+VAcant, ficantigh, vierkant.
+
+Vacantie, vacasie, vicancie, vierkant.
+
+Vacatie, faccie.
+
+Valeur, valejisy.
+
+Variabel, fabriaal, fabriabel, feberabel, fyverabel, valiabel.
+
+Vassal, sevaal, wastaal.
+
+Vehiment, viheemelt.
+
+Venison, visioen.
+
+Venten, (verkopen) appelleeren.
+
+Verraden, verdeffendeeren.
+
+Vigilant, viggelent, vligelant.
+
+Visitéren, monteeren.
+
+Voyage, vykasie. 
+
+Vonnis, vondelis, vommis, sommis.
+
+Vrybuyt, sauvegarde.
+
+Usantie, wijsancie, instancie, funccie.
+
+Usurpateur, sirpesteur.
+
+Usurpéren, sirpeseeren.
+
+
+
+Twede Vocabulaar, Waar in het Barbarisch Boere-Latijn, voor gestelt word.
+
+A.
+
+ABbecaat, advocat.
+
+Abbeseeren, opposeeren.
+
+Abbobenabel, abominabel.
+
+Accemenàcie, assignatie.
+
+Accepteeren, contenteren.
+
+Accéss, absces.
+
+Accident, proponent.
+
+Accommodeeren, contracteeren, en recommanderen.
+
+Accuys, excuse.
+
+Addeeren, retireren.
+
+Admenistracie, authorisatie.
+
+Admiateur, mediateur.
+
+Addresse van Venten, wakkere kerels.
+
+Ajys, logijs.
+
+Alcemenacie, experientie.
+
+Alewijn, aloës.
+
+Allegieeren, aliëneren.
+
+Almastreeren, administreren.
+
+Altemereeren, altereren.
+
+Ammeleteeren, allimenteren.
+
+Ammeljeeren, illumineren. 
+
+Ammenicie, melisse.
+
+Ammenistreeren, administreren.
+
+Ammertures, armatures.
+
+Amnistitie, amnestie.
+
+Angeeren, ageren.
+
+Annemeteeren, adopteren.
+
+Anpart, apart.
+
+Antemy, anatomie.
+
+Anteracie, alteratie.
+
+Antoniseeren, anatomiseren.
+
+Apcabel, capabel.
+
+Apocryt, apocryph.
+
+Apostelant, postulant.
+
+Appell, apostill en pretentie, acces.
+
+Appeleeren, appliceren, en aproberen, en murmureren, en venten.
+
+Apperencie, apprehensie, en discours.
+
+Appermeeren, affirmeren, en aproberen.
+
+Apperill, aprill.
+
+Appeteek, hypoteeq.
+
+Appetyk, hypoteecq.
+
+Appetyt, occasie.
+
+Applecatie, placat.
+
+Appremocie, a propost.
+
+Apprensie, halte.
+
+Appromoo, a propost.
+
+Aprobeeren, appelleren, en proponeren.
+
+Absat, absolvat.
+
+Apsolveeren, constringeren, en resolveren.
+
+Apsoncie, presumptie.
+
+Apsort, compleet.
+
+Apsteuni, apostema.
+
+Apstuyt, substituyt.
+
+Argement, arrivement.
+
+Argesteeren, arresteren.
+
+Argemantek, architect.
+
+Arketett, architect. 
+
+Armesiers, almisseniers.
+
+Armesniers, almisseniers.
+
+Arresteeren, secreteren, en sustineren.
+
+Arreweeeren, argueren.
+
+Arristatie, attestatie.
+
+Arrius, argus.
+
+Arroretyt, authorityt.
+
+Arunkelis, ranunculus (flos.)
+
+Asmedeur, asseurandeur.
+
+Asmenacie, administratie.
+
+Assenacie, assignatie.
+
+Asserandeurs, asseurantie.
+
+Assereeren, arresteren.
+
+Assestacie, attestatie.
+
+Ater kater, taliter qualiter, (telle quelle.)
+
+Admonteeren, admitteren.
+
+Attesteeren, accepteren.
+
+Attestencie, assistentie.
+
+Auderom komparterom, audi et alteram partem.
+
+Audiëncie, licentie.
+
+Auterom partom, audi et alteram partem.
+
+Avanceeren, adviseren.
+
+Aveseeren, adviseren.
+
+Avecacie, discours.
+
+Avegacie, risico.
+
+Averveeren, aproberen.
+
+Avveseeren, abuseren.
+
+    B.
+
+BAlis manis, beso los manos.
+
+Bannissement, mandament
+
+Bedest, modest
+
+Bplojeeren, emplojeren.
+
+Berbiren, aproberen.
+
+Beschoopjen, moscoviën.
+
+Beseur, monsieur. 
+
+Besjeeren, empescheren.
+
+Besonjes, presumptie.
+
+Besoer, bonsjour.
+
+Bindelyk, aimabel.
+
+Blameeren, lumieren.
+
+Blatteeren, blameren.
+
+Blessis, bress.
+
+Blindáris, plenipotentaris.
+
+Bobbelbier, bottelbier.
+
+Boelyn, bell’isle.
+
+Bogaadjie, bagage.
+
+Bommeneeren, bombarderen.
+
+Bordeel, juweel.
+
+Bosschaadje, bagage.
+
+Brageeren, purgeren.
+
+Bresonjes, besoignes.
+
+Brittecoll, protocoll.
+
+Brysack, brisach.
+
+    C.
+
+CAbejett, cabinett.
+
+Cabely, avontuur.
+
+Calandise, leverancie.
+
+Camade, chamade.
+
+Camieuse, caders.
+
+Canceleeren, consuleeren.
+
+Canjen, candia.
+
+Cannerálen, cardinalen.
+
+Cantyk, canonicq.
+
+Caap de Veynster, cabo de finis terre.
+
+Cardaat, caritat (charite.)
+
+Cargesoen, guarnison.
+
+Carkesoen, guarnison.
+
+Carrewasien, croatien.
+
+Caretaat, conscientie.
+
+Cassenier, cassier. 
+
+Cattechseeren, compareeren.
+
+Causa camfa trompha, tandem bona causa triumphat.
+
+Cedeeren, citeren.
+
+Chorrecters, caracters.
+
+Cicceeren, cesseren en succederen.
+
+Cilofecicie, philosophie.
+
+Circomferencie, circumstantie.
+
+Civìl, subtyl.
+
+Claasje, collatie.
+
+Clameet, climaat.
+
+Clammacie, litigatie.
+
+Clasthuys, classis.
+
+Clofje, galopp.
+
+Coeriert, gecureert.
+
+Colicòmpas, ’t colics, en polypus.
+
+Collect, ’t colicq.
+
+Combouters, cabouters.
+
+Comfuys, cast’, (huys.)
+
+Commelecacie, communicatie.
+
+Commeneceeren, compareren.
+
+Commenecacie, confiscatie.
+
+Commissaal, commensal.
+
+Commocie, passetemps.
+
+Communisatie, conversatie.
+
+Compact, exploict, en extract.
+
+Compabel, capabel.
+
+Compareeren, competeren.
+
+Comparkement, comportement.
+
+Compartinent, comportement.
+
+Compeseeren comporteren.
+
+Compéns, capital.
+
+Compenycie, comparitie.
+
+Compleet, paraat.
+
+Compliance, condoleantie.
+
+Complace, complaysance.
+
+Compy, copy. 
+
+Conseracie, conjuratie.
+
+Comsult, consultatie.
+
+Concément, cognoscement.
+
+Conceweerlyk, continuel.
+
+Concidereeren, consumeren.
+
+Conclement, compliment.
+
+Concludeeren, controlleren.
+
+Concluseeren, concluderen.
+
+Conclusie, exceptie, clausul.
+
+Concrabbelaacie, congratulatie.
+
+Concingnacie, consternatie.
+
+Condemnacie, combinacie.
+
+Condiminacie, condemnatie.
+
+Confeleeren, repareren.
+
+Confermeeren, multipliceeren.
+
+Confirmeeren, consumeren.
+
+Congieeren, conjungeren.
+
+Conjungeren, contenteeren.
+
+Conkelavius, conclave.
+
+Conkeleweeren, continueren.
+
+Conquest, request.
+
+Conquiranten, combattanten.
+
+Conreverencie, conventie.
+
+Consacreeren, asseureren, constringeeren.
+
+Consarcie, concherche.
+
+Conseracie, consideratie.
+
+Consideragie, idem.
+
+Conspiracie, congregatie, en comparitie.
+
+Constereeren, consenteren.
+
+Consteeren, consenteren.
+
+Consternacie, congregatie.
+
+Constil, consul.
+
+Constringeeren, accommoderen, en ordonneeren.
+
+Constrengeeren, considereeren, en regeeren.
+
+Constuymen, costumen.
+
+Consuleeren, consumeren.
+
+Consumeeren, consuleren. 
+
+Contant, contentement, en present.
+
+Contelement, manquement.
+
+Contelent, compliment.
+
+Contement, idem.
+
+Continuweeren, constringeren.
+
+Continneeren, contribueren.
+
+Continneweeren, contribueren.
+
+Contrarie, continuel.
+
+Contribeweeren, controlleren.
+
+Contrilleurt, geappaiseert.
+
+Controlleeren, restitueren.
+
+Conversatie, consideratie.
+
+Convojer, comfoor.
+
+Copyen, copiëren.
+
+Coracieeren, encourageeren.
+
+Cordieeren, corrigeeren.
+
+Coretyt, authorityt.
+
+Corregeeren, cureren.
+
+Cortery, courtoysie.
+
+Corvelent, corpulent.
+
+Cossencie, patientie.
+
+Costyf, questie.
+
+Costuyme, quote, (ongelden.)
+
+Cousie, cautie (borg.)
+
+Cours eyeren, corsaren.
+
+Couweseeren, caveren.
+
+Crabbelacie, gratulatie.
+
+Crajeteur, crediteur.
+
+Crajetuur, creatuur.
+
+Craniës, cariës.
+
+Creásie, courage.
+
+Createur, crediteur.
+
+Crebet, credit.
+
+Creêeren, crediteren.
+
+Criminéle majetatis, crimen læsæ majestatis.
+
+Crockedillen, fricadellen.
+
+Cronyk, authenticq.
+
+Croweel, criminel.
+
+Crummelesaasjes majestaasjes, crimen læsæ majestatis.
+
+Cujeur, quohier.
+
+Cujier, quohier.
+
+Cupplecacie, applicatie, supplicatie.
+
+Curieus, couragieus, en genereus.
+
+    D.
+
+DEboesjeeren, depescheren.
+
+Declareeren, discoureren.
+
+Decorteeren, abbrevieren.
+
+Defencief, diligent, (neerstigh.)
+
+Defendeeren, inquireren.
+
+Defensie, gouverno.
+
+Deferencie, decadentie.
+
+Degereus, dangereus.
+
+Depeteeren, deporteren.
+
+Deporteeren, comporteren.
+
+Deputeeren, qualificeren.
+
+Desisteeren, assisteren.
+
+Despeteeren, murmureren.
+
+Destrueeren, defenderen, en destilleren.
+
+Deverencie, reverentie.
+
+Deveryn, different.
+
+Devleceeren, dupliceren.
+
+Deveur, faveur.
+
+Devoor, faveur.
+
+Deusjereus, dangereus.
+
+Diabel, diaken.
+
+Dicclacás, declaratie.
+
+Diffinieeren, defenderen.
+
+Dikteeren, corrigeren.
+
+Dingeleeren, declareren.
+
+Discoers, secours.
+
+Discoerssende, discourerende.
+
+Disconde, secunde. 
+
+Discontre, rescontre.
+
+Discypelijne, discipline.
+
+Diskeneeren, discoureren.
+
+Diskeracie, discours.
+
+Dispelyn, discipline.
+
+Disputeeren, practiseren.
+
+Disteleeren, is een gants sinryk woort want het betekent dese ses: namelijk, dispenseeren, disponeren, disputeren, mengen, prepareren, en studeren.
+
+District, strict.
+
+Distrueeren, disputeren.
+
+Doctor remedecus & medecynecus, medecijne doctor
+
+Doctrooy, octrooy.
+
+Doft, verklickers bedieningh.
+
+Dolegant, theologant.
+
+Domineteeren, domineren.
+
+Dootceeren, declineren.
+
+Drammeneeren, continuel, fexeren.
+
+Driefoelium admeralte, trifolium odoratum.
+
+Dubbleceeren. multipliceeren.
+
+Dulpteceeren. multipliceeren.
+
+Dubito, dubio.
+
+Duymio, dubio.
+
+Duvelceeren, dupliceeren.
+
+Duvelingen, dublin.
+
+Duvelsant, debauchant.
+
+    E.
+
+EEngaal, egaal.
+
+Ekkeseeren, excuseren.
+
+Elderom partom, audi et alteram partem.
+
+Eleko, ilico.
+
+Elekoe, ilico.
+
+Element, eminent.
+
+Elemyt, element. 
+
+Elooy, alloy.
+
+Eloquencie, respect.
+
+Empleynstrum, emplastrum.
+
+Epistel, fissel.
+
+Eskelencie, exellentie.
+
+Espertencie, experientie.
+
+Espilceeren, expliceren.
+
+Estemyn, estime.
+
+Esterenten, instrumenten.
+
+Estiem, extreem.
+
+Estimeeren, animeren.
+
+Evejilie, euangelie.
+
+Exameteur, examinateur.
+
+Excabel, capabel.
+
+Execrocie, succes.
+
+Exemeeren, examineren.
+
+Exept, exempt.
+
+Exeptie, exempel.
+
+Exerceeren, excuseren.
+
+Exercief, excessive.
+
+Exestief, excessive.
+
+Exercitie, discours.
+
+Exekreeren, asseureren.
+
+Exkreëeren, asseureren.
+
+Exkereeren, discoureren.
+
+Exkeseeren, interesseren.
+
+Expectie, inspectie.
+
+Expriencie, correspondentie.
+
+Extemeneeren, estimeren.
+
+Extract, contract.
+
+    F.
+
+Fabriaal, variabel.
+
+Fabriabel, variabel.
+
+Fabryken, fabriceren.
+
+Faccie, vocatie. 
+
+Fageur, faveur.
+
+Fallideeren, failleren, en valideren.
+
+Famiaals, familiaar.
+
+Familjaarschap, marchandise.
+
+Fansoen, façon.
+
+Fatsjeeren, marcheren.
+
+Favoriet, faveur.
+
+Feberabel, variabel.
+
+Feljoers, jalours.
+
+Fiaal, final.
+
+Ficantigh, vacant.
+
+Figuren, proponeren, beramen.
+
+Filefocície, philosophie.
+
+Filesofelare, philosopheren.
+
+Fineur, humeur.
+
+Fyne koemís, fidei commis.
+
+Fissel, fistul.
+
+Fyverabel, variabel.
+
+Flaresyen, phantasyen.
+
+Flyeeren, floreren.
+
+Fommis, vonnis.
+
+Foncie, questie.
+
+Fonks, functie, en conditie.
+
+Fonks van formacie, kerken order.
+
+Fortificeeren, forceren en negeren.
+
+Fransoen, façon.
+
+Frequenteeren, huuwen (trouwen.)
+
+Frickeceeren, frequenteeren.
+
+Funccie, usantie.
+
+Futceeren, forceren.
+
+        G.
+
+GAlgasje, gaillartje.
+
+Gecontracteert, gecontenteert.
+
+Geêxament, geëxamineert.
+
+Geneeren, genereren. 
+
+Geprefereert, gepromoveert.
+
+Gequadefuceert, gequalificeert.
+
+Geraffieert, geraffineert.
+
+Gereuneveert, geruineert.
+
+Gesjambreert, gecharmeert.
+
+Gevelin, gemalin.
+
+Gevlaay, debvoir.
+
+Glorieus, luxurieus.
+
+Gorgelisma, gargarisma.
+
+Gormedeur, commandeur, en gouverneur.
+
+Groveneur, gouverneur.
+
+Govenment, gouverno.
+
+Goverment, gouverno.
+
+Grandetyke stableur, brave statuur.
+
+Granen, guarande.
+
+Gripsis, eclypsis.
+
+Grollacie, collatie.
+
+            H.
+
+HAngnes dee, agnus dei.
+
+Haverdegracie, navigatie.
+
+Havesyen, fantasiën.
+
+Heerbertier, narmoustiers (insula.)
+
+Heeren, ageren (disputeren.)
+
+Horcus, corpus, (corps.)
+
+Horsmus, hospes
+
+Hosmus, hospes.
+
+Hosie, hostie.
+
+Huyspuycie, suspitie.
+
+                I.
+
+JEender, general.
+
+Jeenderal, journal, en generaal.
+
+Jelesy, jalousy.
+
+Jeremyt, heremyt. 
+
+Jerodémus, hyeronimus.
+
+Ignoreeren, affronteren.
+
+Illekoe, illico.
+
+Imbarkeeren, incorporeren.
+
+Inbesteeren, importeren.
+
+Imbetent, impotent.
+
+Imbroseeren, pourmeneren (wandelen.)
+
+Imparkement, impertinent.
+
+Impertinent, melancolicq.
+
+Impesibel, invisibel.
+
+Impeteeren, emporteren.
+
+Importeeren, accommoderen.
+
+Impresibel, impossibel.
+
+Imprócens, in presentie.
+
+Incorbeeren, affronteren, en corrumperen.
+
+Indevent, insolvent.
+
+Infaam, tedieus.
+
+Infantery, infante.
+
+Inflecteeren, incommoderen, en infecteren.
+
+Ingegresseert, geëngageert.
+
+Ingrasseeren, engageren.
+
+Inkesticie, inquisitie.
+
+Innomenancie, ignorantie.
+
+Inprocium, in decadentie, en pro deo.
+
+Insolvent, impotent, en insolentie.
+
+Inseleeren, institueeren.
+
+Infineweeren, idem, en distribueren.
+
+Instancie, usantie.
+
+Institeweeren, constitueeren, en restitueren.
+
+Instringeeren, empescheren.
+
+Instriweeren, citeren, en insinueren.
+
+Instructie, destructie.
+
+Interdeeren, tarderen.
+
+Interdyk, interdict.
+
+Interembeeren, afrronteren.
+
+Intereseeren, abuseren, en empescheren, en occuperen. 
+
+Interest mobilia, meubile goederen.
+
+Intotaliter, in ruine.
+
+Intresatie, interesse.
+
+Inventaris, huys-coop-conditie.
+
+Invertedict, interdict.
+
+Jollesy, jalousy.
+
+Juffrouwteeren, met juffren courtoyseren.
+
+Juratie, oratie.
+
+Juredoxie, jurisdictie.
+
+Ypetybe, respective.
+
+                    K.
+
+KAbaly, avontuur.
+
+Keerte benediccie, carduus benedictus.
+
+Kef, chef.
+
+Kejeer, quohier.
+
+Kereeren, crediteren.
+
+Kermeneering, doloreus, en impotentie.
+
+Klasthuys, classis.
+
+Klestis, classis.
+
+Kolrich, colericq.
+
+Krym, crimen
+
+Kuresyn, breukmeester.
+
+Kurregyn, chyrurgyn.
+
+Kurirgyn, chyrurgyn.
+
+Kurgus, chyrurgyn.
+
+    L.
+
+LAbberdaan, labyrinth.
+
+Lameure, humeuren.
+
+Lamore, humeuren.
+
+Lappón, japan.
+
+Lavant, avans.
+
+Laveeren, moveren.
+
+Laurodicia, laodicea. 
+
+Lejoers, jalours
+
+Leverier, leverancier.
+
+Levóes, rendevous
+
+Lingen, ligue.
+
+Litle parportie. legitima portio.
+
+Lutje porcie. legitima portio.
+
+Lodjysen, logeren.
+
+Logysen, logeren.
+
+Looy, alloy.
+
+Luyteraals, neutral.
+
+    M.
+
+MAgisterium, ministerium.
+
+Magistrande, restanten.
+
+Magnetismus, antipatie.
+
+Majefest, manifest.
+
+Malpyk, authenticq.
+
+Mamberstript, manuscript.
+
+Mammeursjes, humeuren.
+
+Mangnecencie, magnificentie.
+
+Mannefecencie, magnificentie.
+
+Mannefyk, gespecificeert, en magnificq.
+
+Mannielje, familje.
+
+Mankolyk, melancolicq.
+
+Marketenters, malcontenten.
+
+Mars, marchandise.
+
+Marteriale, materialen.
+
+Massesser, professor.
+
+Maskereeren, discoureren.
+
+Matfots, patmos.
+
+Matras, moeras.
+
+Maunteneeren, maintineren.
+
+Medecomenters, comedianten.
+
+Meljeur, mode (swier.)
+
+Memancie, presumptie.
+
+Memmeselle, madamoiselle. 
+
+Meriteeren, estimeren.
+
+Messeur, monsjeur, en ma seure.
+
+Metafek, avecq.
+
+Metode, authorityt.
+
+Meumele, meubilen.
+
+Midlateur, mediateur.
+
+Miliaar, militair, en neutral.
+
+Militie, cassa, (de geltbeurs.)
+
+Millesynen, medicijnen.
+
+Minjeur, majoor.
+
+Modefecacie, notificatie.
+
+Molett, molest.
+
+Monteeren, visiteren.
+
+Móntesusuli, montecuculi.
+
+Montsysie, experientie.
+
+Mooydobbe, majombe.
+
+Mossenacie, mentie.
+
+Mooyte, mode (swier.)
+
+Moote, mode (swier.)
+
+Mullepeceeren, multipliceren.
+
+Murgoll, protocoll.
+
+Murmureeren, propheteren, en speculeren.
+
+Muyteneeren, bemiddelen, en maintineren.
+
+Myneedigt, geoffenseert.
+
+Mynteneeren, imagineren.
+
+    N.
+
+NEmeere, negeren.
+
+Nemere is primere rejelum susis, negare est prima regula juris.
+
+Nommerásie, nominatie.
+
+Nommerelle, nompareille.
+
+Noteraal, notorial.
+
+Notoor, extreem.
+
+     O.
+
+OBelgacie, obligatie.
+
+Octrooy, extreem, fraay, de rechte slagh van doen.
+
+Offencief en defencief, neutral.
+
+Oppetyfs, apocryph.
+
+Oppositie, continuatie, absolutie.
+
+Opprement, arcenicum album (gemeen rottekruyt.)
+
+Opserveeren, absolveren, en abuseren.
+
+Opteneeren, proponeren.
+
+Oratieeren, oreren.
+
+Ordenaal, journal.
+
+Ordeneren, speculeren.
+
+Ordre pareeren, ordonneren.
+
+Ortedoctis, ortodox.
+
+        P.
+
+PAckeseeren, practiseren.
+
+Pais, passie.
+
+Papefreeren, paraphreren.
+
+Parbiert, geaprobeert.
+
+Parcelepanten, participanten.
+
+Parcenaal, partial.
+
+Parcieel, positive.
+
+Parcialen, principalen.
+
+Pardewis, bordeaux.
+
+Pardon, consent.
+
+Parsewajen, pastyen.
+
+Parsonaal, partial.
+
+Passement, cognoscement, en pascedul.
+
+Passenier, commensal, en passagier.
+
+Pasquillen, nouvelles die gedrukt zijn, en gelijk als postijdingen verkoft worden. 
+
+Pastoraal, pastor.
+
+Pattreeren, gauderen, en mesnageren.
+
+Patént, impotent, patient.
+
+Pattekroll, protocoll.
+
+Pauseeren, speculeren.
+
+Pavencie, patientie.
+
+Pawefeeren, pauseren.
+
+Pedanten, oor-pedanten.
+
+Pellevis, philippus.
+
+Percent, present.
+
+Perkressen, progressen.
+
+Pertenent, impertinent.
+
+Pervoost, propoost.
+
+Pickelier, particulier.
+
+Pircepaal, principal.
+
+Pirsedent, president.
+
+Pleceeren, publiceren.
+
+Plinnepetaris, plenipotentaris.
+
+Plojeeren, responderen.
+
+Podegraaf, podagra, pschiadica etc.
+
+Poët, poet.
+
+Poffetabel, profijt.
+
+Polentyk, politicq.
+
+Poletyk, polit.
+
+Polesy, poesy.
+
+Pollestyk, appostolicq.
+
+Pomposyk, pertinax.
+
+Porbate, profijt, en avontuur.
+
+Pornostefecacie, prognosticatie.
+
+Portuur, avontuur, en profijt.
+
+Poortekraa, idem quod podegraaf.
+
+Posant, persoon.
+
+Posito, dubieus.
+
+Poweet, een oronbaar ofte onkundige.
+
+Predestenateur, predecesseur.
+
+Prefeceren, prefereren, en prejudiceren.
+
+Prekacie, predicatie, en purgatie. 
+
+Prekeeren, purgeren.
+
+Prepoost, provoost.
+
+Presemetaat, precipitat.
+
+Presemeeren, reviseren.
+
+Present, president.
+
+Presentablen, presenteren.
+
+Prespetaat, precipitat.
+
+Pressemeteeren, presenteren.
+
+Presteeren, concluderen.
+
+Presumacie, presumptie.
+
+Presumeeren, estimeren.
+
+Pretendeeren, querelleren.
+
+Pretekoll, protocoll.
+
+Pretest, proces.
+
+Priesjes, preses.
+
+Prinstenaris, pensionaris.
+
+Pryseeren, friseren.
+
+Probbeeren, reproberen.
+
+Probeeren, ondersoeken, en proponeren.
+
+Proxetismus, paroxismus.
+
+Procesteeren, protesteren.
+
+Procuratie, purgatie.
+
+Pro didio, pro deo.
+
+Pródio, pover, (arm.)
+
+Proffeteeren, presumeren.
+
+Prokkendeeren, pretenderen.
+
+Prokkenicie, recognitie.
+
+Prokreacie, purgatie, en vomitorium.
+
+Prokreêeren, procureren.
+
+Proluvie, prologe.
+
+Promócie, propositie.
+
+Promoveeren, propheteren.
+
+Pronevesser, professor.
+
+Pronogosticatie, prognosticatie.
+
+Propoost, speculatie.
+
+Prospereeren, pretenderen, repareren, en spargeren. 
+
+Prossendeeren, procederen.
+
+Protekter, possessor.
+
+Protest, proces.
+
+Protestacie, presentatie, en protectie.
+
+Prottendent, proponent.
+
+Prottent, pretentie.
+
+Provant, proviande.
+
+Provendent, proponent.
+
+Provoost, propoost.
+
+Provoostie, promotie.
+
+Provosteneeren, promoveren.
+
+Pubbelecéren, passeren.
+
+Pullevus, philippus.
+
+Pummelyk, publicq.
+
+Punteneurigh, plytsuchtigh.
+
+Puntueur, poinct d’honneur.
+
+    Q.
+
+QUacsatie, molestie.
+
+Qualitie, qualityt.
+
+Quanstityt, quantityt.
+
+Quanstum suft, quantum sufficit.
+
+Quasidië, qualityt.
+
+Quarant, contant.
+
+Questuur, questie.
+
+        R.
+
+RAlityt, liberalityt.
+
+Ramajen, redden.
+
+Ramajer, bewinthebber, (fac totum.)
+
+Ramenten, rasen, en redden.
+
+Rampenacie, compensatie.
+
+Ranceport, transport.
+
+Rantsoen, façon.
+
+Rapport, electie (keur.) 
+
+Rapprement, reprimende.
+
+Raratyt, avans, en authorityt.
+
+Ravasie, reveue.
+
+Rebberaal, neutral.
+
+Rebelleeren, triumpheren.
+
+Recommandeeren, accommodeeren, en ordonneren.
+
+Reconverencie, recompens.
+
+Recraacie, gratie.
+
+Recteur, retour.
+
+Redempie, redemptie.
+
+Rediecie, interdict.
+
+Refeleeren, repareren.
+
+Refleccie, inspectio.
+
+Regart, actie.
+
+Regeur, humeur.
+
+Rellery, raillery.
+
+Remellens, rebellen.
+
+Remerement, reprimende.
+
+Remportacie, reputacie.
+
+Reneweeren, renoveren.
+
+Renoveeren, ruineren.
+
+Repensalien, importantie.
+
+Repperdacie, reparatie.
+
+Replement, reprimende.
+
+Repperteeren, repeteren.
+
+Reprehensie, pretentie.
+
+Request, questie, en actie, en intentie.
+
+Reretyt, authorityt.
+
+Recontre, esquadre.
+
+Resendencie, residentie.
+
+Resonnabel, abominabel.
+
+Respect, respijt.
+
+Resumacie, resumptie.
+
+Reubeur, labeur.
+
+Reumult, tumult.
+
+Revanje, revenge.
+
+Revelduyts, resolut. 
+
+Reverseeren, resumeeren.
+
+Riddery, artillery, en ruytery.
+
+Ripperteeren, repeteren.
+
+Riunie, statut of wet.
+
+Ryaals, cordial.
+
+Ryneeren, ordonneeren.
+
+Rynegart, renegade.
+
+Rysenavel, raisonnabel.
+
+Roffeljan, roffiaan.
+
+Roffianus de Kuresyn, ruffinus de breukmeester.
+
+Rommenabel, honorabel.
+
+Rooy, alloy.
+
+Rópeka, europa.
+
+Ruine, discipline.
+
+Ruyne, ruine.
+
+Rumeure, humeure.
+
+    S.
+
+SAcceeren, cesseren.
+
+Sacceerig, cinceer.
+
+Sackerneeren, chagrineren.
+
+Sallaris, relas.
+
+Samblance, balans.
+
+Sammereus, quaat zijnde.
+
+Sarsjes, charge, (dienst.)
+
+Sauvegarde, vrybuyt.
+
+Sauwenier, passagier.
+
+Schirergyn, chyrurgijn.
+
+Schraveseeren, calculeren, en speculeren.
+
+Schrimpeljeus, schrupuleus.
+
+Schrippeljeus, schrupuleus.
+
+Scriptorium, suppositorium.
+
+Schoolders, scholiren.
+
+Schummestyk, schismaticq, (questieus.)
+
+Secoers, discours, en propoost.
+
+Secratie, consideratie. 
+
+Secreecie, discretie.
+
+Seffect, order.
+
+Seketaryn, secretary.
+
+Senteneeren, sententioneren.
+
+Sentenciement, sentiment.
+
+Servisie, revisie.
+
+Sevaal, vassal.
+
+Sicketaris, secretaris.
+
+Sjenogootjes, synagoge.
+
+Simbolum, lymbus patrum.
+
+Simmelaacie, dilay.
+
+Simmetaris, inventaris.
+
+Simpelier, singulier.
+
+Sinneweeren, sommeren.
+
+Sinoge, synagoge.
+
+Sirick, sire.
+
+Sirpeseeren, usurperen.
+
+Sirpesteur, usurpateur.
+
+Sisteeren, resteren.
+
+Snert, finis.
+
+Soeselaar, soetelaar.
+
+Soeveryn, suyver.
+
+Solaas, relaas.
+
+Soldeert, gestudeert.
+
+Somma tottálles, summa totalis.
+
+Sommeeren, presumeren.
+
+Sosseletyt, hostilityt.
+
+Speciaal, partial.
+
+Specialig, partial.
+
+Specieel, special.
+
+Spelleleeren, speculeren.
+
+Spikkelteeren, speculeren.
+
+Spijs, spetie.
+
+Spytegat, spitheat.
+
+Stambaren, stampaden.
+
+Stamblades, stampaden.
+
+Stoddeeren, cederen, en studeren.
+
+Stollesteeren, solliciteren.
+
+Strangeleseeren, stranguleren.
+
+Stratageemis, stratagema.
+
+Studatie, studie.
+
+Studeleeren, studeren.
+
+Stuudjen, studie.
+
+Studio, studenten.
+
+Stuyteweeren, restitueren.
+
+Subedicie, subjectie.
+
+Subjuyt, subject.
+
+Suces, succes.
+
+Successie, succes.
+
+Succedeeren, accorderen, en considereren, en presumeren, en sustineren, en defenderen.
+
+Sudorum, sudoriferum.
+
+Suffisant, crediteur.
+
+Summelenaat, sublimaat.
+
+Summetácie, dubio.
+
+Supersticie, suspicie.
+
+Suppelyn, discipline.
+
+Suppestorium, suppositorium, (settpil.)
+
+Supplecant, suppliant.
+
+Supstuyt, supstituyt.
+
+Supstycie, dispositie.
+
+Suptyl, civil.
+
+Surceneeren, sustineren.
+
+Susfereeren, suppureren.
+
+Susplencie, dispensatie.
+
+Suspoosten, suppoosten.
+
+Susteny, sustinue.
+
+Suypschytuyt, substituyt.
+
+Suyte, suite.
+
+    T.
+
+TAnen, eclypseren.
+
+Teféct, tout a faict. 
+
+Tekelier, particulier.
+
+Témperálíment, temperament.
+
+Temperement, experiment.
+
+Terne, termen.
+
+Tertiane, cartesianen.
+
+Testementeeren, testateren.
+
+Tispelteeren, disputeren.
+
+Toeresjoeres, touts jours.
+
+Toetefret, tout a faict.
+
+Totalyter, totaliter.
+
+Totóry, totaliter.
+
+Touwer, tour.
+
+Transferstasie, transformatie, en transsubstantiatie.
+
+Translateeren, noteren.
+
+Transseleteeren, translateren.
+
+Transsepeteeren, adderen, en transporteren.
+
+Tresecier, thresaurier.
+
+Tribbel, troebel en oorlogh.
+
+Tribbeleeren, tribuleren.
+
+Tribliane, boeren ongelden, (sout en hoorngelt.)
+
+Turbeeren, corroderen.
+
+Turbsyf, corrosiv.
+
+    V.
+
+VAcasie, vacantie.
+
+Vacceeren, pecceren.
+
+Valejisie, valeur, en qualityt.
+
+Valiabel, variabel.
+
+Valideeren, manqueren.
+
+Van den been, tambien.
+
+Variabel, renommabel.
+
+Veraccuseeren, asseureren.
+
+Veralteriseert, gealcereert.
+
+Veraskereeren, excuseren.
+
+Verassereeren, idem. 
+
+Verbreek, fabricq, ingenieur.
+
+Verbreeken, fabriceren.
+
+Verdeffendeeren, verraden.
+
+Verhancelen, pertageren en repareren.
+
+Verhantceneeren, pertageren en repareren.
+
+Verklesie, ecclesie.
+
+Verneeren, fourneren.
+
+Verordeneren, presumeren.
+
+Verplex, perplex.
+
+Verrespedeeren, corresponderen, en excuseren.
+
+Verringeneeren, ruineren.
+
+Versolaseering, soulagement.
+
+Versuykereeren, asseureren.
+
+Vertaal, final en relas.
+
+Vertaleeren, enarreren, en relateren.
+
+Vertisseweeren, destrueren.
+
+Verweels, gevalueert.
+
+Verweertgelt, bankgelt, potgelt, spaargelt.
+
+Vecceeren, pecceeren.
+
+Viabel, variabel.
+
+Vicancie, vacant, en vacantie.
+
+Viercan, vacant, en vacantie.
+
+Vierde koemis, fidei commis.
+
+Vilegeeren, proponeren.
+
+Viggelant, vigilant.
+
+Vliegelant, vigilant.
+
+Vliggelant, vigilant.
+
+Viheemelt, vehement.
+
+Visioen, venison.
+
+Vykasie, vojage.
+
+Voddement, ’t fondament, (den aars.)
+
+Volbreeken, fabriceren.
+
+Vollenancie, ordonnantie.
+
+Vommis, vonnis.
+
+Vondelis, vonnis.
+
+Vuncie, functie.
+
+Vurge, furie. 
+
+Vuylekoemis, fidie commis.
+
+Vuylesoop, philosooph.
+
+    W.
+
+WAstáal, vassal.
+
+Wik of wak, avontuur.
+
+Wysancie, usantie.
+
+
+
+Toe-gift, Onder den Naam van een Kroegh-Praatjen, In dese Lekkere Taal, Waar in de Barbarische Spreekwijzen der boeren in maniere van Zamen-spraak, te berde gebracht worden.
+
+Kroegh-Praatjen,
+
+Tusschen de volgende Perzoonen.
+
+Mr. Ian, een Barbier.
+Makkers, beyde
+
+Kees, een Bootsman.
+Oostindies-vaarders.
+
+Een Waart.
+
+Stoffel, een Boeren Procureur, en roesigh.
+
+Mr. Ioost, een Boeren Barbier.
+
+Iaap, een Boer, die ’er mee onder loopt, als de Rottestront onder de Peper.
+
+De twee eersten komen soo aanstonts ter Herberg in, daer sy de rest vinden; al te samen mannen van sodanige waarde, als haar verheven Taal, en spreekwijs, vertoont.
+
+Kroegh-Praatje.
+
+       Mr. Ian, Kees, Een Waart, Stoffel, Mr. Ioost, Iaap.
+
+       Mr. JAN.
+
+BEsoer Horsmus, hebje appetijt om ons te ajysen, en te ammeleteeren? we bennen twee Posanten, die met de Recteurschepen uyt Lappòn komen: ons gelt hebben we gustren geattesteert; zo dat we de militie in ons minjeit hebben; en zo je ons wel importeert, zo sta je porbaate, van rysenaavele en ryaalse gasten te hebben, die goet van rooy zinnen, en niet licht sammereus worden.
+
+       WAART.
+
+Wellekom Beseurs. Kom maar in. Ik consacreer je dat wel succedeeren selien; want waar wat lavans is, bin ik gaauw by; en parciaal metafek sauweniers te lodjysen die zulke addresse van Venten bennen, as jy luy: belieft je hier as Passeniers te logysen? an mijn sel niets valideren, om je wel te recommandeeren.
+
+Sy daar op in de gemeene haart komende, setten sich by de rest aen een tafel, daar se, door de Waart van drank versorgt worden.
+
+       Mr. JOOST.
+
+Beseurs, je lijkt wel groote camîeuse te wesen waar voor heb je gevaren?
+
+       Mr. JAN.
+
+Ik heb veur opper Kurregijn gevaren, en mijn maat veur Boosman; en dat alle bey met quasidië: hy heeft groote montsysie van de Haverdegràcie, en hy is octrooy om ’t volk met coretyt te groveneeren, trots een Gormedeur van de Miliaaren: ’t is ook (lyk je siet) een grandetyke stabelèur en hy deporteert hem wel.
+
+       Mr. JOOST.
+
+Had ik wat communesaacie, met een Ramaajer van de Compagnie, ’k wou dat vykaàsietje ook een rys of twee frikkeceeren: ik bin ook een Schirergijn, en heb te voet geimbroseert in carrewasiën; ’k heb Eesik helpen impeteeren; en ik heb te Bry-sak, en te Pardeewis, en van den been met de Vloot te Spijtegat geweest: en ik proffeteer datter omtrent vier jaren gepubliceert bennen, dat ik noch an Caap de Veynster was: en nou dispeteer ik in dit Dorp, daar ik van provoost ben te frequenteeren, so dra mijn Vryster coriert sal wesen van haar kermeneering; eer kan ik het niet berbieren.
+
+       Mr. JAN.
+
+Is je lieste insolvent? en is’t al wat van repensaliën? of imbesteert het wynigh?
+ 
+       Mr. JOOST.
+
+Se het een proxetismus van ’t collect, en een accés an er bil: ’k hebse al een scriptorium in er voddement gesett, en een procuratie doen inbarkeeren: en nou is er een Doctor Remeedecus et Medecijnecus tot mijn attestencie by; die sel me nou desisteeren, daar ik wel mee geaccepteert bin, om dat ik mit em cousumeeren kan, tot ons aller contant: want ik ben van fonks dat ik me wel wil laten inseleeren, als ’t maar sonder interembeeren geschieden kan. ’t Is een man octrooy van alcemenacie, die quanstum suft van temperamenten het. Geen wonder; want hy het gedisteleert by een element Masseser, estiem inde Millesynen gepresumeert. We bennen er ook an ingegresseert: want as hy noch accedent was, was hy op myn lieste gesjambreert; en de hele manielje had propoost in hem, om zyn bindelyk maskeneeren. Hy het se nou een respett geconstringeert, dat se al met goet execroocie geconsidereert het; en dat mamberstript van hem, sal ik mooytjes in myn vollenancieboek gaan translateeren, om daar na ook eens myn poffetaabel daar mee te doen.
+
+       Mr. JAN.
+
+So succedeer ik dan, dat je luy er gesonthyt wel sult controlleeren: dat sal wel sicceeren dewyl er geen geprovostoneert posant over packeseert. Maar ben je al veraccuseert dat hy zyn provoostie brief heeft? of is dat posito.
+ 
+       Mr. JOOST.
+
+Ik heb daar wel apperencie van met hem gehad; maar hy exekreerde me, dat dat sonder duymio was; oock dat hy er een malpijke arristacie van in zyn cabiétt had: en ook dat hem het dikteeren van zyn juratie gelt gekost had: en dat hy op een conspiracie, met zyn Pronovesser, desselfs gevelin, en eenige studio die met hem soldeert hadden, wel vyftigh gulden geconfirmeert had, en hy het op zyn caritaat gedicklyneert, dat hy de hosmus met verweels gelt betaalde.
+
+       STOFFEL.
+
+Was dat vondelis dan niet met rampenacie van kosten, lyk men hier contrarie senteneert? en was hy daar so mee geconjungeert? of was de hele conspiracie van Schepenen geincorbeert? was ’t so, so was ’t degereus prossendeeren voor Docter pellévis: maar hy moest compy van ’t fommis geprospereert hebben, en daar mee om een comsult, by een secreet Abbecaat van estemyn gegaan hebben, die espertencie had, en die dan zyn zaak defencief vertaleert hebben: ik sou succedeeren dat hem dat misschien versolaseering sou gegeven hebben. Ik ben van besonjes dat ik dat vommis probbeeren sou, ten zy hy er zelf mee gecontracteert was.
+
+       Mr. JOOST.
+
+Dat zyn maar havesyen die jy daar opteneert 
+  want hy had geen foncie. Hy dee zelf een elemente grollacie disteleeren, daar crockedillen, visioenen en parsewajen geconcidereert wierden. So revelduyts was hy tot complace van de maats, en tot deverencie van zyn massesser (een cortery daar em nimant toe contineweeren kon) om te tonen dat hy gedisteleert was lyk een man van secrecie behoort, na ’t excepcie van andre: want ’t is een octrooy en curieus Kerel; daars geen contelement an. Hy zou hem ook mynteneeren dat hy vecceeren zou, so hy de constuyme niet volgde.
+
+       KEES.
+
+Appremocie, ’k was eens te Beschoopje; daar was de meljeur doe, glorieus te wezen. Ik was bedést: zo dat ik er over appelleerde teugen d’anderen. En endlyk juffrouteerde ik ook; doch zonder quacsaatie an de Memmeselles te sirpeseeren. So dat ik dingeleeren wil, dat ik d’instancie mee volgde: ja ’k maakten er myn vuncie van, as of ’k er toe gequadefuceert was. En in dat resonnabel labberdaan verdwaalde ik, tot ik geinflecteert was: doch onze Kurgijn corrigeerdeme estiem snel, mit wat pressemetaat, dat hy er met een empleynstrum op appelleerde. Doe moest ik wat cossencie hebben: maar ik wiert viheemelt getribbeleert.
+
+       JAAP.
+
+Elleweken! wiert jy geapsolveert om zo veul costuyme en tribliant te geven, as ik, de   
+creaasie sou je wel totoorie dootceeren: of je most je gevlaay willen doen om in deferencie te raken. Maar ik surceneer dat ik uyt de Sjenegootjes raken sou, so ’k niet comfuys leefde: want ik ben diaabel, en moet op de fonks van formacie ordeneeren, op dat ik me wel composeer in mijn fonks, en op dat onze ypetybe pastoraal die vry còlrich is, my niet voor ’t Klasthuys, doet commeneceeren: want so ’k me dan niet verdestrueeren kon, was ik toeresjoeres geincorbeert. En dat soud een resonnabel request maken; daar een heel pretést uyt volgen sou; en ik wil niet pretendeeren met de Verkleesie.
+
+       Mr. JAN.
+
+Maar confrater, institueer je wel, dat we so van onse exercitie allegieeren? sacceert die apsteuni an je liestes bil? of sal ’t susfereren?
+
+       Mr. JOOST.
+
+Dat excreëer ik je. ’t Wou niet apsolveeren. So het nou pardon gegeven, om er met een turbsyf een gat in te turbeeren. Docter Pullevus seyt, as dat gebeplojeert wort, sal hy ze wat ammenicie water ingeeven; dats nommerelle om ’t hart en ’t gantsche horcus te starken. Hy is geen terciaan, daarom meriteer ik hem hoogh. ’t Is ook een man van remportatie.
+
+       Mr. JAN.
+
+Is hy ook al een notoor Vuylesoop? kan hy   uyt de cilofecy filesofelaare? en ken hy de elemyten en temperalimenten espelceeren? en verstaat hy hem op de pornostefecatie?
+
+       Mr. JOOST.
+
+O dat jem daar eens van hoorden exkereeren! hy is uyt gestoddeert. Hy kan transsepeteeren, dulpteceeren, en duvleceeren. Hy weet wat gripsis en tanen is, in heel Ròpeka (nimant exept) sal nimant beter dicclacass daar van geven. Dats toetefrétt: een Dolegant sel sen Evejilie niet beter noch civielder oratieeren. Hy deedt een pronogosticacie, doen hy myn Vryster quam monteeren, dat se van de keerte benedictie diese geinbarkeert had, niet brageeren sou. ’K vroeg of hy niet avverveeren sou, dat se een sudoorum sirpeseerde? daar deed hy een mannefyk sollaaris; arreweerende, dat het colicompas een magnetismus tegen die millesijnen had. Alewijn (seyd hy) is ook niet apcabel genoegh.
+
+       M. JAN.
+
+Dat appermeer ik: want ik heb eens een cràniës coriert, en daar vond ik se ook niet excàbel, in epistels ook niet; en in gorgelismus is se van slechte valejisie.
+
+       STOFFEL.
+
+Dat sou te bedistrueeren staan: want volgens deveryne riuunies en secreeten, is ’t crouweel imant de gorgel af te snijden. Die regel is sonder conclusie. De Beul soud er viggelent 
+  sonder interdeeren mee voortgaan en hem strangeleseeren. So dat je promoocie so wat aterkater is: want as de priesjes en al de Schepenen daar contant zyn, soud ik verôrdeneeren dat de bank apsòrt is. Onlangs wiert ik myneedigt van een dikke plodje van een mooydobbe die me fortificeerde als een helsche vurge, om dat ik tot devoor van seker supplecant inprocium quam prokreëeren. ’K sal ’t je vertaleeren; ’t was een duvelsant: sen vaar had getestementeert, en al zyn goederen vuylekoemis gemaakt (behalven zyn interest mobilia) tot versuykereering, dat zyn Seun niet prodio, noch de Boel indevent raken sou. Hy quam met my canceleeren; en sey, dat hy veul suffisanten had daar een groote consignatie onder was: En dat hy so wynig crébet had, dat hem nimant meer creëeren wou, om dat hy maar sirpesteur was. Ik sommeer (seyd ik) so je my een rommenabele reconverencie beloven wilt, dat ik wel audiêntie krijgen sal, dat je ten minsten protecter van de litle parporcie worden selt. Dat sel niet fallideeren, daar konje dan me patreeren. Dan sou ik flyeeren (seyd hy) en ik sou een galgásje danssen, soo dat geappelleert wiert; en anders ben ik gereuneveert: want men creatuurs souden me in apperencie doen setten, so ’k niet by tijts addeerde. En so geignoreert te worden, is om een man impertinent te maken. Help me doch (seyd hy) uyt cardaat prodidio! ik ben compleet (seyd ik) en sal myn gevlay doen:   meer kan ik niet presentaablen. Ik ging by de Presént, daar ik een groote proluvië maakte, hoe hy die fynekoemis goederen tot zyn ingocie prackendeerde, protesteerende van goet comparkement te sullen zyn, so men de luije porcie maar onder zyn prootestaacie stelde. Wel (sey de Pirsedent) is dat sijn appéll? wyl sijn Vaar mijn spetieel was, sal ik veur hem stollesteeren, en doen dat variabel is, om te sien of ik susplencie krijgen kan, om de vierdekoemis goederen los te krygen, als de vierkant uyt is. Ik lichte een compact uyt het pattekról, en men deboesjeerde er een met een conquest heen die famiaals was met de Beseurs, en die quam in ’t kort, op een clofje, avanceèren, dat het conquest parbiert was. So dat hy cronijke admenistracie kreeg, om selfs defensie over sijn goederen te hebben, en die te constrengeeren: en sulx is non van de Sicketaris, ter Sekeratyn, ook in ’t murgoll geset.
+
+       Mr. JOOST.
+
+Ey verassereerme Stoffel! is dat geen strategeemis om ons van onse diskeracie te brengen? my dunkt dat ik sulke superstitie krijgh.
+
+       STOFFEL.
+
+Dat nemeer ik met arroretyt: want nemeere is primere rejelum susis. En wilje je teuge me opserveeren, so moet je, met seffect, je self detrueeren, om dat je appermeert: anders sou ik my geincorbeert extimeneeren. Dies so je harsle- nen wel van substycie bennen, so begin vry sonder der simmelaacie te disteleeren.
+
+       Mr. JOOST.
+
+Hoor Stoffel! als ik niet instringeert bin, lyk nou, wil ik wel met je diskeneeren, maar niet tispelteeren. Dies exerceerme dat ik accuys versoek! je wilt me wel disteleeren, doe je niet?
+
+       STOFFEL.
+
+Ja ’k maatje. ’K opposeer je, om dat je andere bresonjes frekeseert. Ik wil wel conversatie gebruyken : want wyl ik geen costijf noch clammaacie maken wil, soo hou ik niet van imant insolvent te doen.
+
+       DE WAART.
+
+Ik van den been, hoewel ik een Miliaare sargjes bedient heb, tegen de Reméllens in Yrlant: daar heb ik duvelingen helpen impeteeren. Heerbertier en Boélyn heb ik helpen brantschatten. Ook heb ik gedient onder Mòntesusuly, dat kan ik noteraal toonen. We namen een stat die in ’t mattràss leyde: we quamen er met het blameeren van den dagh voor fatsjeeren met onse krijgs eskerenten, en we namen expeccie hoe we se best inflecteeren souden. Onse Ieenderaal pareerden order dat men se de commelecaacie met andre Steden eerst instrìngeeren moest, en besjeeren se in ’t attenstencie te verhopen. Op ons argement worde de stat en sen juredoxie 
+  opgeëyst: maar die ’t Govenment had zey, dat hy Cargisoen en provant genoegh had, om de stat te destrueeren: so dat hy niet van mameurjes was, om se te transsepeteeren, wyl hy er by geexkeseert was: ook was hem van sen pircepaal, daar hy Wastaal van was, invertedíct gedaan. Doe onze Riddery quam, bommeneerde we se, en schooten een bléssie. Doe dede we se modefecaacie dat we stormen souden, en so we dommeneteerden, dat we de stat vertisseweeren zouden, datter niets van sisteeren zoude, en dat die instruccie voor sen ygen avegàcie wezen zoude. Hv kreeg drie uren respect om te plojeeren. Onderwyl quam er discoers dat een compact op ons voor nam: we altemereerden honts: maar die anteraacie sicceerde weer.
+
+       KEES.
+
+Dat consteer ik: want mijn ammertuures is myn Hangnes Dee; en daar mee durf ik tegen de Droes angeeren, so ’k me niet interresseer: eerst veralteriseer ik wel; maar dan word ik weer curjeus.
+
+       IAAP.
+
+Dats appetijfs. ’K hou meer van dingen die ortedoctis, zonder circomferencie, met pollestyke raratyt, gediscoerst worden. Of je luy met Ierodeemus en die maats, ankomt; je moet de waarhyt defendeeren, inprocéns de Bybel: en die maakt geen mossenaacie die Cantijk of   
+parcieel is, om daar uyt te presteeren dat de Paapse fabelen geen rellery zyn. Ik pickelier, en al mijn predestenateurs in ’t jeender, zouden jou durven contribeweeren: want myn sentenciment is, dat je luy maar schimmestijken bent. Lees je in de Bybel van een transferstaasie? en dat men onder subedìcie van de Paus en Canneraalen leven moet? en dat men in een conkelavius gaen moet, om de rapport van een niewe Paaus te doen.
+
+       KEES
+
+O hoo! alterom comparterom! een beetje slagh houden.
+
+       IAAP.
+
+Ik weet van elderom partom nog van pompstok: succedeer jy me uyt de Bybel, dat ik je geopteneert heb.
+
+       KEES.
+
+Noch eens auterom partom. Je hebt een Diaabel voor.
+
+       IAAP.
+
+Al had ik Belsebuyk voor: dat bruyt me niet. Om dat men horcus met dat Hangnes Dee gewapent is.
+
+       KEES.
+
+’k Wil zeggen dat je geen poweet van innomenancie voor hebt. Ik ben van susteny dat jy niet een Cantijke Text uyt de Bybel cedeeren 
+  selt, om daar mee te concluseeren dat jy alleen doctrooy om te oratieeren hebt. En daarom spreek so speciaal niet eens met sulke mannefecencie.
+
+       Mr. IAN.
+
+’t Is best dat jy luy contrilleurt wort; daar wil ik wel een Kan Bobbelbier toe continneweeren: is dat geen suptijle prottestaacie? want ik schraveseer dat je luy in questuur zult raaken.
+
+       STOFFEL.
+
+Ben jy al gedeputeert om admiateur te wesen? wat laveert jou daar toe, wyl je niet offencief en defencief bent? zy maken niet veel stamblàdes: noch se doen mekaar geen molétt. Laat elk zyn saak maunteneeren: en laten zy er voor couweseeren wat er van komen kan. As se mekaar niet blatteeren, zo heeft men ’t niet te muyteneeren. Maar se moesten een extact maken, om mekaar niet pertinent toe te spreken.
+
+       Mr. IAN.
+
+Ik wou dat ze de terne van er secoers wat decorteerden, op dat de Horsmus in zyn solaas. mocht conkeleweeren, op dat we daar ’t fiaal van kregen, want ik pauseer vast hoe die tribbel afliep.
+
+       WAART.
+    
+Door een mantestamént hoort destrict verbo- den te zyn, dat nimant eens anders vertaal stoorde. En dat moest plummelyk gepleceert, en applecaacies daar van aangeplakt wesen; en die door de Prinstenaris ondertekent en gepapefreert. En wie er sich tegen abbeseerde die moest door een Prepoost, of zyn ypetijbe suybschijtuyt (die onder zyn subedície angeeren moest) na het Ylant Matfots gevoert worden. Exept en Hosmus, in ’t huys van zyn residentie: die moest geprefeceert zyn om verrespedeert te worden. Als die combouters daar een jaar onder ruine geleeft hadden, kon men een jeenderale amnisticie pleceeren op dat de remellens weer quamen: doch dan moest haar geaccommodeert wezen, zo ze in er vorige mooyte in oppositie bleven, dat ze al so exercive suppelyn zouden te lyden hebben, crummelesaasjes majestaasjes gedaan hadden.
+
+       STOFFFEL.
+
+Crimineele majestatis is te district. Maar dat ze dan door een conquest, compliance verzochten, ’t zou niet imparkement wezen, dat men ze voor die reys noch eckeseerde: mits haar condimineerende dat ze haar ralityt aan de armesniers zouden betoonen, door een goede quanstityt van haar compens aan die zelve op te offeren.
+
+       WAART.
+    
+Neen: de crym is te exestief: maar zo ze poletyk, en met grote deverencie, onder cousie 
+  beloofden, de voorseyde vollenàncie subjuyt te wezen, zo woud ik ze senteneeren, dat ze terstont, door een accemenaacie, de somma totalles, van al er appeteeken aan de armesiers armen zouden stoddeeren; en dan gedepeteert worden. So mochten zy sich compareeren om as jeremijten te leven, en daar zouden ze wel toe gecontracteert wezen, na de commenecaacie van al er meumelen en appetijken.
+    
+Maar om voort te gaan in mijn begonnen sallaris: we fatsjeerde met onze Krygs marterialen na de vyant, die tot redemptie van de stat quam. Onze Troepen congieerden, en onze Ieenderaal was in ’t kef. ’t Was een geraffieerde gast, die altyt in ’t reubeur was. Hy was heel polentyk en verstont de Filofecicie. Deed ook zomtyts grote Perkressen. Endelyk de vyant wiert totalyter in ruyne geslagen. Sanderdaags quam hy weer, om revanje, zyn magistrande versamelt hebbende. Doe sloegen we hem intotàliter, en kregen de Ieenderaal, dat een Rijnegart was, gevangen, met zyn gantsche suyte en bosschaadje. Ook kregen we een hopen Coerseyeren gevangen, dat corvelente Kerels waren. Doe waren we geracieert en we trocken eengàal na onze levòes toe. Doe wiert er revaasie gedaan; en we hadden in dat discontre veel conquirànten verlooren. ’t Was wel op gesinneweert, maar ’t wiert gearresteert. Doe wiert ons geaveseert, dat de belegerden   met prospereeren doende waren: en wiert geassesteert dat de hele repperdaacie van de blessie gedaan zou wesen, eer w’er by quamen: dat worde met asserandeurs geappermeert. Die tot de blockade gebleven waren, kregen een rabbremént; wyl dat geen rantsoen was, dat onse Verbreek heur dat favoríet van confeleeren niet instringeert had. Want dat was zyn intresaacie. Maar der quam een Chrysten Prottendent stil uyt de stat: die prospereerde datter een conserasie was, die een reconverentie hiel in ’t hymlyk. Om een reumùlt te maken; en dan de Gormedeur te drammeneeren om van de overgaaf te accepteeren. Maar de Marketenters waren verdeffendeert, en over ’t verrespedeeren met de vyant gestrangeleseert. Doese geëxaament waren, had men er Brieven met chorràcters by gevonden; en op een solder een heel carkesoen Krygs esterenten. Een oude roffeljan van een Archimanték had se er toe geestimeert: en dese Marketenters hadden een lingen met er parcelepanten gemaakt, uyt nemàncie dat de Groveneur de stat tot de leste man verdestreweeren woude. Nou was er (vertaleerde hy) een simpelier posant, die met zyn disconde, onder de schijn van een balis manis, sijn Eskelencie onse Ieenderaal wou vermoorden. Dat was lang voor desen een apostelànt geweest, die van een ryk leverier van provant, was geannemeteert; zo dat hy hem doe met familjaarschap genereerde Hy was   van Canjen geboortigh, en een goedt Poet die hem op de Pollesy verstont. Als ’t gelukte, zoudt hy een mannefyk bordeel, en Gevelín een paar Pedanten en een gouden Convòjer hebben, met een obelgaacie van dusent sekinen in spijs. Nou was al zyn studaatie en scharveseeren hoe dat hy het best rammenten sou, en was gepresteert, dat hy met een appell in ’t Leger komen sou: maar de jollesy, om dat hy jaaploers was, maakte hem schrimpeljeus om parcieel van sen Wyf te gaan, dus bleef ’t noch wat in samblance. Altans wy repperteerden en renneweerden de belegeringh weer, en we liepen altemets eens zonder passement op sauvegarde. Endelyk wiert weer tyd gefiguurt tot cervísie van de Troepen; en zyn Eskelencie was verpleks dat hy zo wynig conquiranten had: en ’t volk te patreeren in een storm, kon niet zyn. Juyst men sloeg de camaade van binnen: maar de fonksen die zy aprobeerden wierden by de Ieenderaal geconcludeert; zo dat men stormde: maar zy diffinieerden sich zoo, dat we addeeren mosten. Die storm gingen wy reverseeren; en in die resumaacie quam onse Minjeur tot zyn request, om dat ze sich zo wel niet succedeerden, of we kregen de stat stormenderhant. Wat ging daar een sosseletyt om! en wat was daar een pais! alles was onze granen. We wisten van geen dispelyn. ’t Punctueer was niet compaabel om ons van de Memmeselles 
+  met gepryseerde lokjes te houden. We maakten er avecaacie noch contement mee. Of se pompoosigh of speciaaligh waren, dat hulp niet. We raakten er mee in condemnaacie. Of se al promoveerden dat we door die wegh niet Hemelen konden, wy appelleerden er op, komen we dus niet in den Hemel soo is ’t in Simbolum, dats sonder summetaacie. Korts daar na declareerde men van Vreede. De Asmedeurs en Blindàrissen wiert een Luyteraale plaats gestelt, daarse consternaacie hielden. Se leyden teugen mekaar de concrabbelaacie of: en na de contelenten vigileerden se dat elk institueeren zou dat hy geimpeteert had: en dat nimant prospereeren zou, dat des anders subjuyten aan hem continneeren zouden. Onse Plinnepetaaris had doe ’t poortekra in handen, voeten, heupen, exceetra. Evenwel probbeerden hy, dat we noch een stat hebben moesten: en dat de calandíse van die geargesteert most worden. Daar paweseerden se een tijt lang. Endelyk was ’t fyàt. Had je wel gearresteert dat ik je zulke Pasquillen vertaleeren kon? daar heb ik allegaar tefect jeenderaal van gehouden.
+
+       STOFFEL.
+
+Laat my dat ordenaal eens uyt copyen. ’K zal ’t die Arketett eens laten lesen die niet verr’ van Roffianus de Kuresyn gewoont heeft. Of die provendent die een soeselaar worden wil. Ik zal ’t je dan soeveryn stuyteweeren.
+ 
+       WAART.
+
+Eckeseer me! je luy rekent voor ’t schryven van een Simmetaris zoo veel. Voor een Cupplecaacie zoo veel. Voor je Asmenaacie soo veel. Voor je Faccie soo veel. Voor een Companycie zoo veel. En ik zou Apsoncie hebben, wyl je afgrijselyk puntneurigh bent, dat je eenige conclusie mocht inbrengen dat je myn Ordenaal gecordieert had; of dat jy protector daar van waart &c: en ik wil met geen quacsaatie instringeert wezen: noch ik wil jou er geen exameteur over hebben, om te exemeeren of ’t wel gemaakt is, of niet.
+
+       KEES.
+
+Heb je nou uyt Horsmus? dan zelt myn beurt ook wezen.
+
+       WAART.
+
+Jaa ’k Maatje. Hebje wat te figuuren, ik zel defencief toe luysteren: want ik wil goede experièntie met je houden, om dat je een Man van eloquencie bent die men passenier zult wezen. Nou is ’er audientie genoegh.
+
+       KEES.
+    
+Ik heb noch een Ieenderaal dat uyt het Spaans translateert is, van een passenier die d’Infantery van Spanjen had sien frequenteeren met de Keuning van Vrankryk. O wat   beschrijft hy crabbelaacies en conclementen! der waren Medecomenters die de Keuning Sirich noemden; en dat ripperteerdense wel hondert maal, sonder datser eens een replement over kregen. Hy was Cassenier van een Cònstel, en had de Ammeljeerkonst geleert: trok om de inkesticie uyt Spanjen, met een geprefereert pòsant, die op de nommeraasie gestaan had, om daar een magisteerium te krygen: maar de stollestanten confermeerden in sulken quanstityt, dat hy murmureerde dat hy tot zyn request niet raken sou. Doe trok hy met een Rescontre Ranceportschepen, elders heen om na een vierkante plaats te sien, die onder een warm clameet leyd’, of hy daar eenigh fageur by een Ammenistreur van een groot Camieus krygen kon: en, lyk ’t spreekwoort seyt causa camfa tromfa. ’t Lukte.
+
+       Mr. JOOST.
+
+Nou kenne wy weer discoerssen Confrater. ’k Heb een patent die een colicòmpas in de neus heeft, daar doen ik wat pressemaat an. En nou mien ik opprement water te laten destrueeren, en disteleeren dat met wat prespetaat en appelleeren er dat op. Hoe behaagt jou die functie van doen?
+
+       Mr. JAN.
+    
+Dats myn Wysancie niet, soo je Antemy verstont, zo sou je assesteeren dat het wik of   
+wak sal wesen, of die patént sel om siep raken: sulke appellen sel hy krygen.
+
+       Mr. JOOST.
+
+Evenwel heb ik wel sien Antoniseeren: en ik succedeer dat ik et wel volbreeken sal. De toevallen zyn valiaabel. Maar als de colicompas gereuneveert wesen sel, mien ik het met oly van drifoelium admeralte te corrigeeren. We verwoonen hier grote huyshuur die moet er al uyt geappelleert wesen.
+
+       De HORSMUS.
+
+As de Beseurs myn Passeniers believen te wesen, de kost is compleet. Se kennen aan Tafel kommen, en met fransòen quanstum suft inbarkeeren: as je luy an Tafel bent, sal den dis apsort wesen.
+
+SNERT.
+
+WAT ANDERS, Verhaspelt tusschen STOFFEL De Boeren Procureur; en enige Boeren van Corityt, in de Collegiekamer; DAAR LOUW De Priesjes verstrekt.
+
+       STOFFEL.
+
+BEsoer Meseurs. Verrespedeer me dat ik soo pertinent ben, dat ik in je conspiratie inflecteeren kom. Ik ben de Asmedeur maar, of de Plinnepetaris; dat imbesteert weynigh waar voor u Sekresie my wil atmonteeren, als je me maar voor een rysenaavel man van qualitie attesteert,   gelyk my elk meriteert. Ik zal je zonder circomferencie dan vertaleeren, dat myn Buurman Kees in deferencie geraakt is, om dat hy conceweerlyk in bresonjes geweest is, met een Doctor Remedecus & Medecijnecus, of met een Kirirgyn; dan leyt hy eens aan ’t Podegraaf: Dan heeft zyn Wyf eens een Apsteunie aan er Voddement; zoo dat hem toetefrett het portuur contrarie verringeneert, zo dat hy prodio is, en van u Ypetybe dient geammeleteert te worden: want hy is totalyter gereuneveert zo je hem niet desisteert. En daarom kom ik stollesteeren of u Ypetybe hem gelieft te importeeren met een doft. Ik veraccuseer je, dat je in heel Ropeka daar geen beter toe vinden sult: want hy is Addresse van Venten om alles te frickeceeren daar hy maar rarityt in siet. Daar heb je nu myn hele juratie, die ik my mynteneerde myn fonks te zyn, om je te aprobeeren.
+
+       LOUW.
+
+’t Is onze vuncie niet over een doft te disteleeren, daarom dien je ons daar van te eckeseeren: maar kenne we hem met wat anders attestencie doen, dat zal niet valideeren; dat versuykereer ik je sacceerigh. Is zyn substycie nou octrooy? of is ’t noch zoo wat atér kater? imbarkeert hy noch Millesynen van Doctor Pelleevis?
+
+       STOFFEL.
+    
+Sedert het leste respett dat hem geryneert is, is de posant suyver coriert; en hy is nou compleet om zyn dienst te presentaablen aan die hem maar beplojeeren wil: maar nou heb ik een andre promoocie te doen tot portuur van myn parciaal, wyl je hier apsort bent gecongieert: en sonder veel proluvìë sal ik ’t je opteneeren. Syn Vaar (Jaap) was een duvelsant, en daar by estiem punteneurigh; en wyl hy licht sammereus wiert, was hy toeresjoeres in request. Daar uyt murmureerde Jaaps Vaar (Klaas) dat zyn Appeteeken en Meumelen, na zyn doot, wel haast geconsidereert zouden wezen, zoo hy daar in geen ordre pareerde. Hy maakte zyn Goederen dan vierdekoemis, soodanigh dat de Kindren van myn Buurman (Kees) maar kennen verhantseneeren van Klaases Goederen. Nou heeft hy by een Abbekaat gecanceleert, die hem gecoracieert heeft; hem espeliceerende dat het Testement kan gerenoveert worden; pircepaal om dat hy geen Kinderen krygt, en zelfs in deferencie is, zoo dat hy noch costuyme noch tribliane betalen kan, en om dat het in u Ypetybe secreecie gestelt is. Dat zyn Vaar zulke flaresyen en mislyke reumeuren had, dats Keesses schult niet. Hy doet zyn gevlaay wel, en deporteert hem beter als zyn predestenateur.   Hy is apsort in alle cortery om te diskeneeren met luyden van qualitie. Ook is hy een defencief Man, en zonder contelent: zoo dat hy behoort susplencie te krygen. ’k Verzoek dan in den naam van de supplecant, dat de hele consternaacie presteert om zonder interdeeren onse Kees protecter van die vuylekoemiss goederen te maken; dat men na myn supersticie, met fansoen niet probbeeren kan, om dat hy van goet comparkement is in zyn fonks. Hy is niet pompoosig in zyn communesacie, dat wil ik wel op myn caritaat dingeleeren: want altijt stoddeert hy in d’ Evejiliën, en daar packeseert hy dan op; zoo dat hy ook octrooy is in distrueeren met reretyt, uyt de Boeken die Malpijk zyn, de Apokryten verwerpende, met sulk een mannefecencie of hy een Pastoraal was: daar heeft hem een prottèndent toe geestimeert, en hem geinseleert hoe hy hem verdestrueeren zal. Hy weet te assesteeren dat de inkesticie abbobenabel is; en hy cedeert Texten om te diffinieeren dat de Paap zyn Apsat van geen repensaliën is, ten zy ’t berouw element geprefeceert wort. Je zoudt er verplex voorstaan zoo jer temets percent waart: zoo dat hy geen Poweet is. Heeft zyn Vaar gevacceert, dat zou pertinent zyn, dat men die krijm op hem revanjeeren wou. Ik succedeer dat myn pervoost behoort een goet successie te hebben: want ik ordonneer, na myn apsoncie, dat men geen innomenàncie prospereeren kan van een   saak die variabel is: want dattet een Man van remportaacie is, dat is gants Pummelyk. Ik aprobeer geen resonnable zaak; want Kees is goet van rooy: Hy incorbeert, inflecteert, fortificeert, noch blatteert nimant, noch doet nimant quacsatie. Daar om loov ik sonder duymio, dat je met me kaar succedeeren sult, dat jem zonder simmelaacie attesteert in de protectie van zyn Bestevaars Appetyken, daar u Ypetybe de Simmetaaris van hebben. Hy sal wel patreeren, als hy in de ingoosie is.
+
+       LOUW.
+
+Je hebt nou an ons, as an rebberaale Mannen modefecaacie gedaan; en ik exekreer je dat wer over paweseeren zellen: en ’t sel an ons niet valideeren om hem deveur te doen. Laat hy maar pavencie hebben met zyn manielje. Wy zellen er van mit de Prinstenàris maskeneeren, die van een goet experipent is, om mee in diskeraacie te komen; ’k hebber espertentie van. Wy hebben geen magnetismus tegen Kees. En we sellen ons deboesjeeren om hem te versolaseeren. Geef maar wat respect om er op te spelleleeren of ’t ook tegen ruinien is. Je keunt het daar na wel eens weer renneweeren, of we ’t vergatten.
+ 
+       STOFFEL.
+
+Dat maar rellery Beseurs. De Prinstenaris is er niet by geexkeseert. Je hoefter hem geen mossenaacie van te maken. Laatet by hem gearresteert blyven. ’t Is of je een bannissement wout versoeken. ’t Magisterium is aan jou, volgens ’t mamberstript van Klaas; daar kan je self in de Compy of in ’t Pattekroll expèccie van nemen; daar is de Simmetaris ook heel mannefyk by. Jy luy bent er toe gequadefuceert. En so je curieus bent, ken je ’t eskerent zelfs verringeneeren. Je hoeft er sulke straategeemis niet uyt te halen. Dat zyn maar havesyen van je. Je kent hem selfs wel susplencie geven en verneeren. En ’t is fyat als jy luy ’t appermeert. Ja ’t is rommenabel dat je de Man doet flyeeren. En wyl jy luy het defensie over die Appeteeken hebt, zal de Prinstenaris gecontracteert wesen moeten, om dat hy er geen blindenaris over is: want het gaat Kees, en jou luy in ’t jeender maar aan. En daar heeft hy geen appell op.
+
+       LOUW.
+    
+Jou drammeneeren daar schyt een hont in. Je bent niet gedeputeert om ons hier te apsolveeren. ’k Loov je zoekt te pretendeeren, zoek je request? je hebt maar te dikklyneeren.   Jou rammenten en despeteeren krenkt ons qualitie. Daarom ik seg je addeer je van hier, of spreek met deverencie en fransoen, of ik sel in ’t tekeleer een discontre mit je hebben, en jou onder suppelyn brengen.
+
+       STOFFEL.
+    
+Wees maar soo sammereus niet. Ik ignoreer ommers niment altemereer je so niet eens. ’k Heb geen regart op jou. Ik meriteer je meer als je proffeteert. Ik seg dat je luy gequadefuceert bent. Ik opteneer maar, dat je, als Mannen van valejisie administraacie hebt, om te angeeren na je beliefte. Want je bent Blindarissen gemaakt. Presemeert het vry in ’t Murgoll. Je bent Mannen tefect soldeert; en je frikkeseert sulke dingen toeresjoeres; so dat je door montsysie de wysancie wel weet: en ’t sel wel sicceeren soo je maar apsolveert om sekraacie te hebben dat je Kees contant geeft: anders raakt zyn Boel indevent. Je weet wel dat hy zyn costuyme niet meer quarant betalen kan; dat kan je niet concludeeren, je bent doch ryaalse mannen, die niet valideert om onse Burgers te importeeren; en daar mee kan je ons ingrasseeren. Anders raken die Appetyken geallegieert. En wyl jy luy er Ramaajers over bent, behoev jer geen balis manis by de Prinstenaaris over te maken. Je hebt zelf de coretyt volghens ’t eskerent,   ’t welk cronyk genoeg is. En zo je jou ygen arroretyt maar perbiert, zo is onze Kees klaar. En ’t is een werk van cardaat, dat ken je wel schraveseeren. Je kent hem een Man van còmpens maken. Je hebt het chorracter, dat magh zonder circomferencie wel geseyt wesen. Belieft je dat hy zelf hier eens cattechseert? ik sel ’t hem wel transsepeteeren tot je contant, en hem hier heen deboesjeeren: maar ’t sel posito wesen of hy geen accuys inbrengen sal: maar ik sel em wel seggen dat je een apperencietjen met hem hebben wilt: soo je ’t avverveert.
+
+       LOUW.
+    
+Hoor! geef wat respect! we sellen een dag figùren om weer een conspiraacie te maken; en dan selle we eens constrengéren en consumeeren hoe we hem conjungeeren sellen. Laat Kees creaasie hebben, en laat hem noteraal een dicclacass doen maken van sen kermeneering, improcens getuygen, die de waarheydt gedefendeert hebben. En laten die dan die arristaacie met een eet bekraftegen. Hy sel dan wel audiencie krygen. Wy sellen hem maunteneeren. Laat hy hem maar bedést houwen, zonder appelleeren. Wy sellen appetyt soeken om eens weer te congieeren; en dan selle we ordre pareeren, sodanig dat hy gecontracteert wesen sel. Laat de posant maar wat   
+cossentie hebben, sonder pompoosigh of còlrích te wesen. We sellen ’t Brittekoll en de Compy eens by mekaar sien; en we sellen ’t wel rammenten. Syn promoocie sel van ons niet geprobbeert worden. We sellen maken dat hy in sen volle remportaacie blyft: wy benne mit zyn ruyne niet gedient.
+
+       STOFFEL.
+
+Soo de bruy! nou ben je revelàuytse Kerels, die betoont onder subedicie van de reden te staan; en die ben ik ook altyt subjuyt ik zal hem dan gaan vertaleeren, dat zyn saak een heel goede successie hebben sal, na jou apsoncie. Besjoer Beseurs.
+
+Stoffel uyt de Collegiekamer in de gemeene Haart komende, vint daar de voorsz. Kees, Mr. Joost en Jaap in geselschap van den Horsmus.
+
+       KEES.
+
+Elemyt Stoffel! had je daar geen foncie in ’t Konkelavius? ’k hoorde sulken reumult; ’t leek of je luy pretendeerde: altans der leek een tribbel te wesen. ’k Arresteerde dat je uyt de Sinooge soudt gewurpen worden; zulke stambaaren maakte Louw. Maar wats nou de   
+somma tot alles van ’t pervoost? doe me daar eens vertaal van. Ik Pronogosteceer dat wer om prossendeeren sellen moeten. Van sulke presummaacie ben ik. En so selle we de beste perkressen doen, na myn apsoncie. Wat succedeer jy?
+
+       STOFFEL.
+    
+Jy hebt geen espertencie van protesten. En wil je jou teugen heur opserveeren, zo raakje op de nommeràsie daar zy de pomposige posanten op translateeren. Laat je daar niet toe laveeren, Hou je maar bedest. Ik heb de promoocie soodanigh geaprobeert, dat ze met asserandeurs veraccuseert hebben, te zullen ordre pareeren, zoo haast als de appetyt pressemeteert, dat je audiencie krygen zult om selfs defensie over al die vierdecoemis goederen te hebben: zoo wel de vaste appetijken, als de interestmobilia, om er je granen van te nemen; en ’t is al zo goet als parbiert, we hebben wel costijf gehadt, maar we zyn weer contrilleurt zoo dat je vry patreeren meught, dat alles zo octrooy, tot jou favoriet, rommenabel sicceeren sel. Dat hebbense met metoode geconsacreert. Daar heb je nou ’t vertaal totoory. Maar je moet by Ierodeemus de Sicketaaris gaan, en laten hem noteraal een assestaasie voor je maken. En dat moet een dicclacâss wesen, waar in je buren moeten dicklyneeren dat je geen duvelsant bent; maar dat   je door quaat portuur in deferencie geraakt bent: en dat je een subtiel en sacceerigh Man bent, die die vierdecoemis goederen tot de familjaarschap van noden hebt, om er wat lavans mee te maken. Daar moetje by transsepeteeren dat al die Meumelen en Appetijken allegieeren zouden kennen, om dat je geen Jonges krygt: en dat je je Wyf wel an andre posanten gepresentaabelt hebt, om er mee te condemneeren en Kindren te prokeéeren; maar dat heur nimandt mit jongen maken wil. Dat moet Ierodemus zo mit een balis manis, of een Straategeemis, Poletyk aprobeeren. Versta je? maar ’t moet beêedigt wesen.
+
+       KEES.
+
+Je hebt het estiem of emaakt. Ik sel er mit myn Buren van maskeneeren. Dat ken gien exestive kosten maken. Jy Mr. Joost! jy mogt me dat deveur wel doen. Je meugt wel een vreet voor me doen. Je hebt veul spijs tot mynent elevert van jou Mars: namelyk prokreatien, suspestoriums, sudoorums, empleynstrums en andere Millesynen, daar je ons mee gecorrigeeert hebt as een goet Kurregyn, die compabel is om zyn dingen te appelleeren. Wat heb ik op die sissel, daar die cranies by was, al turbsyven gehadt! wat al drankjes hebje myn Wyf niet al in haar Voddement geblasen doe zy ’t colicompas in er buyk had! en   wat al gorgelismas voor myn keel! en wat al ammenicie watertjes, en precaacies heb ik wel geinbarkeert, als ik impertinent was. Je appermeerde dat de temperalimenten en experipenten van myn regeuren niet wel gedisteleert waren. ’k Was doe wel notoor patènt: maar jy en Docter Pelleevis waart doe in een lingen samen; en je luy hebt me suyver van men mankoly coriert. Ik toonde myn ralityt ook as een Man van remportacie. De stront stamper, als leverier van quanstum fust van zyn lompen, kreeg ook schier de gront uyt myn militie voor zyn calandise van Millesynen. En zo je luy me nou desisteert, in ’t maken van die dicclacàss, zoo meugje wel translateeren dat je een reconverentie van me attesteeren selt tot een prokenicie: doe je gevlaay vry voor me: want zoo ’t geen dat geopteneert worden sel, geprobbeert word, zel je me daar na toeresjoeres prote Deo corrigeeren.
+
+       Mr. JOOST.
+    
+’k Heb erys by een Geprovosteneert Dolegant geseten improcens van een provendent; die gaven se allegaar een octrooy remplement die Testementeeren: En ik wou, dat met een applecaacie verboden was, sulke vuylekoemis eskerenten te maken: want het is niet ortedoctis; en daarom is’t een resonnable saak, die apcaabel is om een Mens mankolyk te maken:   en ’t kan by geen goet Polletyk Man pubbleceeren. Maar men moet pavencie hebben as de pomposige posanten sulke flaresyen en pertinente lamooren hebben.
+
+       IAAP.
+
+Maar weet je luy niet wat nuuws te discoerssen van de gemeene intresaacie? benne de Francen noch in ’t reubeur met er sosseletyten en insolventen? of imbesteert dat niet veul meer.
+
+       Mr. JOOST.
+
+’k Heb lestent t’Amsterdam een Pasquil gelesen van Scharlderoy, datse gebommeneert hebben: maar ze zouden zonder contelent wat bruy gekregen hebben, zo ser niet al voor ’t blameeren van den dagh van daan geaddeert hadden. Want de onsen quammen an fatsjeeren met een groote quantityt Miliaaren tot redemptie en discoers van ’t Cargisoen, dat hem wel destrueerde, maar de Francen leven over al na er ouwe moote op sekreecie, sonder ruïne te muyteneeren; en so doense conceweerlyk, en se confirmeeren over al de fouderasie. De Krant maakt geen mossenaacie van ’t argement van ’t Engels Verkettboot, noch van de Beschoopjensvaarders: zo datter niet nuuws publiceert.
+ 
+       Louw.
+
+Kirurgijn! der is een posant die veur een oortje beste compact van keertebenediccie prospereert. Ik loov wel dat se daar voor geen balie vol attesteeren sel: maar ik wou wel, dat je sonder simmalaacie wat veur myn Wyfs seere keel disteleerde dat element goet is.
+
+       Mr. JOOST.
+
+Wel Horsmus, ’k sel ’t Vollenancieboek eens gaan open slaan (dat is myn Pattekroll) om eens te schraveseeren wat ik daar toe constringeeren moet.
+
+
+
+Bekent-making, aen alle liefhebbers.
+
+DE Snaakse Geesten worden versogt, om op te garen sodanige woorden (van dese voorbeschrevene Taal) als sy bevinden by sulke Taalkundigen in ordinaar gebruyk te zyn. En noch in dese Barbarologia niet beschreven. Ik woon tot Grootschermer, de Schuyt leyt tot Amsterdam aan de Haringpakkers Toren, en vaart van daar Dingsdagh en Vrydagh, smiddags ten twaalf uren. Etlyke van sodanige woorden vergaart hebbende, versoeke datse my die senden, mits betalende ’t port, op dat ik se francq krijge, vermits de Schippers de Brieven, sonder port, sullen wygeren. Of anders aan myn Boek-Drukker JOHANNES ROTTERDAM, in de Harte-straat. Vale.
+

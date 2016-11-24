@@ -1,0 +1,1754 @@
+
+<html>
+    <head>
+        <meta HTTP-EQUIV="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="TOPICstyle.css" />
+        <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
+        <script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9 col-md-offset-1"><br /><br />
+                    <h1>Het Spinozistische idioom</h1>
+                    <h1>Pilotstudie TOPIC CREATE</h1><br /><br />
+                    <h5>Lia van Gemert, Lucas van der Deijl, Erik van Zummeren</h5>
+                    <h5>25 september 2016</h5><br /><br />
+                    <h4>Selecteer een secundaire tekst en vergelijk het idioom met Spinoza's teksten</h4>
+                    <form method="POST" action="TOPICanalyse.xq"><select name="titleTestDoc">
+                            <option value="geentext" size="30">Kies een tekst</option>
+                            <option value="PHILOPATER">Het leven van Philopater</option>
+                            <option value="PHILOPATER2">Vervolg op het leven van Philopater</option>
+                            <option value="HOERDOM">'t Amsterdamsch Hoerdom</option>
+                            <option value="HEMELOPAARDE">Den hemel op aarde</option>
+                            <option value="LICHTOPDENKALENDAR">Het licht op den kalendar</option>
+                            <option value="BETOVERDEWERELD1">De betoverde wereld (deel 1)</option>
+                            <option value="BETOVERDEWERELD2">De betoverde wereld (deel 2)</option>
+                            <option value="BETOVERDEWERELD3">De betoverde wereld (deel 3)</option>
+                            <option value="BETOVERDEWERELD4">De betoverde wereld (deel 4)</option></select><input type="submit" class="btn btn-primary" value="Toon MFW" />
+                    </form>
+                    <h4>Vergelijk een referentietekst met het idioom van Spinoza</h4>
+                    <form method="POST" action="TOPICanalyse.xq"><select name="titleTestDoc">
+                            <option value="geentext" size="30">Kies een tekst</option>
+                            <option value="851461190">851461190</option>
+                            <option value="850611806">850611806</option>
+                            <option value="844281212">844281212</option>
+                            <option value="850013267">850013267</option>
+                            <option value="850015146">850015146</option>
+                            <option value="850080940">850080940</option>
+                            <option value="850091357">850091357</option>
+                            <option value="850092558">850092558</option>
+                            <option value="850167434">850167434</option>
+                            <option value="850168058">850168058</option>
+                            <option value="850247624">850247624</option>
+                            <option value="850259754">850259754</option>
+                            <option value="850277450">850277450</option>
+                            <option value="850278570">850278570</option>
+                            <option value="850455359">850455359</option>
+                            <option value="850456665">850456665</option>
+                            <option value="853061548">853061548</option>
+                            <option value="844270857">844270857</option>
+                            <option value="844270776">844270776</option>
+                            <option value="844270504">844270504</option>
+                            <option value="843567775">843567775</option>
+                            <option value="843545054">843545054</option>
+                            <option value="843452307">843452307</option>
+                            <option value="842850465">842850465</option>
+                            <option value="842414908">842414908</option>
+                            <option value="842406778">842406778</option>
+                            <option value="841250871">841250871</option>
+                            <option value="392509768">392509768</option>
+                            <option value="316230170">316230170</option>
+                            <option value="240199065">240199065</option>
+                            <option value="141577975">141577975</option>
+                            <option value="126596751">126596751</option>
+                            <option value="125341172">125341172</option>
+                            <option value="100626378">100626378</option>
+                            <option value="097946044">097946044</option>
+                            <option value="85231423X">85231423X</option>
+                            <option value="85016771X">85016771X</option>
+                            <option value="84246042X">84246042X</option>
+                            <option value="83058031X">83058031X</option>
+                            <option value="054044723">054044723</option>
+                            <option value="054041341">054041341</option>
+                            <option value="054041104">054041104</option>
+                            <option value="12514816X">12514816X</option>
+                            <option value="164370390">164370390</option>
+                            <option value="862243491">862243491</option>
+                            <option value="852771401">852771401</option>
+                            <option value="852734786">852734786</option>
+                            <option value="844053414">844053414</option>
+                            <option value="844006335">844006335</option>
+                            <option value="843834129">843834129</option>
+                            <option value="843834056">843834056</option>
+                            <option value="843501235">843501235</option>
+                            <option value="843389818">843389818</option>
+                            <option value="843374713">843374713</option>
+                            <option value="843017872">843017872</option>
+                            <option value="843004517">843004517</option>
+                            <option value="843004479">843004479</option>
+                            <option value="842430067">842430067</option>
+                            <option value="841011095">841011095</option>
+                            <option value="840969589">840969589</option>
+                            <option value="832467294">832467294</option>
+                            <option value="830534415">830534415</option>
+                            <option value="830010750">830010750</option>
+                            <option value="823051390">823051390</option>
+                            <option value="375523685">375523685</option>
+                            <option value="345410114">345410114</option>
+                            <option value="318986590">318986590</option>
+                            <option value="315198648">315198648</option>
+                            <option value="302775064">302775064</option>
+                            <option value="292658230">292658230</option>
+                            <option value="289035708">289035708</option>
+                            <option value="169189465">169189465</option>
+                            <option value="168756714">168756714</option>
+                            <option value="167762656">167762656</option>
+                            <option value="139884238">139884238</option>
+                            <option value="125103360">125103360</option>
+                            <option value="110197380">110197380</option>
+                            <option value="108874907">108874907</option>
+                            <option value="102181675">102181675</option>
+                            <option value="100817378">100817378</option>
+                            <option value="100531881">100531881</option>
+                            <option value="98852345">98852345</option>
+                            <option value="98851233">98851233</option>
+                            <option value="98544179">98544179</option>
+                            <option value="84356928X">84356928X</option>
+                            <option value="83222541X">83222541X</option>
+                            <option value="81372132">81372132</option>
+                            <option value="57041830">57041830</option>
+                            <option value="53739132">53739132</option>
+                            <option value="37871854">37871854</option>
+                            <option value="10120213X">10120213X</option></select><input type="submit" class="btn btn-primary" value="Toon MFW" />
+                    </form>
+                </div>
+                <div class="col-md-9 col-md-offset-1"><br />
+                    <h2>Percentuele overeenkomsten tussen top 100 meest voorkomende inhoudswoorden per tekst</h2><br />
+                </div>
+                <div class="col-md-9 col-md-offset-1">
+                    <table class="table">
+                        <th>
+                            <td>KV</td>
+                            <td>TIE</td>
+                            <td>ETHICA</td>
+                            <td>EP</td>
+                            <td>TP       </td>
+                            <td>Aantal unieke woorden</td>
+                            <td>Gemiddelde overeenkomst</td>
+                            <td>Euclidean distance</td>
+                        </th>
+                        <tr>
+                            <td>KV</td>
+                            <td>X</td>
+                            <td>28</td>
+                            <td>37</td>
+                            <td>31</td>
+                            <td>23</td>
+                            <td>50</td>
+                            <td>29.75</td>
+                        </tr>
+                        <tr>
+                            <td>TIE</td>
+                            <td>28</td>
+                            <td>X</td>
+                            <td>32</td>
+                            <td>36</td>
+                            <td>34</td>
+                            <td>44</td>
+                            <td>32.5</td>
+                        </tr>
+                        <tr>
+                            <td>ETHICA</td>
+                            <td>37</td>
+                            <td>32</td>
+                            <td>X</td>
+                            <td>37</td>
+                            <td>42</td>
+                            <td>32</td>
+                            <td>37</td>
+                        </tr>
+                        <tr>
+                            <td>EPISTOLAE</td>
+                            <td>31</td>
+                            <td>36</td>
+                            <td>37</td>
+                            <td>X</td>
+                            <td>32</td>
+                            <td>40</td>
+                            <td>34</td>
+                        </tr>
+                        <tr>
+                            <td>TP</td>
+                            <td>23</td>
+                            <td>34</td>
+                            <td>42</td>
+                            <td>32</td>
+                            <td>X</td>
+                            <td>43</td>
+                            <td>32.75</td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td class="hint--top" data-ppn="841250871" title="Tooltip on top">841250871</td>
+                            <td id="KV" class="god dingen wezen seggen goede wijze gezeid mensch zijnde zien liefde volmaakte willen wil maken menschen namelijk weeten waarheid iemand alsoo werken verscheidene laet recht staat"><a>26</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen weeten maken goede wijze laet volmaakte menschen recht diergelijke zien leven weet iemand voorts willen namelijk altijdt tijt"><a>20</a>
+                            </td>
+                            <td id="ETHICA" class="dingen wezen god mensch menschen goede liefde wijze iemand leven werken zien malkander recht weeten verscheidene wil tijt staat"><a>19</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wezen weeten wil weet vriend wijze tijt voorts zegt maken antwoord seggen menschen liefde willen zien verscheidene goede laet leven gemaakt gedaan altijdt waarheid malkander"><a>28</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat menschen dingen weeten tijt leven mensch dier wil voorts iemand maken goede gedaan willen altijdt"><a>19</a>
+                            </td>
+                            <td id="unique" class="heerlijke stad heilzoeker reislust zoon waarmont wort naem vader gaen huys zijt och dag heilige salem wereld werk hert hebbe sprak aard gezelschap overmits bidde plaatsen gingen gezien dagen wonderlijk mijne heerlijkheit ootmoedigheit huize ging warender oogen lust best dienen schoone genade zonde houden gelegen lief man genoemd voornoemde woorden ziet derhalven heet kond meerder gansch mijns koningen koninglijke"><a>59</a>
+                            </td>
+                            <td>22.4</td>
+                            <td id="euclidean" class="719.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td class="hint--top" aria-label="auteur: Antonides van der Goes, Johannes (1647-1684), titel: De gelyke twélingen, kluchtig blyspél. / `IT`[By Johannes Antonides van der Goes et al.]`LO`" data-ppn="841250871">842430067</td>
+                            <td id="KV" class="god dingen wezen goede lichaam ziel mensch verstand kennis zien liefde willen waere wil deel maken menschen gods weeten waarheid laet recht staat"><a>23</a>
+                            </td>
+                            <td id="TIE" class="dingen verstand wezen weeten geest maken goede kennis laet menschen recht ziel einde zien leven willen weêr deel blijven soeken"><a>20</a>
+                            </td>
+                            <td id="ETHICA" class="deel dingen ziel wezen god mensch menschen lichaam goede liefde kennis leven gods genen zien recht weeten verstand wil waere staat"><a>21</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wezen weeten wil gods maken weêr menschen genen liefde willen zien geest christus verstand goede geloof laet leven gemoedt kennis waarheid"><a>24</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat genen menschen dingen vreede weeten leven mensch deel wil maken goede ziel willen staan vast"><a>18</a>
+                            </td>
+                            <td id="unique" class="hert heilige ô vinden ver ach ewig vader kracht jesus herten oogen lust rust zijt licht zonden schoone rusten aarde gedurig tijd gaen ewige zinnen len ewigheid zoon stem beeld hemel schepselen genade aart krachten be ruste doodt houden weder waereld heid goedheid nadien leer laten vyanden sterk werk hoog ziet menigmaal heiligen waarlijk gedachten lief goddelijke heil wegen blijft vind aller re"><a>63</a>
+                            </td>
+                            <td>21.2</td>
+                            <td id="euclidean" class="775.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td class="hint--top" data-ppn="98852345">98852345</td>
+                            <td id="KV" class="oorzaak zaak dingen wezen seggen goede ziel verstaan zien liefde willen kennen reeden wil maken weeten recht staat"><a>18</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen weeten verstaan zaak geest maken goede oorzaak middel eindelik recht ziel einde zien leven weet willen droefheit maakte"><a>20</a>
+                            </td>
+                            <td id="ETHICA" class="dingen stond ziel zaak oorzaak wezen reeden goede liefde bemind droefheit verstaan leven zien verklaaring beminnen recht weeten wil staat"><a>20</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen wezen zaak weeten reeden wil weet oorzaak verstaan vriend eindelik maken seggen liefde willen zien geest niemand goede leven gemaakt"><a>21</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat dingen reeden oorzaak weeten leven niemand eindelik zaak wil maken goede ziel willen"><a>17</a>
+                            </td>
+                            <td id="unique" class="don isabella ramir hert alphonsus hertog amarance man deedt haest deezen minnaar kamil wereld schoonheid oogen gusman gantsch genoeg tijd kond geeven kwam woorden blijken laeten koningin best naem juffers gaen zeide wist hof tederheid schoone vermits geloofde geluk dag antwoordde graef begon meesteres eenemaal vrienden doodt gramschap langer terstond lonken ondertusschen eerbiedigheid vyer verdienste gelooven klein gezien ontroering woord rust kwalijk kant traanen mé vond"><a>66</a>
+                            </td>
+                            <td>19.2</td>
+                            <td id="euclidean" class="1000.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="12514816X">12514816X</td>
+                            <td id="KV" class="god zaak wezen seggen goede ziel zijnde zien liefde willen reeden wil maken menschen gewaer plaets alsoo laet nochtans"><a>19</a>
+                            </td>
+                            <td id="TIE" class="wezen zaak maken goede eindelik laet menschen ziel einde zien meest leven plaets weet willen"><a>15</a>
+                            </td>
+                            <td id="ETHICA" class="stond ziel zaak wezen god menschen reeden goede liefde bemind yder leven genen zien beminnen samen wil"><a>17</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen zaak reeden wil weet vriend eindelik maken antwoord seggen menschen genen yder liefde willen zien goede laet leven gemoedt gedaan"><a>23</a>
+                            </td>
+                            <td id="TP" class="koning yder wezen genen menschen reeden plaets saken leven eindelik zaak wil maken goede meest ziel gedaan willen staan samen"><a>20</a>
+                            </td>
+                            <td id="unique" class="medea isidoor kinders schoone duivel selfs oogen teofilus selven toveressen weder hert seyde woorden royaan sifroy traanen gekomen doodt alwaar zijt gaen ging laten nacht sterven wijn noyt kond hof huys vrouw neemen bekent deselve ach mijne majesteit haest dorp lange naem dagen deedt sprak zoud minnaar yemant koningin daarse ceresat land quamen begon haren hoofd deeden commissarisen sulks ofalte oude hand"><a>62</a>
+                            </td>
+                            <td>18.8</td>
+                            <td id="euclidean" class="1105.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="842406778">842406778</td>
+                            <td id="KV" class="oorzaak natuur dingen seggen goede verstand zijnde zien liefde reeden wil maken menschen weeten plaets alsoo laet staat nochtans"><a>19</a>
+                            </td>
+                            <td id="TIE" class="dingen natuur verstand weeten maken goede oorzaak laet menschen zien meest leven plaets weet altijdt maakte tijt"><a>17</a>
+                            </td>
+                            <td id="ETHICA" class="dingen natuur oorzaak menschen reeden goede liefde leven zien volgen weeten verstand wil tijt staat"><a>15</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen heeren brief natuur weeten reeden wil weet oorzaak vriend tijt maken antwoord seggen menschen liefde zien verstand niemand goede laet leven gemoedt altijdt volgen"><a>25</a>
+                            </td>
+                            <td id="TP" class="koning staat natuur menschen dingen reeden plaets oorzaak weeten tijt leven niemand wil maken goede meest vast altijdt"><a>18</a>
+                            </td>
+                            <td id="unique" class="philautus euphues camilla schoone eygen ofte oude woorden raad gaen man noyt mogt wiert naem vermaak vrouw hert wilt wort kond jonge mijne sprak venus eere houden beyde wien hoofd oogen diese vrouwen engeland juffers surius vernuft best hand begost yeder werk alexander dragen vyer zoete genegen behoorden minnaar zijt slaan wederom neen huys dikmaal persoon laten vader jeugt klein lust gantsch scheen doe byen haest"><a>66</a>
+                            </td>
+                            <td>18.8</td>
+                            <td id="euclidean" class="1138.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="316230170">316230170</td>
+                            <td id="KV" class="dingen wezen seggen goede verstand zijnde zien liefde reeden tweede wil menschen weeten plaets spreecken verscheidene laet recht staat"><a>19</a>
+                            </td>
+                            <td id="TIE" class="dingen verstand wezen weeten goede laet menschen recht einde zien leven plaets leser nieuwe"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="dingen stond wezen menschen reeden goede tweede liefde yder leven genen zien recht weeten verstand verscheidene wil staat"><a>18</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen heeren wezen weeten reeden wil seggen menschen genen yder liefde zien tweede verstand verscheidene niemand goede laet leven oordeel gelegentheyt"><a>21</a>
+                            </td>
+                            <td id="TP" class="recht yder wezen staat genen menschen dingen reeden plaets weeten leven niemand wil goede vast"><a>15</a>
+                            </td>
+                            <td id="unique" class="nae sulken spartanus nogh wierde man ghelijck ofte ghy wort tafel begon huys selven ziet onsen geld schoone hoofd marten oude wereld dag gaet tijd konst kamer wederom dees stad werk handen hand kond elck speelen gezelschap gingen best eygen â oogen quamen seyt wetenschap throon scheen brassaert yemant manier wijn kort gaen wijsheyt boeken ha moeste spijse ghoedt lange vinden weynigh sigh selfs quod wijs klein langh dogh"><a>69</a>
+                            </td>
+                            <td>17.4</td>
+                            <td id="euclidean" class="1302.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="81372132">81372132</td>
+                            <td id="KV" class="oorzaak dingen wezen seggen goede lichaam mensch zijnde zien willen reeden maken menschen weeten iemand deelen spreecken alsoo laet recht"><a>20</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen weeten maken goede oorzaak eindelik laet menschen recht diergelijke zien meest leven iemand willen maakte"><a>17</a>
+                            </td>
+                            <td id="ETHICA" class="dingen oorzaak wezen mensch menschen lichaam reeden goede quaad iemand leven zien recht weeten"><a>14</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen heeren wezen weeten reeden oorzaak water eindelik maken seggen menschen willen zien goede deelen quaad laet leven gemaakt"><a>19</a>
+                            </td>
+                            <td id="TP" class="recht wezen menschen dingen reeden oorzaak weeten leven mensch eindelik iemand maken goede meest willen vast"><a>16</a>
+                            </td>
+                            <td id="unique" class="thee theé tabak drinken bloed maag kruid tijd sappen gebruik tee mont best dikwils smaak genoeg rooken heet drank los naem ofte dagelijks lieden vinden gebruikt hoofd sterk gaen derhalven sieken veele tyd laeten wereld houden qualen weder zuur slym doctoren drinkt gebruiken gezondheid borst valt gedronken krygen zout gal rook man ziekten land gemeenlijk warmte gantsch alcali warme wijn neemen tong schoone selven krachten neemt kragten dorst laten wederom"><a>70</a>
+                            </td>
+                            <td>17.2</td>
+                            <td id="euclidean" class="1369.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td class="hint--top" data-ppn="097946044">097946044</td>
+                            <td id="KV" class="oorzaak zaak dingen wezen seggen goede kennis zijnde zien liefde willen kennen reeden maken plaets spreecken staat haare"><a>18</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen zaak maken goede kennis oorzaak eindelik einde zien leven plaets willen maakte"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="dingen stond zaak oorzaak wezen reeden goede liefde kennis bemind leven genen zien beminnen malkander staat"><a>16</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen wezen zaak brief reeden oorzaak eindelik maken antwoord seggen ontfangen genen liefde willen zien redenen goede leven gemoedt kennis gedaan malkander"><a>22</a>
+                            </td>
+                            <td id="TP" class="koning wezen staat genen dingen reeden plaets oorzaak leven eindelik zaak maken goede gedaan willen"><a>15</a>
+                            </td>
+                            <td id="unique" class="blanche ôt samuel arabella selven juffers vader princes bonnin gaen deedt naem yon ging dochter kamer tyndale prins solicofane marquis huys haest sulks man selfs haren ondertusschen tijd seyde gezien hert gekomen vermits deeden schoone hof parys sprak zoon weder bekent graef zeide persoon houden gelooven neemen filistor sagh noyt kwam oom viel vrankrijk gevoelen gedachten bad brieven schreef edelman oogen terstond genomen geweldig elkander geschreven"><a>66</a>
+                            </td>
+                            <td>17</td>
+                            <td id="euclidean" class="1380.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="054041341">054041341</td>
+                            <td id="KV" class="oorzaak wezen seggen goede ziel gezeid zijnde zien liefde willen reeden begeerte maken weeten plaets spreecken alsoo laet recht staat"><a>20</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten maken goede oorzaak eindelik laet recht ziel einde zien leven plaets weet willen zag maakte"><a>17</a>
+                            </td>
+                            <td id="ETHICA" class="ziel oorzaak wezen reeden goede liefde bemind leven begeerte zien recht weeten staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen weeten reeden weet oorzaak eindelik maken antwoord seggen liefde willen zien deur begeerte goede laet leven gemaakt gedaan"><a>20</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat reeden plaets oorzaak weeten leven eindelik maken goede ziel gedaan willen"><a>15</a>
+                            </td>
+                            <td id="unique" class="hattiga ridder deedt deezen gantsch gaen meesteres minste vrouw wist tijd kamer wereld man haest kond mario hert huys gourdan schoone ging zeide aga terstond bed minnaar vinden geeven kwam schip vermits laeten dag gelaat alidor genoeg manier ver osman weinigje houden eenemaal hand gelooven lieutenant geloofde oogen edelman dagen slaavin hield mé razia serraglio bekent vallen roovers gezien naem gekomen gramschap armen neemen vrouwen ziende verhaalen"><a>67</a>
+                            </td>
+                            <td>17</td>
+                            <td id="euclidean" class="1422.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="100626378">100626378</td>
+                            <td id="KV" class="god oorzaak dingen wezen goede verstaan nootzakelijk zijnde deel maken plaets staat"><a>12</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen verstaan geest maken nootzakelijk goede oorzaak middel eindelik einde leven plaets grootste voegen zag deel maakte nieuwe"><a>19</a>
+                            </td>
+                            <td id="ETHICA" class="deel dingen oorzaak wezen god goede nootzakelijk verstaan leven voegen volgen malkander staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wezen oorzaak verstaan voegen nootzakelijk eindelik maken kerck geest goede leven gemaakt gedaan malkander volgen"><a>18</a>
+                            </td>
+                            <td id="TP" class="koning wezen staat dingen plaets voegen menigte oorzaak oorlog leven nootzakelijk gehouden eindelik deel vrees grootste maken goede voeren gedaan"><a>20</a>
+                            </td>
+                            <td id="unique" class="leger deedt heilige tyd kristenen franschen vorsten stad land neemen duisend vorst paus keizer haest saladyn naem gantsch zee jaaren trekken rykaard jeruzalem sarazynen krachten palestina soldan hand honderd turken gedeelte alreeds europa wapenen meester jaar ver overwinning ptolemaïs koningen yver dagen doodt sirien deeden westersche grieken plaatsen lantschappen schoone man vergadering konstantinopolen vermits bergen gelegentheid vyanden filippus inzonderheid lieden landen heir kluizenaar volk moed minste"><a>66</a>
+                            </td>
+                            <td>16.4</td>
+                            <td id="euclidean" class="1491.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="841011095">841011095</td>
+                            <td id="KV" class="god dingen wezen goede ziel mensch liefde wil maken menschen gods alsoo laet recht staat"><a>15</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen geest maken goede laet menschen recht ziel meest leven weet altijdt tijt"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="dingen ziel wezen god mensch menschen goede liefde leven gods recht eeuwige wil tijt staat"><a>15</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wezen wil gods weet tijt maken menschen liefde geest christus niemand goede laet leven gemoedt altijdt"><a>19</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen dingen tijt leven mensch niemand vrees wil maken goede meest ziel vast altijdt"><a>17</a>
+                            </td>
+                            <td id="unique" class="hert stem wilt &gt; zijt mijne selfs psalm geeft ren jesu herten troost dag schoone lof vreugt wort haest oogen lust licht gaen selven zoete kind sonden vreugd quaet liefd weerelt gen soet maekt ziet weerelts dees gaet naem wereld diese heil rust zoud vader len wert lijden jesus dagen doot all godes huys volk kruys gunst sond eygen singen hemel aller eeuw kracht weder verdriet on bloet hoog heyl aerdsche eere"><a>72</a>
+                            </td>
+                            <td>16</td>
+                            <td id="euclidean" class="1516.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="10120213X">10120213X</td>
+                            <td id="KV" class="god natuur dingen wezen goede ziel mensch zien liefde willen waere wil menschen alsoo laet recht staat"><a>17</a>
+                            </td>
+                            <td id="TIE" class="dingen natuur wezen geest goede laet menschen recht ziel zien leven weet willen nieuwe"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="dingen ziel natuur wezen god mensch menschen goede liefde leven genen zien recht eeuwige wil waere staat"><a>17</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wezen natuur wil weet water menschen genen liefde willen zien geest christus goede laet leven gemoedt"><a>19</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat genen natuur menschen dingen leven mensch wil goede ziel willen"><a>13</a>
+                            </td>
+                            <td id="unique" class="ghy vers selven ô wereld ghelijck schoone mijne licht zijt wort lief vader ofte ver doodt eeuwigh gantsch vuur hemel daerom wegh sonden kracht sinnebeeldt gaet antwoordt goddelijck lijden ziet hert vleesch grondt aerde gaen genade paradijs ghoedt weder geeft christi vernuft uyterlijcke lust tijd verborgen ach jesus huys ruste eygen oude sterven buyten aertsche selfs oogen duysternis deezer lijf be sulck rijk och dag heyt kruys bloedt spreeckt vinden gen wast krachten"><a>73</a>
+                            </td>
+                            <td>16</td>
+                            <td id="euclidean" class="1519.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="852734786">852734786</td>
+                            <td id="KV" class="god dingen wezen goede ziel mensch zien liefde wil menschen iemand plaets laet recht staat"><a>15</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen geest goede laet menschen recht ziel zien meest leven plaets weet iemand altijdt nieuwe"><a>16</a>
+                            </td>
+                            <td id="ETHICA" class="dingen ziel wezen god mensch menschen goede liefde iemand leven zien recht wil staat"><a>14</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wezen wil weet acht menschen liefde zien geest niemand goede laet leven gemoedt altijdt"><a>17</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen dingen plaets steeden leven mensch niemand wil iemand goede meest ziel vast altijdt"><a>17</a>
+                            </td>
+                            <td id="unique" class="tijd hert selfs wereld &gt; lust dag geeft huys hebb licht gaet soet stem gaen schoone ia hoog selven sulks werk rust haest best ziet iesu leeft vreugd wilt doodt mijne ren oogen lof winter le wijs zijt stad saem psalm eensaem klein dees herten len steen kom zin spijs genoeg houdt pause doe ghelijck iesus schat volk re kracht land alhier diese hand man aerden verdriet gezelschap ghoedt gewoel gantsch vader aerdsche"><a>73</a>
+                            </td>
+                            <td>15.8</td>
+                            <td id="euclidean" class="1555.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="844270776">844270776</td>
+                            <td id="KV" class="zaak wezen seggen goede verstaan zijnde zien liefde willen kennen reeden maken weeten plaets spreecken verscheidene staat zaaken"><a>18</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten verstaan zaak geest maken goede eindelik einde zien leven plaets willen maakte"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="stond zaak wezen reeden goede liefde bemind verstaan leven zien weeten verscheidene staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="wezen zaak brief weeten reeden verstaan vriend eindelik maken antwoord seggen liefde willen zien geest redenen verscheidene goede leven gemaakt gedaan"><a>21</a>
+                            </td>
+                            <td id="TP" class="koning wezen staat reeden plaets weeten leven eindelik vrees zaak maken goede gedaan willen"><a>14</a>
+                            </td>
+                            <td id="unique" class="kristina marquis saint aubin deedt tijd deezen gaen don hertogin naem man kwam edelman graef huys haest geloofde wereld gekomen vrouw graavin ging neemen dag osseira kamer juffers vinden philips geeven vond meesteres gelegentheid zeide spanje houden persoon dagen hertog bad land marquizin genoeg bekent bezoeken ondertusschen terstond ziende dochter vrienden bleef oogen hof voorneemen woord gegeeven sprak vermits gedachten angosse wist kant vrouwen beloofde hand dienen"><a>67</a>
+                            </td>
+                            <td>16</td>
+                            <td id="euclidean" class="1576.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="83058031X">83058031X</td>
+                            <td id="KV" class="god zaak wezen seggen goede zijnde zien liefde willen wil maken spreecken verscheidene laet recht staat"><a>16</a>
+                            </td>
+                            <td id="TIE" class="wezen zaak geest maken goede eindelik laet recht einde zien leven weet willen zag maakte"><a>15</a>
+                            </td>
+                            <td id="ETHICA" class="stond zaak wezen god goede liefde bemind leven zien recht verscheidene wil staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen zaak wil weet eindelik maken seggen liefde willen zien geest redenen verscheidene goede geloof laet leven gemaakt gedaan"><a>21</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat leven eindelik zaak wil maken goede gedaan willen staan"><a>13</a>
+                            </td>
+                            <td id="unique" class="la mevrouw deedt ziet lausun schoone valliere gantsch wereld hert man dagen tijd deezen geluk princes mont dag madame koninglijke kleander ging lupania genoeg minnaar terstond juffers gaen huwelijk kond hoogheyd geeven mademoiselle le duisend kwam kamer vond klein geweldig haest houden hand schelikon armen zeide zijt vrouw gelaat zoud hof les dunkje du oogen manier hoofd antwoordde ha graef gegeeven bezoeken wijs hernam oogenblik doodt mejuffer nicht"><a>68</a>
+                            </td>
+                            <td>15.6</td>
+                            <td id="euclidean" class="1630.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843004517">843004517</td>
+                            <td id="KV" class="wezen seggen goede verstand zien reeden wil maken menschen iemand geenzins zeg plaets spreecken laet recht staat"><a>17</a>
+                            </td>
+                            <td id="TIE" class="verstand wezen geest maken goede laet menschen recht zien leven plaets weet iemand geenzins zag maakte"><a>16</a>
+                            </td>
+                            <td id="ETHICA" class="wezen menschen reeden goede bemind iemand leven zien recht verstand wil staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen reeden wil weet acht zeg zegt maken seggen menschen zien geest verstand niemand goede laet leven gedaan"><a>19</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen reeden plaets leven niemand wil iemand maken goede geenzins gedaan"><a>14</a>
+                            </td>
+                            <td id="unique" class="krispyn sofy gustaaf lysbeth valerius mevrouw klaret ach rudolf vaerzen ziet vaers schoone neen tooneel ô ren man hooren zyt woord ha geleerdheid gaen schyn bid hoor kom tyd officier wilt leggen apol hoog geleerd vader helaas hart geluk geleerde waereld deez naem aankomeling licht volk juffrou vrouw geeven durf eeren hoopen minste dochter kleed oog wys wensch godheid volg bloed stad straks krygt konst nou beleg oogen verheven gebooren wonder heet"><a>72</a>
+                            </td>
+                            <td>15.6</td>
+                            <td id="euclidean" class="1636.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="842850465">842850465</td>
+                            <td id="KV" class="oorzaak zaak dingen wezen seggen goede kennis zijnde zien willen maken weeten gesteld plaets verscheidene recht staat zaaken"><a>18</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen weeten zaak maken goede kennis oorzaak recht gesteld einde zien plaets willen"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="dingen zaak oorzaak wezen goede kennis zien recht weeten verscheidene gesteld staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen heeren wezen zaak weeten oorzaak maken seggen ontfangen willen zien redenen verscheidene goede kennis gemaakt gedaan geval"><a>18</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat dingen plaets oorzaak weeten gehouden zaak gesteld maken goede goederen gedaan willen"><a>16</a>
+                            </td>
+                            <td id="unique" class="crediteurs waaren jaaren �t tijd boeken cessie handel houden kooplieden compagnie commercie hoofdstuk betaalen klein order ordonnantie wisselbrieven franschen vermits plaatsen koophandel verkoopen schaden koopluiden gemelde vrankrijk hand meester mitsgaaders scheepen eiland landen betaald negotianten dag brieven genoeg luiden jonge neemen koopman licht effecten vrankryk drijven wijs handelen kinderen gegeeven schulden winkeliers geld toon geeven naderhand zee exposant laeten vinden kosten 1673 gerecht verkocht schuldig eilanden bankeroeten deezen beleid laatste persoon st"><a>72</a>
+                            </td>
+                            <td>15.6</td>
+                            <td id="euclidean" class="1641.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="289035708">289035708</td>
+                            <td id="KV" class="god dingen wezen goede mensch zijnde zien wil maken menschen gods laet recht staat"><a>14</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen maken goede laet menschen recht zien meest leven weet altijdt nieuwe tijt"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="dingen wezen god mensch menschen goede leven gods zien recht wil tijt staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wezen wil gods weet acht tijt maken menschen zien niemand goede laet leven gemoedt gedaan altijdt"><a>19</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen dingen tijt leven mensch niemand wil maken goede meest gedaan staan altijdt"><a>16</a>
+                            </td>
+                            <td id="unique" class="ghy nae tijd liedt stemme &gt; maeckt rust wet onderwind weynigh wilt dees mach ghelijck quaet best vroom langh jaar ys hert dag gaen selven geluk oude jaaren ofte winter gedachten zee lange leeft wort godes weynich zijt hondert jonge wenschen datmen geeft gaet wereld nacht strijdt sonden selfs man ghoedt stil singen ziet christum haest kindt last varen dickwils genaed on lof landts veer liedekens mijne hooren doorgaens daerom doe herten soet terstond"><a>74</a>
+                            </td>
+                            <td>15.2</td>
+                            <td id="euclidean" class="1671.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="853061548">853061548</td>
+                            <td id="KV" class="dingen wezen seggen goede ziel zijnde zien liefde willen maken weeten spreecken staat"><a>13</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen weeten geest maken goede ziel zien leven weet willen altijdt tijt"><a>13</a>
+                            </td>
+                            <td id="ETHICA" class="dingen stond ziel wezen goede liefde leven genen zien weeten macht tijt staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen wezen weeten weet tijt maken seggen genen liefde willen zien geest redenen niemand goede leven gedaan altijdt"><a>18</a>
+                            </td>
+                            <td id="TP" class="wezen staat macht genen dingen weeten saken tijt leven niemand vrees maken goede ziel gedaan willen vast altijdt"><a>18</a>
+                            </td>
+                            <td id="unique" class="ghy zelide alcidalis tijd wereld ofte deselve weder selfs selven koninginne hert noyt prins ging koningin gezien kond gaen zee lange sach schoone ghelijck datmen genoeg genegentheyt seyde meerder arragon dochter geloofde dagen scheen werk persoon landts schoonheyt dewelke beyde fortuin veele eygen geluk quamen sulken gedachten traanen lieden mijne hoofd dag deedt voorneemen diese deeden gekomen oogen oyt begost woorden kant plaatsen selver jonge sprak langh laten eenigh haest zoud kamer historie"><a>73</a>
+                            </td>
+                            <td>15</td>
+                            <td id="euclidean" class="1710.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843567775">843567775</td>
+                            <td id="KV" class="god zaak wezen goede lichaam ziel zijnde liefde willen waere wil menschen waarheid plaets laet recht"><a>16</a>
+                            </td>
+                            <td id="TIE" class="wezen zaak goede eindelik laet menschen recht ziel einde leven plaets willen maakte"><a>13</a>
+                            </td>
+                            <td id="ETHICA" class="stond ziel zaak wezen god menschen lichaam goede liefde leven recht wil waere"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen zaak wil eindelik antwoord kerck menschen liefde willen christus goede geloof laet leven gemoedt gemaakt gedaan waarheid"><a>20</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen menschen plaets leven eindelik zaak wil goede ziel gedaan willen"><a>13</a>
+                            </td>
+                            <td id="unique" class="keizer doodt naem zoon man woorden kwam deedt lib vader derhalven stad broeder gebod jaar eed jaaren dagen rijk jesus bloed gantsch duivel bracht vrouw hand hals dag huys tijd volk tyd hertog gebracht gekomen antwoordde laurens christenen vuur goden geeven veele rechter straks oogen sterven zeide lieden verbrand ziet geld aarde valsche voorbeelden vyanden zijns neemen christen bisschop genomen kind viel kamer bed vorst hemel werk gedood voorbeeld raad"><a>70</a>
+                            </td>
+                            <td>15</td>
+                            <td id="euclidean" class="1731.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="315198648">315198648</td>
+                            <td id="KV" class="god wezen seggen goede ziel mensch verstand zien liefde willen menschen weeten alsoo laet staat nochtans"><a>16</a>
+                            </td>
+                            <td id="TIE" class="verstand wezen weeten geest goede laet menschen ziel einde zien leven weet willen altijdt"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch menschen goede liefde leven genen zien beminnen weeten verstand staat"><a>14</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen weeten weet seggen menschen genen liefde willen zien geest verstand goede laet leven gedaan altijdt"><a>18</a>
+                            </td>
+                            <td id="TP" class="wezen staat genen menschen weeten leven mensch goede ziel gedaan willen altijdt"><a>12</a>
+                            </td>
+                            <td id="unique" class="ghy mijne selven ofte hebbe vande ghelijck hert ô ziet seght c doodt zijt sonden glorie sonde jesus wereld licht ghebedt tijd vader wilt eeuwigheyt lijden herten vreught wort soudt hemel mijnder eeuwigh eere lichaem quaet gaet inden pijnen saligheyt wercken sterven vyer daerom gaen jae gebedt noyt plaetse hoort gratie alder kommen manier woorden maecken eygen droefheyt оm maeckt dag saecke moeder welcken goetheyt jesu inwendigh aende helle tormenten ooghen dienen wegh laeten waerom"><a>75</a>
+                            </td>
+                            <td>14.8</td>
+                            <td id="euclidean" class="1746.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850277450">850277450</td>
+                            <td id="KV" class="wezen seggen goede ziel zijnde zien liefde volmaakte willen reeden wil maken soodanigh zeeker alsoo laet recht staat"><a>18</a>
+                            </td>
+                            <td id="TIE" class="wezen maken goede eindelik laet volmaakte recht diergelijke ziel zien leven weet willen altijdt maakte"><a>15</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen reeden goede liefde bemind yder leven zien recht wil staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="wezen reeden wil weet vriend eindelik maken seggen yder liefde willen zien goede genoech laet leven altijdt"><a>17</a>
+                            </td>
+                            <td id="TP" class="recht yder wezen staat reeden leven eindelik wil maken goede ziel willen altijdt"><a>13</a>
+                            </td>
+                            <td id="unique" class="cloris rosanier juffers zoete noyt minnaar tijd selven hert engel lief weder bekent rosette galant mejuffer ziet hemel bidde minne ouders gelieft ver dagelijks ghy huys hooren gaen welkers yver ha hebbe doe laten verliefde dag scheen zeggende neen mijne licht ô wiert koningin verlaaten begeeft begint spreekt stem meerder gezelschap ziende naem neemen doot vereyst zijt feest wetende kusjes wert oogen segh nacht gelieve verzoeken boezem mont ingenoomen wilt gezien vinden"><a>72</a>
+                            </td>
+                            <td>15</td>
+                            <td id="euclidean" class="1748.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="345410114">345410114</td>
+                            <td id="KV" class="god wezen goede ziel mensch zien reeden wil menschen gods laet recht staat"><a>13</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet menschen recht ziel zien leven weet maakte"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch menschen reeden goede quaad vermogen leven gods zien recht wil macht staat"><a>16</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen reeden wil gods weet menschen zien geest goede quaad laet leven gemoedt"><a>15</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat macht menschen reeden vermogen leven mensch vrees wil goede ziel staan vast geslacht"><a>17</a>
+                            </td>
+                            <td id="unique" class="ren hert &gt; psalm pause volk lof re naem len lijk kracht zijt heyl hand ach aarde eeuwigheyd nen woord stem mijne diese mont oogen nood ziet noyt gaen goedheyd dag lust hoog gerechtigheyd geweld land licht grond stand aart schoone handen doe huys geeft waarheyd strekt aangezicht wet vyand wien kind throon vreugd goedertierenheyd eere doodt zee loven angst dagen zegen tijd hemel hulp geef le wegen knecht wond hooren and voet"><a>73</a>
+                            </td>
+                            <td>14.4</td>
+                            <td id="euclidean" class="1792.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850091357">850091357</td>
+                            <td id="KV" class="goede ziel mensch kwaad kennis zijnde zien liefde reeden wil maken menschen iemand plaets alsoo staat"><a>16</a>
+                            </td>
+                            <td id="TIE" class="maken goede kennis eindelik menschen ziel einde zien leven plaets iemand vertoonen droefheit maakte"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="stond ziel mensch menschen reeden goede liefde kennis droefheit iemand leven zien wil staat"><a>14</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren brief reeden wil eindelik maken ontfangen menschen liefde zien goede leven kennis gedaan"><a>14</a>
+                            </td>
+                            <td id="TP" class="staat menschen reeden plaets vreede leven mensch eindelik wil iemand maken goede ziel gedaan"><a>14</a>
+                            </td>
+                            <td id="unique" class="labirinthia man invoegen tijd vrouw huys alfonsus wederom zoud kond schoone kwam syn selfs oogen kort dé derhalven wist pagie doodt haest selver begon sulks gezelschap deeden dikmaal geld mé naem duisend aanstonds gekomen gedurig genoeg mogt wereld ontrent gaen gosewind juffrou dapper besloot brand kwade dagen bragt meerder bekomen bedde eenigen galerius oorsake gonst duivel y ziende wijf boosheid schijn vrouwen persoon handel vreugde rust vermaak zeggende waarde geluk gramschap plaatsen"><a>72</a>
+                            </td>
+                            <td>14.4</td>
+                            <td id="euclidean" class="1811.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850259754">850259754</td>
+                            <td id="KV" class="oorzaak wezen seggen gezeid verstaan zijnde zien liefde willen wil maken weeten plaets spreecken verscheidene staat"><a>16</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten verstaan maken oorzaak eindelik zien leven plaets weet willen droefheit zag"><a>13</a>
+                            </td>
+                            <td id="ETHICA" class="oorzaak wezen liefde bemind droefheit verstaan leven zien weeten verscheidene wil staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen weeten wil weet oorzaak verstaan eindelik maken antwoord seggen liefde willen zien redenen verscheidene gevonden geloof leven gemaakt geval"><a>21</a>
+                            </td>
+                            <td id="TP" class="koning wezen staat plaets oorzaak weeten leven eindelik wil maken willen"><a>11</a>
+                            </td>
+                            <td id="unique" class="gonsalve �t zaide prins deedt alamir deezen alphonse gaen zeide schoonheid kwam woorden onbekende verwonderd felime don vinden man hernam scheen naem ongelukken doodt mevrouw sprak gezien haest oogen zulema afbeeldsel tijd dagen neemen geloofde gelooven dag geraakt olmond nacht wist gezicht tharsen begon manier verlaaten voorneemen niettemin kond vond antwoordde zoud kort eenzaamheid genoeg leon gekomen zee terstond zijt bracht oordeelen troost alreeds ging kamer fortuin bemerkte woord vriendschap"><a>70</a>
+                            </td>
+                            <td>14.6</td>
+                            <td id="euclidean" class="1836.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="240199065">240199065</td>
+                            <td id="KV" class="oorzaak zaak wezen seggen goede zijnde zien liefde reeden vooren begeerte maken weeten plaets spreecken alsoo staat"><a>17</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten zaak geest maken goede oorzaak eindelik zien leven plaets maakte"><a>12</a>
+                            </td>
+                            <td id="ETHICA" class="stond zaak oorzaak wezen reeden goede liefde bemind leven begeerte zien weeten staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="wezen zaak weeten reeden oorzaak eindelik maken antwoord seggen liefde zien geest niemand begeerte goede leven gedaan"><a>17</a>
+                            </td>
+                            <td id="TP" class="wezen staat reeden plaets oorzaak weeten leven niemand eindelik zaak maken goede gedaan"><a>13</a>
+                            </td>
+                            <td id="unique" class="alcander madame vande lausun sigh montespan kond deeden selfs wederom zeide selven sulx la monsieur man princesse hertog princes mareschalle wierde schoone yets gaen tijd hertoginne wereld gehadt werk gunst deselve ras houden ziende mogt vrouw sagh wist huys zoon bertillac gants gekomen hof laten gunt noyt longueville meende sogt ging oogen huwelijk gedagten begon datmen doot monsr gelooven minste neemen dagen meester weynigh tyd immiddels ferte geluk valliere gelijkse meerder naem kant yemant"><a>74</a>
+                            </td>
+                            <td>14.4</td>
+                            <td id="euclidean" class="1837.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850092558">850092558</td>
+                            <td id="KV" class="zaak dingen wezen seggen goede zien willen maken weeten plaets spreecken alsoo verscheidene staat"><a>14</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen weeten zaak maken goede eindelik einde zien leven plaets willen zag maakte"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="dingen stond zaak wezen goede leven zien malkander weeten verscheidene staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen heeren wezen zaak weeten eindelik maken seggen willen zien redenen verscheidene gevonden deur goede leven gemaakt gedaan malkander"><a>19</a>
+                            </td>
+                            <td id="TP" class="koning wezen staat dingen plaets weeten leven eindelik zaak maken goede goederen gedaan willen"><a>14</a>
+                            </td>
+                            <td id="unique" class="don tijd deedt hippolitus markos gaen huys haest matilde ging juffers neemen gekomen gantsch bed vermits terstond genoeg naem ondertusschen schoone kond dag vond kwam man meesteres augustijn meester gelaat izidora montafar pierre nacht prosper werk deezen laeten wereld helena jaaren ver moeite geweldig geeven handen oude broeder geld kamer princes gelooven begon wist vrouw genomen doodt mendes hoofd tafel woorden weduwe hand meende best stelde morgens hield vinden gelegentheid kosten"><a>71</a>
+                            </td>
+                            <td>14.4</td>
+                            <td id="euclidean" class="1842.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="840969589">840969589</td>
+                            <td id="KV" class="god wezen goede ziel mensch zien liefde reeden wil menschen zeg spreecken laet recht staat"><a>15</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet menschen recht ziel zien leven weet weêr"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch menschen reeden goede liefde leven zien recht wil macht staat"><a>14</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen reeden wil weet acht zeg weêr menschen liefde zien geest goede laet leven gemoedt"><a>17</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat macht menschen reeden leven mensch wil goede ziel vast"><a>13</a>
+                            </td>
+                            <td id="unique" class="hert liefd lust minne ach ô lief tijd wereld ofte mach doodt wild zijt vreugd gaen zoud noyt dees zoete deugd gaet lieve schoone vrouw diese man zoet maegd princes hemel cloris zinnen ziet bid trouw ey vader oogen minnen gunst hoop verdriet lusten vind eylaes geeft zonden mijne dag mits leer schijn dienst zin zaek neen nocht dragen hof philida zoekt geluk vreugde &gt; smert quaed meerder brand zeyd oorzaek echte zoon geschied wensch"><a>75</a>
+                            </td>
+                            <td>14</td>
+                            <td id="euclidean" class="1887.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850080940">850080940</td>
+                            <td id="KV" class="zaak dingen wezen seggen goede zijnde zien liefde willen maken weeten plaets verscheidene staat"><a>14</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen weeten zaak maken goede eindelik einde zien leven plaets willen zag maakte"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="dingen stond zaak wezen goede liefde leven zien malkander weeten verscheidene staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen wezen zaak weeten eindelik maken antwoord seggen liefde willen zien redenen verscheidene deur goede leven malkander"><a>17</a>
+                            </td>
+                            <td id="TP" class="wezen staat dingen plaets weeten leven eindelik vrees zaak maken goede willen vast"><a>13</a>
+                            </td>
+                            <td id="unique" class="polixenus â€˜t gaen tijd deedt angelika polidoor huys anselmus man filaste schoone terstond naem deurwaarder gantsch ziende wijs vond antwoordde kamer leonilla â€˜er genoeg haest kwam gekomen kort laeten gelegentheid ondertusschen dag lieden ging hand meester minnaar hoofd vinden huize alfonsus stad gezien oogen alreeds geeven tyd fabricius hert oude vermits dagen weinigje geloovende matres vader wien paard dikwils bekwaam gedachten vrouw woord broeder geld hooren viel wereld trad geheeten woorden zoon geweldig zeggende"><a>74</a>
+                            </td>
+                            <td>14</td>
+                            <td id="euclidean" class="1894.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="169189465">169189465</td>
+                            <td id="KV" class="god wezen goede ziel mensch liefde wil deel maken menschen gods recht staat"><a>13</a>
+                            </td>
+                            <td id="TIE" class="wezen geest maken goede menschen recht ziel leven weet deel nieuwe"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="deel ziel wezen god mensch menschen goede quaad liefde yder leven gods recht wil staat"><a>15</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil gods weet maken menschen yder liefde geest goede geloof quaad leven"><a>15</a>
+                            </td>
+                            <td id="TP" class="recht yder wezen staat menschen leven mensch deel vrees wil maken goede ziel staan vast"><a>15</a>
+                            </td>
+                            <td id="unique" class="verl hert ghy jesus all erva twijf verbond verst hertst erv wort werk noyt wet roem sie &gt; zijd toon zoon godg psal hebb bekommerde geloove ghelijck woord mont selfs och heil schult naem wert raad bek moedg mijne hand ruste bepr zang zijt doot will magh oogen lot dry vader heilige ziet intrest godes klag interest gansch veele gaen verligte lust gelooft hadd zonde wegh herten grond ervarene oog gunst eygen geloov len kragt plight"><a>76</a>
+                            </td>
+                            <td>13.8</td>
+                            <td id="euclidean" class="1902.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850278570">850278570</td>
+                            <td id="KV" class="oorzaak dingen wezen seggen goede zijnde zien liefde begeerte maken plaets verscheidene recht staat"><a>14</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen geest maken goede oorzaak eindelik recht einde zien leven plaets zag maakte nieuwe"><a>15</a>
+                            </td>
+                            <td id="ETHICA" class="dingen oorzaak wezen goede liefde leven begeerte zien recht verscheidene staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen wezen oorzaak water eindelik maken seggen liefde zien geest redenen verscheidene begeerte goede leven gemaakt gedaan"><a>17</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat dingen plaets oorzaak leven eindelik verkiezen maken goede middelen gedaan"><a>13</a>
+                            </td>
+                            <td id="unique" class="tijd land gantsch schoone dagen altemaal deedt jaaren schip stad zee zagen kond lieden sevarinde balsimé alreeds dag volk sermodas plaatsen kinderen minnaar ver alwaar invoegen wind kwamen ondertusschen werk zoon raad vrouwen franoskar deeden achting hoop lange genoeg gekomen veele vinden uuren best eenigen hert ziet gaen nuits wijs duisend mannen zijde landts geeven midden sevarambes gebracht haest neemen hof vermits paleis stelde welkers honderd geheeten mijlen hoog inzonderheid sporounde sevarminas gezag"><a>73</a>
+                            </td>
+                            <td>14</td>
+                            <td id="euclidean" class="1909.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850167434">850167434</td>
+                            <td id="KV" class="god dingen goede ziel mensch zien willen wil deel menschen weeten soodanigh gewaer plaets spreecken alsoo laet recht"><a>18</a>
+                            </td>
+                            <td id="TIE" class="dingen weeten geest goede laet menschen recht ziel zien leven plaets willen deel"><a>13</a>
+                            </td>
+                            <td id="ETHICA" class="deel dingen stond ziel god mensch menschen goede leven zien recht weeten wil"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren weeten wil antwoord menschen willen zien geest goede laet leven geesten"><a>14</a>
+                            </td>
+                            <td id="TP" class="recht menschen dingen plaets weeten leven mensch deel wil goede ziel willen"><a>12</a>
+                            </td>
+                            <td id="unique" class="nae sigh ghy mijne derhalven selven gantsch oude ghelijck deselve tijd man veele sagh vermits naem seyde laeten jae schoone doe wereld langh genoeg lieden maecken gaen wou weynigh vinden heenen woorden ontrent stil wyl yeder wegh noyt selver eyndlijck nevens allerley mannen beeter terstond huys wyven koop mogt jonge vrouwen best dickmael eeten paard houden ondertusschen zyt saecken moghten vrouw koomen heerlijck gaet haest datmen verr insonderheyd neemen yets hals deezer raad waerom helpen ging"><a>76</a>
+                            </td>
+                            <td>14</td>
+                            <td id="euclidean" class="1924.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850455359">850455359</td>
+                            <td id="KV" class="zaak wezen seggen goede ziel zijnde zien liefde willen maken spreecken alsoo laet recht staat"><a>15</a>
+                            </td>
+                            <td id="TIE" class="wezen zaak maken goede laet recht ziel zien leven willen droefheit tijt"><a>12</a>
+                            </td>
+                            <td id="ETHICA" class="ziel zaak wezen goede quaad liefde bemind droefheit leven zien recht tijt staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen zaak brief tijt maken antwoord seggen liefde willen zien goede quaad laet leven gedaan"><a>16</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat tijt leven zaak maken goede middelen ziel gedaan willen staan"><a>13</a>
+                            </td>
+                            <td id="unique" class="melinde wiert fidellus ikarus andromilia schoone zeggende cleo akronius vader ach pidius oogen huys ongelukkige gaen moeder nae bekent sterven ongeluk alwaar hert doot ue gekomen annaste naem weder wereld stad dag traanen dienaar zoon haest scheen constantia dewijle manier bruit laten och wederom meinde ofte mont neemen ontrent begost lange laeten mijne veele gink oude deeden wist huwelijk edelman genaamt komende minste gants selven waaren ô woorden hulpe dienst oprechte handen ziende gebracht"><a>74</a>
+                            </td>
+                            <td>13.8</td>
+                            <td id="euclidean" class="1927.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="84246042X">84246042X</td>
+                            <td id="KV" class="wezen seggen goede zien reeden wil maken weeten laet recht staat"><a>11</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten maken goede eindelik laet recht zien leven beginnen weet altijdt nieuwe tijt"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="wezen reeden goede leven genen zien recht weeten wil tijt staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen weeten reeden wil weet tijt eindelik maken seggen genen zien gevonden goede laet leven gemaakt altijdt"><a>18</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat genen reeden weeten saken tijt leven eindelik wil maken goede staan altijdt"><a>15</a>
+                            </td>
+                            <td id="unique" class="wort vrouw man kind ziet schoone och huys vermakelikheyt vreugde dikwils zijt juffrou meyt derhalven mach vrouwtje iuffrou vrienden hert gekomen malkanderen hoofd menigmaal vermakelikheden genoeg kraam huwelijk best lust vinden kraamheer geluckig loopt krijgen begint tijd wijn mé dag vroemoer baker laten zoon terstond straks ras bekomen stad vermaak bruit zoud jaar c geluk hoort schier doctor uur gaen lief buyten selven vader wind jonge nauliks gantsch gedurig krijgt minste hooren maanden hoop houden klein"><a>76</a>
+                            </td>
+                            <td>13.8</td>
+                            <td id="euclidean" class="1940.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="102181675">102181675</td>
+                            <td id="KV" class="wezen seggen goede ziel verstaan verstand zien reeden wil maken zeg derde plaets laet recht staat"><a>16</a>
+                            </td>
+                            <td id="TIE" class="verstand wezen verstaan maken goede laet recht ziel einde zien leven plaets weet weêr"><a>14</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen reeden goede verstaan leven zien recht verstand wil staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen reeden wil weet verstaan zeg maken seggen weêr zien meê verstand goede laet leven"><a>16</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat reeden plaets leven vrees wil maken goede ziel staan"><a>12</a>
+                            </td>
+                            <td id="unique" class="circe ulysses klaryn florinde tooneel lebrél arsidas schoone brutamont nóch veinzen mits kist lycidas tyd vermits tót antistes lybia óf kom zyt mevrouw diese ren hert hoog zee lucht zinnen smert clorisbe deezen tóch minnaar zwygen licht brunél deez gezicht ziet astrea land astréa brianda oogen ô lyk doodt vrouw straf schat hou grieken dieren timantes re weder gaen gevaar thisbe dianira polydoor archelaus florus reus ach staâg neen grooter supplianten ofte baaren jagt held bosch"><a>76</a>
+                            </td>
+                            <td>13.8</td>
+                            <td id="euclidean" class="1961.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="125341172">125341172</td>
+                            <td id="KV" class="god oorzaak dingen seggen goede lichaam zijnde zien willen wil deel menschen weeten soodanigh plaets alsoo"><a>16</a>
+                            </td>
+                            <td id="TIE" class="dingen weeten geest goede oorzaak menschen zien leven plaets willen deel"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="deel dingen oorzaak god menschen lichaam goede leven zien weeten wil"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren weeten wil oorzaak antwoord kerck seggen menschen willen zien meê geest goede leven gedaan geval"><a>18</a>
+                            </td>
+                            <td id="TP" class="koning menschen dingen plaets oorzaak weeten leven deel dier wil goede gedaan willen"><a>13</a>
+                            </td>
+                            <td id="unique" class="aard slangen sigh seyde tijd ghelijck deselve gantsch lees derhalven wijl selven slang jaar duivel nae veele adel doodt stad ontrent gedachte dickmael vroom wijs huys wou wijn woorden schoone selver doe wind geschied laten vrolyck viel vergif haren deedt selfs deezer boeken datmen buyten boose vleesch ondertusschen woord gaen verr mijne mogt antwoordede sijner storm beyde gedagten immers dag lieden jaaren terstond schaden land saeck oogen begon naem natuerlijcke gekomen geschieden soodanige belofte"><a>74</a>
+                            </td>
+                            <td>13.8</td>
+                            <td id="euclidean" class="1973.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850456665">850456665</td>
+                            <td id="KV" class="oorzaak wezen seggen goede zijnde zien noemen maken menschen weeten beschrijving plaets alsoo verscheidene recht staat"><a>16</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten maken goede oorzaak menschen alleenlijk recht einde zien meest plaets maakte"><a>13</a>
+                            </td>
+                            <td id="ETHICA" class="oorzaak wezen menschen goede alleenlijk zien recht weeten verscheidene staat"><a>10</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen weeten alleenlijk oorzaak water maken kerck seggen menschen zien verscheidene goede gemaakt"><a>14</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat menschen plaets menigte oorzaak alleenlijk weeten getal gehouden maken goede meest vast"><a>16</a>
+                            </td>
+                            <td id="unique" class="land zee stad egypten tijd plaatsen eiland dagen schoone oude scheepen gantsch naem klein hoog langs volk vermits landts rivier ziet jaaren ver turken mijlen gaen jaar bergen konstantinopolen boomen gelegen genoemd inwoonders honderd duisend vijf moeder strekt hoofd deezen somtijds lange best vind wind kopten bekwaam wilden gelegentheid vrouwen kwamen geweldig eilanden grieksche legt leggen huize houden wijd berg kercken selven wereld deeden welkers vallen gekomen dag gezien arabiers gebouwd"><a>71</a>
+                            </td>
+                            <td>13.8</td>
+                            <td id="euclidean" class="1978.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="53739132">53739132</td>
+                            <td id="KV" class="god wezen goede ziel mensch zien liefde wil menschen gods laet recht staat"><a>13</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet menschen recht ziel zien leven weet maakte"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch menschen goede quaad liefde leven gods zien recht eeuwige wil staat"><a>15</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil gods weet menschen liefde zien geest christus goede geloof quaad laet leven gemoedt"><a>17</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen leven mensch wil goede ziel staan vast"><a>11</a>
+                            </td>
+                            <td id="unique" class="nae hert tijd &gt; wereld wild on iesus vreugd schoone vroolijk lust zoet noyt heemels zijt heemel gaen liefd zoon doodt lijk ziet j heil c deugd heilige woord ren geeft lof aart lijden hoog rust re geeven booven nood koomen oogen oog rijk ont stemme goodes hand zonden aarde deez stem len licht schijn troost schat kruis zoud vind vaader christen aardze leefd doe dag gunst all kom iaa herten bereid zingen bloed kracht"><a>75</a>
+                            </td>
+                            <td>13.4</td>
+                            <td id="euclidean" class="1988.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850015146">850015146</td>
+                            <td id="KV" class="god zaak wezen seggen goede zijnde zien willen maken weeten plaets staat"><a>12</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten zaak geest maken goede eindelik einde zien leven plaets willen grootste maakte nieuwe"><a>15</a>
+                            </td>
+                            <td id="ETHICA" class="zaak wezen god goede leven zien weeten beelden staat"><a>9</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god wezen zaak weeten eindelik maken kerck seggen ontfangen willen zien geest christus goede geloof leven gemaakt gedaan"><a>18</a>
+                            </td>
+                            <td id="TP" class="koning wezen staat plaets oorlog weeten leven eindelik zaak grootste maken goede gedaan willen"><a>14</a>
+                            </td>
+                            <td id="unique" class="keizer leo tijd concilie deedt keizerrijk heilige paus kettery zoon naem historie jaaren geeven konstantinopolen constantinus bisschoppen franschen vrankrijk michiel gantsch beeldstormers bulgariers sarazijnen schrikkelijke vorst kwam kant jesus rijk haest godloosheid meester grieken patriarch honderd pepijn doodt romen oude vergadering religie dochter man houden hoofd copronymus vinden vader regering volk gaen asia raad oosten glorie deeden wapenen geduurende theodora inzonderheid gedeelte oogen klein herstellen throon vond johannes hert afbeeldsel italien dienst"><a>72</a>
+                            </td>
+                            <td>13.6</td>
+                            <td id="euclidean" class="2012.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="85016771X">85016771X</td>
+                            <td id="KV" class="god dingen goede ziel zijnde willen wil deel menschen gods weeten gesteld soodanigh verscheidene staat"><a>15</a>
+                            </td>
+                            <td id="TIE" class="dingen weeten goede menschen gesteld ziel leven willen deel blijven"><a>10</a>
+                            </td>
+                            <td id="ETHICA" class="deel dingen ziel god menschen goede leven gods weeten verscheidene gesteld wil staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren weeten wil gods kerck menschen willen verscheidene goede leven roomsche"><a>13</a>
+                            </td>
+                            <td id="TP" class="koning staat menschen dingen weeten getal steeden leven gehouden deel wil gesteld goede ziel goederen willen"><a>16</a>
+                            </td>
+                            <td id="unique" class="sigh nae gereformeerde kinderen jaar franckrijck deselve religie majesteit parijs selven hertog veele ghelijck tijd jaaren datmen ouders verbondene geestlijcke wijl gantsch franschen laeten onderdaenen jae volk gedachte navarre guise gaen maecken land landen doodt stad wapenen maght koomen naem seven saeck paus houden oude deezer selfs sijner kercken haers francrijck woord kroon godsdienst henrick edict geweld doe neemen papisten duisend welckese vertrecken francken derhalven rijk deedt insonderheyd gemaeckt ondertusschen ligue hugenoten woorden werk parlament"><a>75</a>
+                            </td>
+                            <td>13.4</td>
+                            <td id="euclidean" class="2021.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="375523685">375523685</td>
+                            <td id="KV" class="god wezen goede ziel mensch zien liefde wil deel menschen gods laet recht staat"><a>14</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet menschen recht ziel zien leven weet deel"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="deel ziel wezen god mensch menschen goede liefde leven gods zien recht eeuwige wil staat"><a>15</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil gods weet menschen liefde zien geest goede laet leven"><a>13</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat menschen leven mensch deel wil goede ziel staan vast"><a>13</a>
+                            </td>
+                            <td id="unique" class="iesus iesu hert syn ghy zijt ach ô wilt vader wereld ren ziet tijd kom schoone gaen &gt; ia zoon naem noyt selfs ligt ey wijs geeft hemel doe doodt wort heyl zoete sonden mijne re maeckt kind ghelijck dienst hand dag verdriet lijk zoud volk son oogen g lieve gaet lust kracht genade gantsch iaer land c heyligheyt vleesch weest licht soet lof hoog woord oog waerheyd leeft wien kragt broeder och eygen daerom huys bruydegom len"><a>78</a>
+                            </td>
+                            <td>13.2</td>
+                            <td id="euclidean" class="2025.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="842414908">842414908</td>
+                            <td id="KV" class="seggen goede ziel mensch zijnde zien liefde willen reeden wil begeerte laet staat"><a>13</a>
+                            </td>
+                            <td id="TIE" class="goede eindelik laet ziel zien leven willen soeken tijt"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="ziel mensch reeden goede liefde leven begeerte genen zien wil tijt staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren reeden wil tijt eindelik antwoord seggen genen liefde willen zien warelijk niemand begeerte goede laet leven gemoedt"><a>18</a>
+                            </td>
+                            <td id="TP" class="koning staat genen reeden tijt leven mensch niemand eindelik warelijk wil goede ziel goederen willen"><a>15</a>
+                            </td>
+                            <td id="unique" class="â€™t sigh doot deselve selven wederom nogh jaaren dogh doristea noyt oogen selfs kwam wereld mensghen rudulfus sulks vader vande ziet deeden hemel wort dewelke meerder mensgh vreugde vinden celadon haest geselsghap haren derhalven dikmaal sghoone ôer hernam hof gaen man laten geluk wiert wegh agh diese juffrou gebooren raad naem ™ eere aarde sagh zoud begaf seyde oude kond geld neder best begon rust edelman kwamen terstond jaar huwelijk zoon â€˜er laurentius neemen ontrent"><a>75</a>
+                            </td>
+                            <td>13.4</td>
+                            <td id="euclidean" class="2028.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="302775064">302775064</td>
+                            <td id="KV" class="god wezen goede ziel mensch liefde wil menschen gods alsoo laet recht staat"><a>13</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet menschen recht ziel leven weet altijdt nieuwe"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch menschen goede liefde leven gods recht eeuwige wil staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil gods weet menschen liefde geest christus goede laet leven oordeel gedaan altijdt"><a>16</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen leven mensch wil goede ziel gedaan staan vast altijdt"><a>13</a>
+                            </td>
+                            <td id="unique" class="ghy wilt wereld &gt; schoone ziet lof lief stemme gaen och zijt dees vader hert wort c sie sonden bruydegom tijd fijn kind doodt paulus oogen lust man klein sprak gaet gebooren klaer quaet ierusalem godes soet kindt verdriet int haest ghelijck rijk sagh stem doot leeren noyt laten volk wonder mijne herten liedeken reyn geestelijck nacht elck ey vreugt daerse ia dagen gantsch keeren vrouw geeft scheyden stad leydt moeder vergaert selfs zoete mach"><a>75</a>
+                            </td>
+                            <td>13.2</td>
+                            <td id="euclidean" class="2032.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="141577975">141577975</td>
+                            <td id="KV" class="oorzaak zaak wezen seggen goede kennis zijnde zien willen wil maken weeten alsoo"><a>13</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten zaak maken goede kennis oorzaak eindelik zien leven willen maakte nieuwe"><a>13</a>
+                            </td>
+                            <td id="ETHICA" class="stond zaak oorzaak wezen goede kennis leven zien weeten wil"><a>10</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen zaak weeten wil oorzaak eindelik maken seggen willen zien redenen deur niemand goede leven kennis gedaan"><a>18</a>
+                            </td>
+                            <td id="TP" class="wezen oorzaak weeten leven niemand eindelik zaak wil maken goede gedaan willen vast"><a>13</a>
+                            </td>
+                            <td id="unique" class="klein gantsch menist geld ging terstond tijd haest mé huys selven wereld genoeg gaen boer ondertusschen armen graavin avond haag gekomen molembais kwam wist mes degen kreeg begon dag dienst compagnie seyde vermits kond bloed naem man deedt dienaar guldens borg wachten herberg ziende klaasje ettelijke boeren vechten geweldig versocht setten snee wang hand nooden leonoor duisend ongeluk meende vrouw boode kleed niklaas jaaren gaet klaas meester geweer ver trok buyten raaken minste neemen vorders gezien"><a>76</a>
+                            </td>
+                            <td>13.4</td>
+                            <td id="euclidean" class="2035.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843374713">843374713</td>
+                            <td id="KV" class="wezen seggen goede ziel mensch kwaad verstaan zien liefde reeden wil geenzins zeg spreecken werken laet recht"><a>17</a>
+                            </td>
+                            <td id="TIE" class="wezen verstaan goede laet recht ziel zien leven weet geenzins"><a>10</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen mensch reeden goede liefde verstaan leven werken zien recht wil"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen reeden wil weet verstaan zeg seggen liefde zien niemand goede laet leven gedaan geval"><a>16</a>
+                            </td>
+                            <td id="TP" class="recht wezen reeden leven mensch niemand wil goede geenzins ziel gedaan staan"><a>12</a>
+                            </td>
+                            <td id="unique" class="jan leander izabel pedagoog juffrou wild deugd tooneel lodewyk huys man schoone pedag jy gaen hooren venster ach juffers nou oogen hoog vrouw ô neen hart dienst zorg ver draagen volk doed weder fles ist hoofd gevaar wys kwam bid tyd streeken schoonheid oit knecht sta ken monfreer schildwacht helaas last vraagen kend jeugd licht bedroogen spreek leerd lik vreezen maak minste volg merken doe bewaaren ziet zing ha lessen woorden mogt bloed leeren waagen wou"><a>76</a>
+                            </td>
+                            <td>13.4</td>
+                            <td id="euclidean" class="2048.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="37871854">37871854</td>
+                            <td id="KV" class="god wezen goede ziel mensch zien liefde wil gods laet recht staat nochtans"><a>13</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet recht ziel zien leven weet nieuwe tijt"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch goede quaad liefde leven gods zien recht eeuwige wil macht tijt staat"><a>16</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil gods weet tijt ontfangen liefde zien geest goede quaad laet leven"><a>15</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat macht tijt leven mensch wil goede ziel"><a>10</a>
+                            </td>
+                            <td id="unique" class="jesu jesus ô zijt hert wereld wort wilt noyt ziet &gt; toon schoone zonden dag hemel dees mach diese och vader kom zoon vreugt wijl geeft lust oogen geef naem gaen heyl licht ren dank doot zoud disch schult jaar psalm lieve leer oog hemels vleesch wijn troost heylig genade gena aart vreugde hant leeft liefd zegen deugt bloet gantsch houdt kind treden ider c sweerts zangen blijft huys christi throon zang hoog gunst laas len hel"><a>77</a>
+                            </td>
+                            <td>13</td>
+                            <td id="euclidean" class="2062.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="844006335">844006335</td>
+                            <td id="KV" class="wezen seggen ziel zien liefde reeden wil haat maken weeten iemand zeg plaets spreecken laet staat"><a>16</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten maken laet ziel zien leven plaets weet iemand weêr"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen reeden haat liefde bemind iemand leven zien weeten wil staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen weeten reeden wil weet zeg maken seggen weêr liefde zien geloof laet leven"><a>15</a>
+                            </td>
+                            <td id="TP" class="wezen staat reeden plaets weeten leven wil iemand maken ziel staan vast"><a>12</a>
+                            </td>
+                            <td id="unique" class="izabel waardin frederik philidia ferdinand philippyn meêr alonce schoone wyl man gaen elize zyt tooneel neen ga deez hoor hart ramp doodt nacht vreezen mevrouw ach licht minnaar trouw rust wilt vrouw vermaak geeven zyden helaas vader lyk hooren re ô tyd verdriet naem huys voel genoeg bed broeder ren verlaat verwacht dag spreek misdaad wanhoop gedreeven aanstonds verlaaten achterdocht gezicht schoonheid vertrekken ongeluk bid schynt best reên geeft begeeven geluk ei ongeval gebleeven gerucht bemin"><a>76</a>
+                            </td>
+                            <td>13.2</td>
+                            <td id="euclidean" class="2067.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="57041830">57041830</td>
+                            <td id="KV" class="god wezen goede ziel mensch liefde willen wil menschen gods laet recht staat"><a>13</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet menschen recht ziel leven willen altijdt nieuwe"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch menschen goede liefde leven gods recht samen wil staat"><a>13</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil gods menschen liefde willen geest christus goede laet leven altijdt"><a>14</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen leven mensch wil goede ziel willen staan samen vast altijdt"><a>14</a>
+                            </td>
+                            <td id="unique" class="ghy wilt end nae liedt &gt; wort zijt stemme vader hert herten zonden lof gheen wereld naem gheest psalm ziet gheeft schoone mach ghelijck elck quaet soet reyn gaet klaer klein gaen pause kracht loven onsen wert lijden blijft volk maeckt looft ofte och noot gheven prijs ghepresen rijk dees christum tijd bidde vleesch verheven wet hoort hooren wercken heyl neemt doot daerom zoon eeuwigh diese bereyt fijn christi weest hemels ghenade doodt licht goetheyt tijden moghen swaer"><a>78</a>
+                            </td>
+                            <td>13</td>
+                            <td id="euclidean" class="2070.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843545054">843545054</td>
+                            <td id="KV" class="oorzaak dingen seggen goede zijnde zien liefde willen wil begeerte weeten soodanigh plaets spreecken recht"><a>15</a>
+                            </td>
+                            <td id="TIE" class="dingen weeten goede oorzaak middel recht zien leven plaets willen"><a>10</a>
+                            </td>
+                            <td id="ETHICA" class="dingen oorzaak goede liefde leven begeerte genen zien recht weeten wil"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen heeren brief weeten wil oorzaak antwoord seggen ontfangen genen liefde willen zien redenen begeerte goede leven gemoedt gedaan"><a>19</a>
+                            </td>
+                            <td id="TP" class="recht genen dingen plaets oorzaak weeten leven wil goede gedaan willen"><a>11</a>
+                            </td>
+                            <td id="unique" class="wou selven soliman gantsch tijd mijne sigh doria mogt vermits ghelijck stad deselve laten ibrahim justiniaen selver sulck zee wijl neemen saeck raad bassa woorden sijner seyde ondertusschen gaen sultan schoone alreeds maecken doodt gesant vader derhalven genua axiamira terstond wijs hand deedt persoon isabella hoop begon hoogheyd eenemaal oogen geluk vinden naem eyndlijck schip constantinopol volk haest lijfeygene vryheid gedagten houden bevel noyt reys land rustan bekent dag diese blijdschap wist beval nadien hert"><a>75</a>
+                            </td>
+                            <td>13.2</td>
+                            <td id="euclidean" class="2097.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843834129">843834129</td>
+                            <td id="KV" class="zaak wezen seggen goede ziel zien liefde reeden wil haat laet recht staat haare"><a>14</a>
+                            </td>
+                            <td id="TIE" class="wezen zaak goede laet recht ziel einde zien leven weet zag"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel zaak wezen reeden goede haat liefde leven zien recht wil staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen zaak reeden wil weet seggen liefde zien goede laet leven geval roomsche"><a>14</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat reeden leven vrees zaak wil goede ziel staan"><a>12</a>
+                            </td>
+                            <td id="unique" class="caezar ptolomeus cleopatra pompeus vorst hert doed photinus ziet bloed maght hand mijne schoone gaen held geluk raad hoofd charmione doodt naem achillas septimius dienst goden oogen deugd wien geeven tooneel kroon ga land le throon lijk ren meêr deedt vader rijk tijd zege val caezars misdaad kund gift laatste zuster kornelia aegypte achoreus gevaar geweld waereld rome meester gedachten anthonius drift vlucht zoekt nood vermoogen volk staf wraak draagen straf achting wijl vloot vreugd licht"><a>76</a>
+                            </td>
+                            <td>12.6</td>
+                            <td id="euclidean" class="2165.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850611806">850611806</td>
+                            <td id="KV" class="oorzaak dingen seggen goede mensch zijnde zien liefde willen wil deel weeten soodanigh plaets spreecken"><a>15</a>
+                            </td>
+                            <td id="TIE" class="dingen weeten geest goede oorzaak zien leven plaets weet willen deel"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="deel dingen oorzaak mensch goede liefde leven zien weeten wil"><a>10</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen heeren brief weeten wil weet oorzaak antwoord seggen liefde willen zien geest goede leven geval"><a>16</a>
+                            </td>
+                            <td id="TP" class="dingen plaets oorzaak weeten leven mensch deel wil goede willen"><a>10</a>
+                            </td>
+                            <td id="unique" class="ghy â€˜t nae vrouw seyde marckgraef mijne gantsch sigh vrouwlijn schoone â€™t selven tijd ghelijck deselve mulionne wou vermits ridder montal wijl naem derhalven wijs maecken edelman saeck hernam persoon geschiedenis â€˜k woorden mevrouw clelie hooren noyt velzers gaen wegh terstond ondertusschen viel laten hof huys alreeds sagh gedachten deezer dag kamer bekent klein haest weynigh man gewisselijck sulck jae haren waerlijck begon heenen ging ach ontrent slot antwoordede houden gezelschap wereld selver eenigh mogt selfs vertellen graef"><a>78</a>
+                            </td>
+                            <td>12.4</td>
+                            <td id="euclidean" class="2250.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843389818">843389818</td>
+                            <td id="KV" class="god wezen goede ziel mensch kwaad zien wil menschen gods waarheid laet recht staat"><a>14</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet menschen recht ziel zien leven maakte"><a>10</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch menschen goede leven gods zien recht wil staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil gods kerck menschen zien geest christus goede laet leven waarheid"><a>14</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat menschen leven mensch wil goede ziel"><a>10</a>
+                            </td>
+                            <td id="unique" class="syn heil noyt volk hart ren zoud doodt &gt; zoon toon psalm re vreugd gunst zonden hand wilt maght woord schoone joden rot all bloed ô ziet gaen licht oog rust liev kind lust loov bruid leer aart vyands naem smart hemel heren oogen david geevt diese dathenus hoofd kragt toont gelovigen wet tyd zegen trant spreekt gansch vyand genade straf pad huys zyt glants deugd bruidegom nood toorn heidenen ramp ver dicht hoop schaar raad vreugde lov geev"><a>79</a>
+                            </td>
+                            <td>12</td>
+                            <td id="euclidean" class="2296.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="852771401">852771401</td>
+                            <td id="KV" class="god dingen wezen goede ziel mensch zien wil gods laet recht"><a>11</a>
+                            </td>
+                            <td id="TIE" class="dingen wezen geest goede laet recht ziel einde zien leven weet altijdt blijven"><a>13</a>
+                            </td>
+                            <td id="ETHICA" class="dingen ziel wezen god mensch goede leven gods zien recht eeuwige wil"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wezen wil gods weet zien geest goede laet leven altijdt"><a>13</a>
+                            </td>
+                            <td id="TP" class="recht wezen dingen leven mensch wil goede ziel vast altijdt"><a>10</a>
+                            </td>
+                            <td id="unique" class="hert vreugt doot doodt ghy sterven selfs haest troost huys doe sprak lik tijd ziet ô wijs lust mijne gaen ren dag hadd all zijt magh sulks kracht &gt; selven soet wilt wort hemel vader dagen mogt licht sterf oogen geef naem lief ia sang sonden kind lof vleesch iesu ach blijf dees wereld doodts gaet saem dats heenen kom hebb mits strijdt mont geeft rust sterft smert singen liefd voortaen graf noot mijns sterk dank riep sagh echt werk"><a>80</a>
+                            </td>
+                            <td>11.8</td>
+                            <td id="euclidean" class="2315.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="844281212">844281212</td>
+                            <td id="KV" class="oorzaak goede zijnde zien liefde reeden begeerte maken iemand nogtans plaets alsoo staat"><a>13</a>
+                            </td>
+                            <td id="TIE" class="maken goede oorzaak middel eindelik einde zien meest leven plaets iemand grootste maakte"><a>13</a>
+                            </td>
+                            <td id="ETHICA" class="stond oorzaak reeden goede liefde iemand leven begeerte zien staat"><a>10</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren reeden oorzaak eindelik maken liefde zien begeerte goede leven"><a>10</a>
+                            </td>
+                            <td id="TP" class="staat reeden plaets oorzaak saken leven eindelik grootste iemand maken goede meest goederen vast"><a>14</a>
+                            </td>
+                            <td id="unique" class="wederom ziende artezia minnaar dag geld kort huys meerder schoone gaen arzelius genoeg juffers zoud kond vond deedt tyd selver kwam ontrent naem gekomen vertoond wereld mits dagen kleederen dienst wist oogen doodt vergeefs voorneemen zalet stil vermaak begon namen handen tijd voldoen nevens houwelik oude neemen stad karos dagt bedrogen mogelik dikmaal man onsen haest selven laten mortentia oordeelde bekomen besloot noyt komende ongeluk houden vrouw waarlik gevangen kamer dacht hand vervoegde ging kwamen"><a>75</a>
+                            </td>
+                            <td>12</td>
+                            <td id="euclidean" class="2317.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850013267">850013267</td>
+                            <td id="KV" class="god oorzaak zaak seggen goede tweede plaets verscheidene recht staat zaaken"><a>11</a>
+                            </td>
+                            <td id="TIE" class="zaak geest goede oorzaak recht einde leven plaets maakte"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="zaak oorzaak god goede darde tweede leven malkander recht verscheidene staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren zaak oorzaak kerck seggen tweede geest verscheidene goede leven darde gemaakt gedaan malkander"><a>15</a>
+                            </td>
+                            <td id="TP" class="recht koning staat plaets oorzaak oorlog steeden leven gehouden zaak darde goede gedaan"><a>13</a>
+                            </td>
+                            <td id="unique" class="jaar jaaren deedt tyd paus zoon concilie naem keizer franschen lodewyk karel koningen koningryk stad landen hertog vrankryk provincien volkeren vader doodt parys heilige bisschoppen plaatsen broeder land veele graef vrouw romeinen bisschop aardtsbisschop gaule regering bourgondien hincmarus benden hugo philips germanien geduurende vienne lyon hield arles kinderen stierf oude dochter gaven reims deeden dag italien meester altemaal gebracht aquitanien geheeten tours stelde belangt trokken provence pausen volgende gegeeven vorsten gevangenis sterven keizerryk augustus vermits"><a>75</a>
+                            </td>
+                            <td>11.8</td>
+                            <td id="euclidean" class="2330.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="108874907">108874907</td>
+                            <td id="KV" class="god wezen goede ziel mensch zien liefde wil laet recht staat"><a>11</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet recht ziel zien meest leven weet altijdt"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch goede liefde leven zien recht wil staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil weet liefde zien geest goede geloof laet leven gemoedt altijdt"><a>14</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat leven mensch wil goede meest ziel staan altijdt"><a>11</a>
+                            </td>
+                            <td id="unique" class="ghy hert eeuwigh och wilt hemels lijck heyl tijd jesus mach hemel dag gaen ziet ia selfs elck ziels len schoone ghoedt ghelijck licht lieve vader noyt &gt; doodt dees wereldt kruys wegh heyligh zoud rijk gaet volmaeckt vroomen ey liefd soet hoop maeckt woordt geeft denck stemme ren lijden iesus aertsch steets c zijt troost vreught langh ach sonden aller lief maecken hoogh waerde wijs ooyt blijft diese kom godes lust vuur klein oogen vreughde eeuwigheydt gunst kracht soeckt"><a>80</a>
+                            </td>
+                            <td>11.6</td>
+                            <td id="euclidean" class="2362.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850247624">850247624</td>
+                            <td id="KV" class="goede zijnde zien liefde willen reeden vooren wil begeerte weeten waan plaets alsoo laet"><a>14</a>
+                            </td>
+                            <td id="TIE" class="weeten goede eindelik laet zien leven plaets willen gedwongen"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="stond reeden goede liefde leven begeerte genen zien weeten wil"><a>10</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren weeten reeden wil eindelik antwoord genen liefde willen zien begeerte goede laet leven gedaan geval"><a>16</a>
+                            </td>
+                            <td id="TP" class="genen reeden plaets weeten leven eindelik wil goede gedaan willen"><a>10</a>
+                            </td>
+                            <td id="unique" class="don alonzo wederom sigh begon deeden ghy vader begaf kwam droomen dag nagt haest gantsch ging hemel naem dikmaal doodt zeggende roovers dewelke zoon tijd slaap zijt zee fidelia bedde plaatsen kond juffrou hoorende genoeg derhalven meerder vond huys gaen dienen vinden wegh geluk zeide ach ziende alwaar sterven vermits terstond droom zoud neder neemen aarde paard leggen heenen gekomen stad dagt kleederen hoofd selver mogt weder duisend vertrouwen cinthia diodorus nogh vreugde wist voorneemen verstond ligt"><a>77</a>
+                            </td>
+                            <td>11.8</td>
+                            <td id="euclidean" class="2370.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="862243491">862243491</td>
+                            <td id="KV" class="god wezen goede ziel mensch liefde wil menschen laet recht staat nochtans"><a>12</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet menschen recht ziel leven altijdt"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god mensch menschen goede liefde leven recht wil staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil menschen liefde geest christus niemand goede geloof laet leven oordeel altijdt"><a>15</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen leven mensch niemand wil goede ziel altijdt"><a>11</a>
+                            </td>
+                            <td id="unique" class="ghy &gt; wijs ziet jesus wilt hert vasten hemels geeft gaet wereld zijt sondagh jesu doodt sondag maeckt wort ghoedt sonden licht och vader gaen eeuwigh schoone christi leert rijk bidt deught euang graci noodt huys hemel elck sprak wercken volk lof zoon alleluja dees muzijck selfs sond kruys neemt heden genaed jesum sondaer tijd dal werk weest man naesten broodt magh glori dag bloedt woordt seght matth vreught joan luc liefd leeft naem herten wensch lijden christo sinnen vyer"><a>80</a>
+                            </td>
+                            <td>11.6</td>
+                            <td id="euclidean" class="2377.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="167762656">167762656</td>
+                            <td id="KV" class="god wezen goede ziel zien liefde wil laet recht staat"><a>10</a>
+                            </td>
+                            <td id="TIE" class="wezen geest goede laet recht ziel zien leven weet tijt"><a>10</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god goede liefde leven zien recht eeuwige wil tijt staat"><a>12</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil weet water tijt liefde zien geest goede laet leven gemoedt"><a>14</a>
+                            </td>
+                            <td id="TP" class="recht koning wezen staat tijt leven wil goede ziel staan vast"><a>11</a>
+                            </td>
+                            <td id="unique" class="hert iesus iesu mijne ziet gaen &gt; sijt wilt ach siel selfs w schoone liefste maeckt ghelijck kom och noyt sonden ey wijs wort oogen geeft stem heyl ren eeuwigh lijck gaet ia psalm dees eygen sie lust kracht wind bruit liefd licht doot heylich hand wijn wereld zoud bloet ghy xi rust re zijt open xii singen hoort wert wegh volk loopen vind smert soet zoete oog wet langer mach heerlijck doode hoog huys weder ligt werk zoon"><a>79</a>
+                            </td>
+                            <td>11.4</td>
+                            <td id="euclidean" class="2394.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="125103360">125103360</td>
+                            <td id="KV" class="god goede ziel liefde wil maken laet recht staat"><a>9</a>
+                            </td>
+                            <td id="TIE" class="geest maken goede laet recht ziel meest leven altijdt maakte tijt"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel god goede liefde leven malkander recht samen wil tijt staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wil acht tijt maken kerck liefde geest goede laet leven altijdt malkander"><a>14</a>
+                            </td>
+                            <td id="TP" class="recht staat tijt leven wil maken goede meest ziel staan samen altijdt"><a>12</a>
+                            </td>
+                            <td id="unique" class="ziet zijt selfs hert saam gaen noyt liefd lust jesus oit singen vreugt klein huys schoone kom haest mits yver buerte wijs lof voortaan best &gt; woont meugt doe malkaar aar hoort wort werk somtijts dag eiberg hupsel gemeinte immer wilt geeft neemt isser hoog gesangen fol genoegen kont haken herten langs wegh weder schijn hebb blijdschap all wereld denkt blijft houdt buerten sie deugt sulks sang licht buert leeft goets naem stem jaaren mallem gank wind verdriet mijne"><a>79</a>
+                            </td>
+                            <td>11.4</td>
+                            <td id="euclidean" class="2399.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="126596751">126596751</td>
+                            <td id="KV" class="oorzaak seggen goede zien liefde willen kennen vooren wil maken weeten nogtans plaets spreecken"><a>14</a>
+                            </td>
+                            <td id="TIE" class="weeten maken goede oorzaak zien meest leven plaets willen gedwongen zag"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="oorzaak goede liefde leven zien weeten samen wil"><a>8</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren weeten wil oorzaak maken antwoord seggen liefde willen zien goede leven gedaan"><a>13</a>
+                            </td>
+                            <td id="TP" class="plaets oorzaak weeten leven wil maken goede meest gedaan willen samen vast"><a>12</a>
+                            </td>
+                            <td id="unique" class="huys syn wederom kost ras vader marquis moeder sulx deedt neef bed tyd gekomen gaen laatste woorden naem vrouw nagt wereld alwaar aanstonds begaf ging philax derhalven dag kamer oogen geluk dagen wist zeggende doodt laten gezien deselve geringste selven langer haest la fleur mogt hoenderen graef gelooven man dienst kamerdienaar ondertusschen oordeelde begost most luiden wys vinden roepen arm broeder klein schoone bekent helpen hals geregt voet bevel vreugde selver daags clarice tafel tuin kreeg daad"><a>77</a>
+                            </td>
+                            <td>11.6</td>
+                            <td id="euclidean" class="2422.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843834056">843834056</td>
+                            <td id="KV" class="wezen goede gezeid kwaad zien reeden wil menschen zeg plaets laet recht staat zaaken"><a>14</a>
+                            </td>
+                            <td id="TIE" class="wezen goede laet menschen recht zien leven plaets weet weêr nieuwe"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="wezen menschen reeden goede leven zien recht wil staat"><a>9</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen reeden wil weet zeg weêr menschen zien goede geloof laet leven"><a>13</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat menschen reeden plaets leven wil goede staan"><a>10</a>
+                            </td>
+                            <td id="unique" class="steiloor heerman goedaard jy willegond óf ruffina wél lekker huys katryn óp én tooneel hoor vrouw nóch freer dunkt broêr geeven vreezen kom land gek genoeg kyk vind kleed tót wou neen jonkheid lyk ziet vraagen sluiten ga gaen geeft wyz man deez trouw licht somtyds bedryf raad re zyt straks hoed behaagen dienaar laeten bezoek héb werk vryheid hart loop kamer buurt voogden meid voogd zwyg stil hooren and zeden fatsoen waereld mode gewoonte staag praaten jeugd lust"><a>79</a>
+                            </td>
+                            <td>11.4</td>
+                            <td id="euclidean" class="2452.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="318986590">318986590</td>
+                            <td id="KV" class="god dingen goede ziel zien wil deel gesteld alsoo laet"><a>10</a>
+                            </td>
+                            <td id="TIE" class="dingen geest goede laet gesteld ziel zien leven droefheit deel maakte tijt"><a>12</a>
+                            </td>
+                            <td id="ETHICA" class="deel dingen ziel god goede droefheit leven zien gesteld wil tijt"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god dingen heeren wil tijt zien geest goede laet leven gemaakt gedaan"><a>12</a>
+                            </td>
+                            <td id="TP" class="dingen tijt leven deel wil gesteld goede ziel gedaan vast"><a>10</a>
+                            </td>
+                            <td id="unique" class="all selfs hoog mijne hert dochter ziet &gt; gansch dag selven volk gaen wijs wort aart ed mont straten klaag heil haest gezien hoofd liederen oogen hemel sions handen oude hebb singen vyanden ach wegen sonden jerusalem hant gen schoone noot heden vyant psalm rijm jeremias waarde dragen sulks midden geeft hadd dagen swaar volks aarde voortaan woorden c noyt lant tijden naem kracht immers stad saam helaas rust herten harer broot toorns sterk onses eere toorn zijt hoort stem mits"><a>81</a>
+                            </td>
+                            <td>11</td>
+                            <td id="euclidean" class="2487.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="164370390">164370390</td>
+                            <td id="KV" class="god wezen goede zien reeden maken gods gesteld laet recht staat"><a>11</a>
+                            </td>
+                            <td id="TIE" class="wezen maken goede laet recht gesteld zien leser tijt"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="wezen god reeden goede gods zien recht gesteld macht tijt staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen reeden gods tijt maken zien goede laet gedaan"><a>11</a>
+                            </td>
+                            <td id="TP" class="recht wezen staat macht reeden vreede tijt steeden gesteld maken goede gedaan staan"><a>13</a>
+                            </td>
+                            <td id="unique" class="volk dees doe re holland noyt land ren lijck raad regeerders naem selven landts stad doot willem vryheyt vryheid snoode man werk dogh hert hollands haest diese gewelt geld hoofd lant wort staats gaen selfs staaten buyten themis schoone len vaderland nogh ô dwing landy elck eeuw prins heyl oyt meester bloet schip neen vader jaaren twist socht best gantsch sulck kost eygen leden langh vorst saacken sach hoogh quansuys stuck loos schelm dag wou saack dienst schrick sigh spoor schat"><a>81</a>
+                            </td>
+                            <td>11</td>
+                            <td id="euclidean" class="2498.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="844270504">844270504</td>
+                            <td id="KV" class="god oorzaak wezen goede zijnde zien liefde vooren plaets alsoo staat"><a>11</a>
+                            </td>
+                            <td id="TIE" class="wezen goede oorzaak eindelik einde zien leven plaets altijdt"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="stond oorzaak wezen god goede liefde bemind leven zien malkander staat"><a>11</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen brief oorzaak eindelik liefde zien redenen deur goede leven gemoedt altijdt malkander"><a>15</a>
+                            </td>
+                            <td id="TP" class="wezen staat plaets oorzaak leven eindelik goede vast altijdt"><a>9</a>
+                            </td>
+                            <td id="unique" class="ghy tijd weder huys selven wiert margareet amilia rudolf oogen ferdinand langh schoone ging man selfs sagh noyt aurelia leander vader gaen vrouw valerius oude laten dagen wist gekomen deedt naem dag gedachten nevens sulck begon kort laurens kond genoeg haest wederom bracht minnaar maximus seecker zoon weynigh seyde geldt julius hof jonge ver dacht neemen kamer ziende mogelijck bed vroegh dienaar droefheydt voorneemen scheen werk dochter nacht hoop woorden gehadt geluk versoeck beloften wereldt frederick"><a>76</a>
+                            </td>
+                            <td>11</td>
+                            <td id="euclidean" class="2504.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="98852345">98852345</td>
+                            <td id="KV" class="oorzaak dingen goede lichaam zijnde zien vooren maken weeten deelen beweginge verscheidene laet"><a>13</a>
+                            </td>
+                            <td id="TIE" class="dingen weeten maken goede oorzaak laet zien meest maakte"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="dingen oorzaak lichaam goede genen zien gevolg weeten verscheidene"><a>9</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen weeten oorzaak water maken genen zien verscheidene goede deelen laet geesten gemaakt"><a>13</a>
+                            </td>
+                            <td id="TP" class="genen dingen menigte oorzaak weeten gevolg maken goede middelen meest vast"><a>11</a>
+                            </td>
+                            <td id="unique" class="kinderen bloed suur kind ofte deeltjes unc melk recipe gebruiken slym sappen geduirig hoofd darmen laten kindertjes tanden sem f vogten selven weder zuur gaen lange selfs wormen gebeurt huid eten vogt geraken diergelyke kliertjes c geboren pap maag stuk koude wederom ziekte duas krygen hersenen genesinge buik geeft moeders genoeg houden gyl meerder neemen sulx leggen geschied bewogen dik drach oude bier allenxkens terstond zenuw stuipen ziet noyt aa beenen misce toevallen oogen drinken volgende oorsaken"><a>77</a>
+                            </td>
+                            <td>11</td>
+                            <td id="euclidean" class="2530.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="139884238">139884238</td>
+                            <td id="KV" class="god wezen goede ziel willen wil maken gods alsoo laet recht"><a>11</a>
+                            </td>
+                            <td id="TIE" class="wezen maken goede laet recht ziel meest leven willen blijven nieuwe"><a>11</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god goede leven gods recht wil macht"><a>9</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil gods maken willen goede laet leven gedaan"><a>11</a>
+                            </td>
+                            <td id="TP" class="recht wezen macht steeden leven wil maken goede meest ziel gedaan willen"><a>12</a>
+                            </td>
+                            <td id="unique" class="ghy wilt volk &gt; wort admirant stad wijs duc geusen wert prins bloet dees graef elck hoort gaen lant quamen geus spaengiaerts princes zijt paus edel sagh man antwerpen papen ziet vive vande dag scheepen hondert daerom doodt hert klein noot grave geld quaet menigh handen vlaenderlant landen doot haren tijd gaet ofte wederom fy datmen spaengien hooren oorlof gewelt haest sprak hollant schoone landts gekomen le weder zee vyant oostent raet liedt borgers saghmen haerlem schip schanden liedeken ist keert"><a>81</a>
+                            </td>
+                            <td>10.8</td>
+                            <td id="euclidean" class="2557.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="054041104">054041104</td>
+                            <td id="KV" class="goede mensch zijnde zien reeden begeerte maken iemand plaets alsoo staat"><a>11</a>
+                            </td>
+                            <td id="TIE" class="maken goede eindelik einde zien leven plaets iemand maakte"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="mensch reeden goede iemand leven begeerte zien staat"><a>8</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren reeden eindelik maken antwoord zien niemand begeerte goede leven gemaakt gedaan"><a>12</a>
+                            </td>
+                            <td id="TP" class="staat reeden plaets leven mensch niemand eindelik iemand maken goede goederen gedaan vast"><a>13</a>
+                            </td>
+                            <td id="unique" class="diomedus geld wederom deeden haest invoegen kond naem huys koopman tijd ziende guldens kwam aanstonds selfs meerder begaf bekomen begon dag sulks selven wijn derhalven deselve gaen dagen gekomen kort dikmaal schoone zenodorus doodt dagt winkel zoud wist zeide reets meester zeggende laten handel handen kist amsterdam deedt dief kwade bedrogen neemen oogen gedurig genoeg betaalen leggen persoon vinden minste nagt ontrent plaatsen dienaar bragt overmits bevond man amfidon kwamen ging goud gl bedrog zijde voorneemen maght datmen"><a>78</a>
+                            </td>
+                            <td>10.6</td>
+                            <td id="euclidean" class="2618.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="392509768">392509768</td>
+                            <td id="KV" class="wezen seggen ziel zijnde zien liefde reeden wil soodanigh plaets spreecken staat"><a>12</a>
+                            </td>
+                            <td id="TIE" class="wezen eindelik ziel einde zien leven plaets grootste zag"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="stond ziel wezen reeden liefde bemind leven zien wil staat"><a>10</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen brief reeden wil vriend eindelik seggen liefde zien leven gemoedt"><a>12</a>
+                            </td>
+                            <td id="TP" class="wezen staat reeden plaets leven eindelik grootste wil ziel"><a>9</a>
+                            </td>
+                            <td id="unique" class="arantus rosemont nae sprak oronto dianiere wijl huys cleriaen hemel coredon leliana nacht selvige ziende schoone re vinden naem hert zoete scheen tijd doorethe juffers elkander hart oogen lief kandoris broeder kamer gaen dag arkel waerde gevaer wilt zoon beyde derhalven dochter buyten bracht langs gezelschap minnaar boezem vond persoon uuren doodt gaet bekomen riep handen ghy minne vertoond maegt viel ach noyt schier gedachten hoofd gink dienaar nerandus poort wegh quamen vindende and langer blijdschap serarius"><a>77</a>
+                            </td>
+                            <td>10.4</td>
+                            <td id="euclidean" class="2644.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843452307">843452307</td>
+                            <td id="KV" class="oorzaak dingen seggen goede zijnde zien maken weeten plaets verscheidene staat"><a>11</a>
+                            </td>
+                            <td id="TIE" class="dingen weeten maken goede oorzaak eindelik einde zien plaets maakte"><a>10</a>
+                            </td>
+                            <td id="ETHICA" class="dingen oorzaak goede zien malkander weeten verscheidene staat"><a>8</a>
+                            </td>
+                            <td id="EPISTOLAE" class="dingen weeten oorzaak water eindelik maken seggen zien verscheidene goede gemaakt gedaan malkander"><a>13</a>
+                            </td>
+                            <td id="TP" class="staat dingen plaets oorzaak weeten eindelik maken goede gedaan vast"><a>10</a>
+                            </td>
+                            <td id="unique" class="schip gantsch uuren land gaen haven scheepen kasteel kapitein schoone stad ziet eiland deedt hand gedachten zagen terstond geweldig genomen franschen dicht ondertusschen plaatsen kwamen put tijd kwam volk wind vlag zee altemaal genoemd zes gekomen kairo schooten bark dagen honderd mannen geeven oude daags zijde sanbiker roovers kanon laeten veele kort sicilien klein morgens aarde duisend tien naem belangt deezer deezen rots dag deeden haest prijs galjoot jaaren leggen messina langs gezicht grieken gingen middag gebracht achterkasteel neemen malta gelegen"><a>81</a>
+                            </td>
+                            <td>10.4</td>
+                            <td id="euclidean" class="2657.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="168756714">168756714</td>
+                            <td id="KV" class="god wezen goede liefde wil maken laet staat"><a>8</a>
+                            </td>
+                            <td id="TIE" class="wezen maken goede laet leven weet nieuwe tijt"><a>8</a>
+                            </td>
+                            <td id="ETHICA" class="wezen god goede liefde yder leven samen wil tijt staat"><a>10</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil weet tijt maken yder liefde goede laet leven gedaan"><a>13</a>
+                            </td>
+                            <td id="TP" class="koning yder wezen staat tijt leven wil maken goede gedaan staan samen"><a>12</a>
+                            </td>
+                            <td id="unique" class="ha gaen ziet schoone gaet ghy dees wilt lief ach &gt; hert soet voys c viva daerom herderin oranje hoort zoete minne trou man vrouw zijt neen ia och verdriet herder wort lust vreught ey verlaaten sprak prins wiert kind huys geeft spruyt bruit spijt hemel kom weest luyster son stralen vryer mey hout gerust ras zin ghelijck bron bid galant mijne sagh dag boer hoofd hoogh maeckt sa liefste ´t dou schieten pijn neer keer hant britse helt daelt schoot weder"><a>82</a>
+                            </td>
+                            <td>10.2</td>
+                            <td id="euclidean" class="2673.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="292658230">292658230</td>
+                            <td id="KV" class="god wezen goede ziel zien willen wil alsoo laet staat"><a>10</a>
+                            </td>
+                            <td id="TIE" class="wezen goede laet ziel einde zien leven willen nieuwe"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god goede leven zien samen wil staat"><a>9</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil water acht willen zien goede laet leven gedaan"><a>12</a>
+                            </td>
+                            <td id="TP" class="koning wezen staat leven wil goede ziel gedaan willen staan samen"><a>11</a>
+                            </td>
+                            <td id="unique" class="ghy wilt &gt; gaen schoone sagh lief c gaet vader ruyter maeght hert ziet sprak doodt man naem ach zijt haerlem och tijd dag meysje zoud langh doe an morgens wort ghelijck stem kindt weder noyt vrouw klein geeft moy wijn sat zoete lieve ging ginck kind huys dees stemme oogen ia nacht liedt land neen vlieger soet liedeken fijn wijf kom seven dagen laten hoog singen hoofd iaren haest iaer hansken neder leyt hondert sterven oorlof zee loon hey"><a>80</a>
+                            </td>
+                            <td>10.2</td>
+                            <td id="euclidean" class="2683.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843004479">843004479</td>
+                            <td id="KV" class="zaak goede ziel kwaad zien bestaan wil haat maken plaets laet staat haare"><a>13</a>
+                            </td>
+                            <td id="TIE" class="zaak maken goede laet ziel einde zien leven plaets weet"><a>10</a>
+                            </td>
+                            <td id="ETHICA" class="ziel zaak goede haat leven zien wil staat"><a>8</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren zaak wil weet acht maken zien goede laet leven roomsche"><a>11</a>
+                            </td>
+                            <td id="TP" class="staat plaets leven vrees zaak wil maken goede ziel"><a>9</a>
+                            </td>
+                            <td id="unique" class="én cinna mét hém doodt bloed emilia maximus tót rome augustus vryheid vader déze wél óf ren nóch élk hén zélf hart hoofd wilt maght zyt wraak tyd gevaar héb hand romen wéêr cézar keizer schoone geeven belang ga récht re naem roem deugd vólk één fulvia gebied raad schynt tóch góôn lót wreeken moed tooneel bén throon bezit zélve waereld sléchts schat hoog tieran doe licht and gunst loon moog vólg staaten réên heil aanslag zéggen land wélk dienen"><a>80</a>
+                            </td>
+                            <td>10.2</td>
+                            <td id="euclidean" class="2720.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="054044723">054044723</td>
+                            <td id="KV" class="wezen seggen goede zijnde zien maken weeten soodanigh plaets alsoo staat"><a>11</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten maken goede eindelik zien leven plaets"><a>8</a>
+                            </td>
+                            <td id="ETHICA" class="stond wezen goede leven zien weeten staat"><a>7</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen weeten eindelik maken seggen zien deur niemand goede leven gedaan gelegentheyt"><a>13</a>
+                            </td>
+                            <td id="TP" class="wezen staat plaets weeten leven niemand eindelik maken goede gedaan staan"><a>11</a>
+                            </td>
+                            <td id="unique" class="michiel ioncker moesel geld vander huys gantsch haest tijd terstond mé man selven ging guldens oude begon hand gaen vrouw haag kwam klein vermits dagen wist ghelijck syn seyde ondertusschen herberg gekomen armen fortuin dag deedt ziende geluk joncker woorden versocht vrienden bloed naem leyden meester speelen maecken ver sulck vallen manier vinden hoofd orlogie naast paerden schoone zeggende kreeg best ongeluk gedachten buyten kamer meende eerlijck stalmeester hals ettelijke neemen messieurs laeten genoeg penningen greep schout werk jaaren geeven"><a>80</a>
+                            </td>
+                            <td>10</td>
+                            <td id="euclidean" class="2765.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="830010750">830010750</td>
+                            <td id="KV" class="god wezen goede ziel liefde wil plaets laet staat"><a>9</a>
+                            </td>
+                            <td id="TIE" class="wezen goede laet ziel leven plaets weet altijdt nieuwe"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="ziel wezen god goede liefde bemind leven wil staat"><a>9</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wezen wil weet liefde goede laet leven gedaan altijdt"><a>11</a>
+                            </td>
+                            <td id="TP" class="wezen staat plaets leven wil goede ziel gedaan staan altijdt"><a>10</a>
+                            </td>
+                            <td id="unique" class="ghy schoone la wilt &gt; hert stemme och gaen liedt ziet lief minne ach begint gaet alst man c huys zin zoete hoy mijne wijn soet hart noyt verdriet herder dees doot zee trouw amoreus lantman zijt oogen vreught schoonheyt schaepjes suchten boer ey sinnen smert menigh gebeuren pijn groene godin sprak langh traanen titer ghelijck geeft sterven hemel son minnen tijd dagen herderin wiert doodt wort velt nacht moy troost verlaaten biron stroy verheven ia daerom hooren dag scheen gemaeckt herderinne verandert"><a>83</a>
+                            </td>
+                            <td>9.6</td>
+                            <td id="euclidean" class="2813.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="100817378">100817378</td>
+                            <td id="KV" class="zaak wezen goede zien reeden wil spreecken laet staat zaaken"><a>10</a>
+                            </td>
+                            <td id="TIE" class="wezen zaak goede laet zien leven weet weêr"><a>8</a>
+                            </td>
+                            <td id="ETHICA" class="zaak wezen reeden goede leven zien wil staat"><a>8</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen zaak brief reeden wil weet weêr zien goede laet leven gedaan"><a>13</a>
+                            </td>
+                            <td id="TP" class="wezen staat reeden leven zaak wil goede gedaan vast"><a>9</a>
+                            </td>
+                            <td id="unique" class="filibert wél geertruy joris én volkert zél huys héb nóch bely tooneel mét neef sinjeur jy nou man kozyn zég gaen och vrouw wilt neen meêr ioris kom zéker spreek reis géld juffrou hém vólkert avond betaalen weest tót zéggen guit langer zélf blyven wacht haalen zélver krygen vaar heur ga hartje hét bén hébt lief ey mórgen tóch hoor ziet wachten verdriet vernoomen gegaan licht bloed woord ei drommel zen vreeden schoone zweer ménsch vreên geertrui vaardig begeeven schryven morgens hart gantsch"><a>83</a>
+                            </td>
+                            <td>9.6</td>
+                            <td id="euclidean" class="2836.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="84356928X">84356928X</td>
+                            <td id="KV" class="wijze zien reeden tweede wil menschen laet recht staat"><a>9</a>
+                            </td>
+                            <td id="TIE" class="wijze laet menschen recht zien leven"><a>6</a>
+                            </td>
+                            <td id="ETHICA" class="menschen reeden tweede wijze leven zien recht wil staat"><a>9</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren reeden wil wijze kerck menschen zien tweede niemand laet leven schijnt"><a>12</a>
+                            </td>
+                            <td id="TP" class="recht koning staat menschen wetten reeden leven niemand wil staan vast"><a>11</a>
+                            </td>
+                            <td id="unique" class="theofrastus salmoneus hierofant filotimie bazilides hof jupiter jupijn beeld dees ren tempel tooneel rey goden maght priesters altaar eutimus vorst elis ô stuk diodoor hemel licht majesteit ziet houd re kroon tijd priesterdom nacht vader volk hooren stad ga hoog gaen deezen gevaar lucht rijk eurialus gantsch hand hert priester dag hoofd oude schijn gezach zang raad mont schoone yver feest last wacht wind zoon zijt valt theofrast zeno goôn naem geweld hemels zetten stil godspraak wit blixem dans archytas epicharis koningin"><a>82</a>
+                            </td>
+                            <td>9.4</td>
+                            <td id="euclidean" class="2873.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="850168058">850168058</td>
+                            <td id="KV" class="god oorzaak seggen goede zijnde willen maken weeten plaets verscheidene staat"><a>11</a>
+                            </td>
+                            <td id="TIE" class="weeten maken goede oorzaak einde plaets willen nieuwe"><a>8</a>
+                            </td>
+                            <td id="ETHICA" class="oorzaak god goede weeten verscheidene staat"><a>6</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren weeten oorzaak maken seggen willen verscheidene goede gedaan"><a>10</a>
+                            </td>
+                            <td id="TP" class="koning staat plaets oorzaak vreede weeten steeden maken goede goederen gedaan willen"><a>12</a>
+                            </td>
+                            <td id="unique" class="â€™t â€˜t scheepen algiers stad â€˜er tijd nae zee deedt slaaven meester deselve vader jaar land gaen honderd staaten dag naem neemen nederlanders veele vereenighde landen gevangenis terstond selven haest barbaryen sigh spaenje kristenen derhalven nederlanden majesteit wijl duisend wilden moogen werk jaaren schip keyser mooren huys dagen laeten gedachte gantsch vryheid handelen spaenjaerden generael ging deeden nederlandsche zeeroovers geeven kwam franschen vijf vriendschap vyanden geduurende tunis koomen vermits volk alreeds ondertusschen gemaeckt ghelijck slaaf heilige fez bevel dienst christenen doodt"><a>81</a>
+                            </td>
+                            <td>9.4</td>
+                            <td id="euclidean" class="2919.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="83222541X">83222541X</td>
+                            <td id="KV" class="god wezen goede zijnde zien wil maken laet staat"><a>9</a>
+                            </td>
+                            <td id="TIE" class="wezen maken goede laet zien leven weet maakte nieuwe"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="wezen god goede leven zien wil staat"><a>7</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god wezen wil weet water maken zien goede laet leven gedaan schrijven"><a>12</a>
+                            </td>
+                            <td id="TP" class="wezen staat leven wil maken goede gedaan staan vast"><a>9</a>
+                            </td>
+                            <td id="unique" class="sij vis schip commandeur volk man ijs gaen see sloep spek land selven werk tijd abraham huys re med baas ziet scheepen beer voet hand boord sloepen weder and lijf iagt los selfs dagen laten wind leggen ziende lijk maats after roept schoone hoog kant seilen lesen zoon wijs doodt pond dag vader best uuren straks staart krijgen schots veld end gants groen snij dapper gaet komende mes ijder groenland gezien iaar roer sulks moe wijl mensen kom naem mogt mannen gekomen"><a>82</a>
+                            </td>
+                            <td>9.2</td>
+                            <td id="euclidean" class="2930.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="100531881">100531881</td>
+                            <td id="KV" class="wezen goede zien wil maken weeten spreecken laet staat"><a>9</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten maken goede laet zien leven weet weêr"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="wezen goede leven zien weeten wil staat"><a>7</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen weeten wil weet maken weêr zien meê deur goede laet leven"><a>13</a>
+                            </td>
+                            <td id="TP" class="wezen staat weeten leven wil maken goede staan"><a>8</a>
+                            </td>
+                            <td id="unique" class="kwieryn én wél oudste lievyntje tys antonio tafelbézem héb jongste mét zél óf joost smuiger jy nóch veur kom an bén hébben huys hém sinjoor wyf nou dókter tooneel man eeten gaen polifémus tót vader kniertje bént hébt licht plautus kén jak zég bélie jaar ga zéggen géld iens gien drommel amsterdam déze tégen schoone genoeg zin loop béter veul neen stad naem twéde jaaren leezer vinden wég bedryf zélf dunkt loopen patroon wou gaet mien zen hoor mit hou doe juffrou wacht j"><a>84</a>
+                            </td>
+                            <td>9.2</td>
+                            <td id="euclidean" class="2936.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="98544179">98544179</td>
+                            <td id="KV" class="wezen zien liefde willen wil maken weeten werken laet staat haare"><a>11</a>
+                            </td>
+                            <td id="TIE" class="wezen weeten maken laet einde zien weet willen zag"><a>9</a>
+                            </td>
+                            <td id="ETHICA" class="wezen liefde werken zien weeten eeuwige wil staat"><a>8</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wezen weeten wil weet maken liefde willen zien laet gemoedt"><a>11</a>
+                            </td>
+                            <td id="TP" class="wezen staat weeten wil maken willen"><a>6</a>
+                            </td>
+                            <td id="unique" class="én ifigenia erifilé achilles hém mét vader dóris agamémnon héb hart ach tót selven vreugd mêvrouw licht konstgenootschap dóchter tooneel óf wél neen aulis ofte naem wyl nóch ô kalchas trouw bloed stam ziet grieken geluk supplianten ongeluk helaas tyd hébben zélf keeren moeder lót déze hén onsen oogen kwam bén goôn kind wilt réden gunst schoone heil minnaar klytemnéstra armen lésbós aanschouwen zó oogenblik hoop wélk tóch gezigt héden kénnis zélve behaagt dóch geeven hooren drukken récht roem re jaaren ren mint"><a>83</a>
+                            </td>
+                            <td>9</td>
+                            <td id="euclidean" class="2989.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="823051390">823051390</td>
+                            <td id="KV" class="oorzaak ziel liefde wil laet staat"><a>6</a>
+                            </td>
+                            <td id="TIE" class="oorzaak laet ziel leven weet maakte tijt"><a>7</a>
+                            </td>
+                            <td id="ETHICA" class="ziel oorzaak liefde bemind yder leven wil tijt staat"><a>9</a>
+                            </td>
+                            <td id="EPISTOLAE" class="wil weet oorzaak tijt yder liefde laet leven"><a>8</a>
+                            </td>
+                            <td id="TP" class="yder staat oorzaak tijt leven wil ziel"><a>7</a>
+                            </td>
+                            <td id="unique" class="schoone hert oogen &gt; noyt cloris wilt zoete mont soet pijn dees g oog sinnen philis minne schoonheyt gesigt sijt ligt agt sagh hemel leer eenmaal mijne goden doot zijt wond traantjes zoud son vlam dag hertje neem kom lieve haest lust gaen toon voix wangen boesem seg ziet wit maagt vreugt hals weder aard la gelaat stemme venus stralen c draagt juffers valt le wert hene sterven mogt leyt waart enden trouw neen clorimeen bly blixem oogjes alwaar brand wonder luyster hoog voortaan ag banden vuur tijd"><a>88</a>
+                            </td>
+                            <td>7.4</td>
+                            <td id="euclidean" class="3337.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="110197380">110197380</td>
+                            <td id="KV" class="god wezen goede zijnde zien maken laet staat"><a>8</a>
+                            </td>
+                            <td id="TIE" class="wezen maken goede laet zien weet maakte nieuwe"><a>8</a>
+                            </td>
+                            <td id="ETHICA" class="wezen god goede zien staat"><a>5</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god wezen weet water maken zien goede laet gedaan"><a>9</a>
+                            </td>
+                            <td id="TP" class="wezen staat maken goede gedaan staan vast"><a>7</a>
+                            </td>
+                            <td id="unique" class="vis sij abraham spek schip land volk man iagt see voet weder huijs werk pond gaen gaet zoon kant staart commandeur selven boord hand after gezien guldens tou mes hoog dijk heele vader dregge ziet tijd haak lijf laten weijnig ziende mannen stuijvers 50 los walvis gevangen wind roer leggen bos bank harpoenier doodt bleef schoone ligt plaat dik halen swaar gommer scheep stokken syn kort uuren mensen uur mogt sak schoot seijl gekomen komende lag buijk sulks end neus been messen maats harpoen stuurman"><a>85</a>
+                            </td>
+                            <td>7.4</td>
+                            <td id="euclidean" class="3385.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="851461190">851461190</td>
+                            <td id="KV" class="wijze zien liefde tweede menschen verscheidene staat zaaken haare"><a>9</a>
+                            </td>
+                            <td id="TIE" class="wijze menschen zien voorts zag"><a>5</a>
+                            </td>
+                            <td id="ETHICA" class="stond menschen tweede liefde wijze zien verscheidene staat"><a>8</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren water wijze voorts ontfangen menschen liefde zien tweede verscheidene"><a>10</a>
+                            </td>
+                            <td id="TP" class="koning staat menschen voorts"><a>4</a>
+                            </td>
+                            <td id="unique" class="majesteit hoog moogende vertoond ofte ziet waaren poort deezen land veele zyde hand stuk volgende schildery beeld engeland voet staaten wederom nederlanden oude franschen graavenhaage vorsten holland tijd werdende geschikt hoofd zee gezien raad rechter geplaatst landen teekenen willem mitsgaaders eed dag hof stad vrankrijk zijde alom zaamen vereenighde eere dry midden uitgebeeld vyanden geweld koninglijke eedele uuren prent linker vertoonende deezer werk vertoog gedekt teeken vaderland godsdienst vorst deedt gelézen gevuld zeege opgerecht vryheid vyand neffens alhier staande lijst gevoegd syn meerder nassau"><a>84</a>
+                            </td>
+                            <td>7.2</td>
+                            <td id="euclidean" class="3430.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="830534415">830534415</td>
+                            <td id="KV" class="god goede zien wil laet recht staat haare"><a>8</a>
+                            </td>
+                            <td id="TIE" class="goede laet recht zien"><a>4</a>
+                            </td>
+                            <td id="ETHICA" class="god goede quaad bemind zien recht wil staat"><a>8</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren wil zien goede quaad laet"><a>7</a>
+                            </td>
+                            <td id="TP" class="recht koning staat wil goede staan vast"><a>7</a>
+                            </td>
+                            <td id="unique" class="mi gi hi sang si ren blijvt &gt; bi re schoone bruid lijk liev sijt volk koom bruidegom hert hoog psalm lov wi gaen loov ed g ziet eeuwigheid opper koomt lied vreugd goedigheid hoofd soet heil mijne len ei doe oogen hand vorst hemel lust dochteren siel land sing lievste rijk woorden handen wijn rot hov dees slaan gansch neat fen tijd werk suster jerusalems geur mijns lippen brand gelukkig as stuk sions lievd veld le lucht kind heilige seege dag geluk hulp duisend wooning"><a>86</a>
+                            </td>
+                            <td>6.8</td>
+                            <td id="euclidean" class="3518.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843501235">843501235</td>
+                            <td id="KV" class="ziel zien liefde wil laet staat"><a>6</a>
+                            </td>
+                            <td id="TIE" class="laet ziel einde zien leven weet maakte"><a>7</a>
+                            </td>
+                            <td id="ETHICA" class="ziel liefde leven zien wil staat"><a>6</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren wil weet besluit liefde zien laet leven gemoedt"><a>9</a>
+                            </td>
+                            <td id="TP" class="staat leven vrees wil ziel"><a>5</a>
+                            </td>
+                            <td id="unique" class="én mét theoxena nóch attalus óf góôn tót hém cleomenes doodt trouw prins góden laodice héb zoon theóxena hart lyk déze vyand gevaar vader lót ach didos bloed axiane prinsés tooneel réden dag zoud mêvrouw ariarates cleoménes kóning bén ontdékken kroon zin hémel zélf huw geeven meêr len hébt kónings gedachten bruid dóch hoopen daad wél gunst wyl licht re didós moed helaas kom dacht verdriet hoop hoor houd hand dienst vonnis zyt verwachten vinden zinnen geluk schoone gestélt raad hooren mind hoog plicht zórg héld"><a>86</a>
+                            </td>
+                            <td>6.6</td>
+                            <td id="euclidean" class="3570.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="85231423X">85231423X</td>
+                            <td id="KV" class="god goede willen plaets alsoo"><a>5</a>
+                            </td>
+                            <td id="TIE" class="goede leven plaets voorts willen tijt"><a>6</a>
+                            </td>
+                            <td id="ETHICA" class="god goede leven tijt"><a>4</a>
+                            </td>
+                            <td id="EPISTOLAE" class="god heeren tijt voorts willen goede leven gedaan"><a>8</a>
+                            </td>
+                            <td id="TP" class="plaets tijt leven dier voorts goede gedaan willen"><a>8</a>
+                            </td>
+                            <td id="unique" class="exellentie majesteit selven crakaw vorst konincklijcke wiert weder sigh stad syn leger generael ghelijck poolen vyand laten kond velt majoor volk man oversten lieutenant sulcx ordre ruyters deselve ettelijke troupen meester derhalven gants aldaer sweden guarnisoen koninck selfs bekomen huys gevangen ging duysent poolsche dienst capiteyn mochte dagen hand naem nevens officieren koninklijke doot marcheerde raggozi wirtz secretaris doodt rijcxdaelders nacht nae genomen gekomen braef bequam aenstonts graef ras haest marsch keyserlijcke hof regiment anno wegen quamen wijs landts ritmeester gelegen paerden stucken neemen desselfs gaen gemelte kroon sevenbergen"><a>89</a>
+                            </td>
+                            <td>6.2</td>
+                            <td id="euclidean" class="3692.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="844053414">844053414</td>
+                            <td id="KV" class="goede zien tweede maken werken haare"><a>6</a>
+                            </td>
+                            <td id="TIE" class="maken goede einde zien grootste zag"><a>6</a>
+                            </td>
+                            <td id="ETHICA" class="stond goede tweede werken zien"><a>5</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren maken zien tweede goede gemaakt"><a>6</a>
+                            </td>
+                            <td id="TP" class="koning gehouden grootste maken goede"><a>5</a>
+                            </td>
+                            <td id="unique" class="én mét bedryf tót supplianten hém ofte moed tyd drukken moord vuur re voorsz seine hovaardy engelsche staande zyde wraak zélf ren bloed nóch land engeland palts koninginne krygsoversten verkoopen maght honderd teems klaagende paltslieden stroomgoden laatste vrankryk throon franschen soldaaten bedróg ryk durft zè hén amsterdam beleid privilegie jaaren part oktroije ryn vleijery geweld verwoedheid yrland benevens ae traen daalende neder omringt oversten gewéld zaamen uws ziet schoone verwoesten hulp vleyery térgen immer aardryk &gt; manhafte dag vertoond vreugd wien staaten regenten schouwburg nadrukken taal"><a>86</a>
+                            </td>
+                            <td>5.6</td>
+                            <td id="euclidean" class="3844.375"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="843017872">843017872</td>
+                            <td id="KV" class="goede zien waere gesteld laet recht"><a>6</a>
+                            </td>
+                            <td id="TIE" class="goede laet recht gesteld einde zien maakte nieuwe"><a>8</a>
+                            </td>
+                            <td id="ETHICA" class="goede zien recht gesteld waere"><a>5</a>
+                            </td>
+                            <td id="EPISTOLAE" class="zien goede laet"><a>3</a>
+                            </td>
+                            <td id="TP" class="recht steeden gesteld goede"><a>4</a>
+                            </td>
+                            <td id="unique" class="offen oostenryk turken ren ziet slaaven turkze gordyn stad glans land oude keizer maatgespel kristenen zege zee dapperheid hert geboeid straf veld zwaard volk len adelaar donau leid mahomet heir vorst bloed omringt kriste leger c midden krygsgeweld koppen geld graef tekkely noordzy throon zyde hadriatische koron methone le stroom buit bloedige doodt lof leert tooneel gevecht hoofd maght janitzaaren vrywillig hemels geweld kristenryk gesticht licht krimpt leeuw raad maan slaat gebied bassaas mindere grenzen duiken saau dravus hebrus turkyen slaafsche hoog lotteringen alom weerstand durft leopold buda traanen mannen"><a>90</a>
+                            </td>
+                            <td>5.2</td>
+                            <td id="euclidean" class="3975.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="98851233">98851233</td>
+                            <td id="KV" class="goede zijnde vooren maken laet"><a>5</a>
+                            </td>
+                            <td id="TIE" class="maken goede laet diergelijke maakte"><a>5</a>
+                            </td>
+                            <td id="ETHICA" class="goede samen"><a>2</a>
+                            </td>
+                            <td id="EPISTOLAE" class="water maken goede laet gemaakt"><a>5</a>
+                            </td>
+                            <td id="TP" class="maken goede samen"><a>3</a>
+                            </td>
+                            <td id="unique" class="ana unc drach sem recipe ofte duas unam pond syroop rad neemt libr zaad dikte witte half oncen poeder albi dosis wortel once tres kruid dry kooktse olei f syrupus bloemen gebruikt gestooten drachme rosarum kookt oleum gekookt weiken sex sap fol mengt quatuor ziet maag suiker laatse rosen roert spicae cinamomi koken aloes succi giet gemengt vogten unguentum fijn flor cerae q gesmolten doetse bequam olie croci glycyrrhizae bladen indicae kout smelt nardi foeniculi steen vini elks sagjes kragten ligni wijn honig warm vogt gedroogt myrrhae wit zuiker bloed"><a>90</a>
+                            </td>
+                            <td>4</td>
+                            <td id="euclidean" class="4319.875"></td>
+                        </tr>
+                        <tr class="testColumn">
+                            <td data-ppn="832467294">832467294</td>
+                            <td id="KV" class="goede recht staat"><a>3</a>
+                            </td>
+                            <td id="TIE" class="goede recht nieuwe"><a>3</a>
+                            </td>
+                            <td id="ETHICA" class="goede recht staat"><a>3</a>
+                            </td>
+                            <td id="EPISTOLAE" class="heeren goede boek gemaakt"><a>4</a>
+                            </td>
+                            <td id="TP" class="recht staat goede staan"><a>4</a>
+                            </td>
+                            <td id="unique" class="nl winschooten seeman origineel drs lennep digitale taal nae regel woorden cursief à druk trefwoorden uitgave overgenomen verwerkt sij uuw gebruik enkele j trefwoord see selven subtrefwoorden sc gezet woord w wigardus corrector tekst zetfouten letters verwijswoorden spatie transcriptie taalen leiden 1856 pan neederlandse exemplaar gevallen dr conform editie hoofdletter lemma vetcursief voorbeelden ra boeg oude 1681 tevens amsterdam diplomatische klein oog gebruikt begint dergelijke gecursiveerd onderstreept zetfout bedoelde uitgewerkt gedeelte jaaren ed gants jacob nicoline sijs aantal digitaliseren teksten ijssel geplaatst vinden scheepskroon gecorrigeerd gekozen pagina setten sie houden le kaalle"><a>92</a>
+                            </td>
+                            <td>3.4</td>
+                            <td id="euclidean" class="4468.375"></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-md-2">
+                    <div class="idioom">
+                        <h2>Idioom</h2>
+                        <div class="woordOutput"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="TOPICscript.js"></script>
+        <script type="text/javascript" src="TOPICtooltip.js"></script>
+
+    </body>
+</html>

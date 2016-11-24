@@ -2,6 +2,6 @@
 /download
 .ruby-version
 npm-debug.log
-config.secret.json
+config.json
 **/*.swp
 **/.DS_Store

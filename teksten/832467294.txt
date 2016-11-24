@@ -1,0 +1,407 @@
+
+
+Opdragt Aan den Heer
+    Mr. Johan Goes van Absmaade,
+
+Vroedschap, en Weesmeester der stad Leiden.
+
+De waare vrindschap, gelijk sij bestaat in een ongeveinsde oovereenstemming van wil en gedagten: alsoo werd de selve door de tijd versterkt, en bekragtigd: dit seg ik, niet als een leerstuk der Oude: maar wel voornaamendlijk als een geheugelijke ondervinding van ver het grootste gedeelte van mijn leeven: het is mij in mijn kindse jaaren gelukt (hoe wel andersins genoeg verschuldigd aan de Uuwe) de eer genooten te hebben van U Ed. gants gemeensaamen ommegang: en hoe wel wij daar naa door verscheide voorvallen meer dan eenmaal van den andere wierden afgescheurd: het is mij   telkens nogtans gelukt onse gemeensaamheid volgens ouder gewoonte te hervatten, en met den aanwas der jaaren sterker te bekragtigen: dit geluk geniet ik als nog, en God geef, dat ik het selve nog lang genieten mag! want’er voor mij in de gantse weereld niet aangenaamer, niet wensselijker, sijn kan, als waare vrindschap: onderentussen heeft het mij goed gedagt, dat dit gering gedeelte van mijn leedige uuren Uuw naam draagen soude in sijn voorhoofd, tot een erkentenis van genootene weldaaden, en een opregte geneegendheid t’uuwaarts: vastelijk vertrouwende, dat het selve met geen minder hartelijkheid van U Ed. sal ontfangen werden, als het van mij aan U Ed. opgedraagen werd: blijvende verders
+
+Mijn Heer
+
+U Ed. gants verpligten Dienaar, en getrouwen Vrind
+
+W. A. Winschooten.
+
+
+
+         -->
+
+Verantwoording van de digitale uitgave van het zeemanswoordenboek van Wigardus à Winschooten (1681), de bewerking door Jacob van Lennep (1856) en de aanvullingen van T. Pan (1857)
+        
+Hans Beelen en Nicoline van der Sijs
+        
+            Bron
+            
+De uitgave betreft de digitale versie van de volgende werken:
+
+* W. à Winschooten, Seeman: Behelsende Een grondige uitlegging van de Neederlandse Konst, en Spreekwoorden, voor soo veel die uit de Seevaart sijn ontleend, en bij de beste Schrijvers deeser eeuw gevonden werden, Leiden 1681. Als legger is gebruik gemaakt van het exemplaar dat berust in de bibliotheek van het Instituut voor Nederlandse Lexicologie (INL) te Leiden. Bij leesproblemen en beschadigingen van het INL-exemplaar is het exemplaar van de Seeman geraadpleegd dat berust in de Universiteitsbibliotheek Gent onder de signatuur BIB.ACC.000691 (fotoscans hiervan zijn gepubliceerd op internet: http://search.ugent.be/meercat/x/bkt01?q=900000060566). In enkele gevallen is tevens gebruik gemaakt van een derde exemplaar in particulier bezit. Verschil in zetsel tussen deze exemplaren door correctie op de pers is hierbij niet vastgesteld.
+
+* Jacob van Lennep, Zeemans-woordeboek, behelzende een verklaring der woorden, by de scheepvaart en den handel in gebruik en een opgave der algemeene wetsbepalingen, daartoe betrekkelijk, en der spreekwijzen, daaraan ontleend, Amsterdam 1856. Er is gebruik gemaakt van een exemplaar in particulier bezit. Het betreft een vermeerderde en herziene uitgave van het woordenboek van Winschooten; op de rug wordt het boek dan ook betiteld als “de vermeerderde Winschoten”.
+
+* T. Pan, Bespreking van Van Lenneps Zeemans-woordeboek, in De Recensent, Letterkundig Maandschrift (1857), pp. 330-359, 391-433. Er is gebruik gemaakt van een exemplaar in particulier bezit.
+
+            Medewerkers aan de digitale uitgave
+            
+De woordenboeken zijn gedigitaliseerd door vrijwilligers die behoren tot het Vrijwilligersnetwerk Nederlandse Taal. Dit netwerk is ontstaan nadat een groot aantal vrijwilligers zich had aangemeld als reactie op een oproep in de media in juni 2007, waarin Nicoline van der Sijs hulp vroeg bij het digitaliseren van de Statenvertaling 1637. Sindsdien zijn een tiental oude Bijbels, twee Friese bijbelvertalingen, zes oude psalmvertalingen en diverse taalkundige werken getranscribeerd. Alle teksten zijn gepubliceerd op de website van DBNL en gedeponeerd bij Data Archieving and Networked Services DANS, een onderdeel van de KNAW. De Bijbels zijn voorts gepubliceerd op de website van het Nederlands Bijbelgenootschap (NBG).
+            
+	Aan het overtikken en tot tweemaal toe corrigeren van de zeemanswoordenboeken hebben onderstaande personen een bijdrage geleverd.
+        
+            Coördinatie:
+
+drs. Hans Beelen, Oldenburg (D)
+
+dr. Nicoline van der Sijs, Leiden (NL)
+
+            Medewerkers:
+
+drs. M.P. Angenent MPA, Utrecht (NL)
+
+drs. Sybe Bakker, Groningen (NL) (corrector)
+
+dr. Ingrid Biesheuvel, Rijswijk (corrector)
+
+drs.ing. DickJan Braggaar, Assen (NL)
+
+drs. Frans van den Brink, Zeist (NL)
+
+drs. Rineke Crama, Allingawier (NL)
+
+Willem H.D. Delhaas, Assen (NL)
+
+ir. J.F. (Jan) Entrop, Tiel (NL)
+
+drs. A.J. (Bram) Ettema, Wassenaar (NL) (corrector)
+
+Jan Fraanje, Krimpen aan den IJssel (NL)
+
+drs. Annalies van Haaften, Maastricht (NL)
+
+M.N. den Harder, Soest (NL)
+
+dr. A.J.E. (Ton) Harmsen, Rotterdam (NL)
+
+Ruud Hendrickx, Brussel (B) (corrector)
+
+Gabe G. Hoekema, Haren (NL)
+
+drs. Marien Jacobs, Leiden (NL)
+
+drs. Mieke de Jong, Elst (NL)
+
+drs. Immie van Kalken, Amsterdam (NL)
+
+dr. J.J. (Jantien) Kettenes-van den Bosch, Putten (NL) (tevens corrector)
+
+René Kurpershoek, Amsterdam (NL)
+
+Tineke van der Laan, Rome (I)
+
+Marja van der Linden-Taal, Heinkenszand (NL) (corrector)
+
+drs. J. (Jenny) Mateboer, Utrecht (NL)
+
+Brenda Mudde, Amsterdam (NL)
+
+Huib Neven, Krimpen aan den IJssel (NL)
+
+Ans van Nifterick Post, Rijswijk (NL)
+
+Gerard Oevering, Dordrecht (NL)
+
+drs. M.S.L. Plokker, Driebergen (NL)
+
+Henk van de Rest, Alphen N.B. (NL)
+
+Willem Rijneke, Tiel (NL)
+
+dr. Willem Rump, Nieuwegein (NL)
+
+drs. Carri Sijssens, Maarn (NL) (tevens corrector)
+
+Ton van der Steenhoven MA, Ouderkerk aan den IJssel (NL)
+
+dr. Pieter van Thiel, Bennebroek (NL)
+
+drs. Ingrid Vedder, Bunnik (NL)
+
+Louis Vermeulen, Rotterdam (NL)
+
+drs. J.M.A. (Koos) van der Werff, Rotterdam (NL)
+
+drs. Conny Wesdijk, Breda (NL)
+
+drs. Frans Wetzels, Breda (NL)
+
+Jan Dirk Wiegman, Alphen aan den Rijn (NL)
+
+Tineke Wiltink-Raak en Herman Wiltink, Krimpen aan den IJssel (NL) (tevens correctoren)
+
+            Achtergrondinformatie over het digitaliseren van de zeemanswoordenboeken
+            
+In november 2011 is bij uitgeverij Walburg Pers te Zutphen Seeman. Maritiem woordenboek van Wigardus à Winschooten verschenen, hertaald en ingeleid door Hans Beelen, Ingrid Biesheuvel en Nicoline van der Sijs. Het boek bevat een hertaling in modern Nederlands van de Seeman, een uitvoerige inleiding over leven en werk van Wigardus à Winschooten, toelichtingen bij de tekst, registers en talrijke illustraties. Hieraan was toegevoegd een cd-rom met diplomatische transcripties en afbeeldingen van de zeemanswoordenboeken en -lijsten van Nicolaas Witsen (1690), Georgius van Zonhoven (1740), J.P. Sprenger van Eyk (1835-1836), Jacob van Lennep (1856) en T. Pan (1857). De diplomatische transcripties van Winschooten, Van Lennep en Pan zijn tevens op dbnl.org geplaatst; hier is ook de uitgave van Sprenger van Eyk te vinden. Verdere informatie is te vinden op www.seeman.nl.
+
+            Inhoudsopgave van Winschooten en Van Lennep
+            
+W. à Winschooten: Seeman (1681):
+
+- Opdragt Aan den Heer Mr. Johan Goes van Absmaade, Vroedschap, en Weesmeester der stad Leiden
+
+- Aan den taalkundigen Leeser
+
+- Op den Seeman Van den Heer Wigardus à Winschooten: Groot voortsetter van de Neederlandse Taalkunst
+
+- Hollands Scheepskroon, Haar eerbiedig opgedraagen in haar Welbevaaren Seeman, Door den Hooggeleerden Heer Wigardus à Winschooten
+
+- Op den Seeman, Door den Heer W. à Winschooten
+
+- Op den selfden
+
+- W. A. Winschootens Seeman
+
+Jacob van Lennep, Zeemans-woordeboek (1856):
+
+- Den Heer Aarnoud van Lennep  
+
+- Voorrede
+
+- Verklaring der gebezigde verkortingen
+
+            Gevolgde werkwijze bij het digitaliseren
+            
+Diplomatische uitgave
+De gedigitaliseerde versies zijn diplomatische weergaves van de tekst, dat wil zeggen dat ze het origineel zo exact mogelijk volgen. Druk- of zetfouten zijn niet gecorrigeerd; inconsequente spellingen zijn overgenomen. Het hoofdlettergebruik en de interpunctie van het origineel zijn in principe overgenomen, waarbij kleinkapitaal is overgenomen als kapitaal (behalve bij auteursnamen in Van Lennep, die in kleine letters met beginkapitaal zijn gezet). 
+            
+	Ook cursieve en niet-cursieve letters zijn conform het origineel overgenomen. Alleen bij de opdracht en enkele lofdichten in Winschooten, die in het origineel in hun geheel cursief staan, is met het oog op het leesgemak gekozen voor een omgekeerde weergave: cursief is hier verwerkt als niet-cursief, en andersom. Met het oog op de leesbaarheid is ook het gebruik van cursief en niet-cursief in de leestekens rechtgetrokken: in cursief gezette voorbeeldzinnen die eindigen op een niet-cursief vraagteken of uitroepteken, is dit leesteken conform het moderne gebruik door ons altijd cursief verwerkt.
+            
+	Verder is de vormgeving van de uitgaven enigszins genormaliseerd, met name de typografie van de trefwoorden en verwijswoorden; zie verder hieronder. Het inspringen of uitspringen van trefwoorden is stelselmatig genegeerd; evenmin zijn de verschillende genummerde betekenissen van een trefwoord in Van Lennep dieper ingesprongen, zoals in het origineel. Aanhalingstekens, waarvoor in de originele teksten verschillende conventies zijn gebruikt, zijn in de digitale uitgaven genormaliseerd tot de thans gebruikelijke aanhalingstekens “..”.
+
+            Typografie: pagina’s, regels en spaties
+De typografische vormgeving van de oorspronkelijke teksten is in de digitale uitgave losgelaten. Custodes onder aan de pagina’s of kopregels zijn niet overgenomen, net zomin als katernnummers voor de drukker en binder. Tussen vierkante haken is aangegeven waar een nieuwe pagina in het origineel begint. Enkele paginanummers zijn gereconstrueerd: ze komen niet voor in het origineel maar zijn in de digitale editie afgeleid van voorafgaande of volgende nummers; dergelijke paginanummers worden voorafgegaan door een asterisk.
+
+	De regeleinden komen in de digitale uitgaven niet overeen met die in de oorspronkelijke tekst. Woorden die in de druk aan het einde van de regel met een streepje worden afgebroken, zijn door ons aaneengeschreven.	
+            
+	Het spatiegebruik rond leestekens is in de digitale versie genormaliseerd omdat het gaat om een betekenisloos typografisch verschil. In concreto betekent dit dat er na (en niet vóór) leestekens consequent een spatie is gezet, ongeacht wat er in het origineel staat. In een aantal gevallen is niet altijd eenduidig uit te maken of er sprake is van een hele, halve of geen spatie in het origineel. Bij het digitaliseren van de tekst hebben wij in de gevallen dat het niet duidelijk is of er sprake is van een (kleine) spatie, veelal gekeken naar de context: staan de bewuste woorden elders meestal aaneengeschreven of juist niet? Daarbij is voor het afgekorte lidwoord ’t altijd een spatie geplaatst, ook als die een enkele keer in het origineel vanwege ruimtegebrek ontbrak.
+            
+	In Van Lennep is een groot aantal citaten opgenomen die in het origineel gecentreerd zijn gezet met daaronder rechtsgelijnd de naam van de auteur. Soms zijn bepaalde regels binnen de citaten extra ingesprongen, maar dat is in de digitale editie genegeerd.
+        
+            Ligaturen en breviaturen
+Ligaturen zijn in de digitale versie uitgeschreven. Zo is de ligatuur Æ in Æneis overgenomen als Ae (Aeneis). Het ampersand-teken &, oorspronkelijk een versmelting van de letters e en t, is conform het origineel overgenomen.
+            
+	Alleen in de Seeman wordt - en dan nog zeer sporadisch - gebruik gemaakt van breviaturen. Kennelijk was dit een typografische noodgreep als er op de regel ruimtegebrek heerste dat niet op een andere wijze kon worden verholpen. Het gaat in alle gevallen om een e met een tilde, die door ons als een cursieve n is opgelost, bijvoorbeeld moeten.
+        
+            Trefwoorden, subtrefwoorden en verwijswoorden
+Op basis van de transcripties is een geïntegreerde database vervaardigd waarin op trefwoord kan worden gezocht binnen alle teksten tegelijk, te vinden op www.seeman.nl. Met het oog hierop is voor de trefwoorden, subtrefwoorden en verwijswoorden gekozen voor een vormgeving die iets afwijkt van het origineel. De trefwoorden van Winschooten zijn in de druk in de regel kleinkapitaal gezet. Ieder trefwoord begint met een hoofdletter en begint na inspringen op een nieuwe regel. In de transcriptie zijn deze trefwoorden vet en in kleine letters weergegeven, en is er niet ingesprongen.
+            
+	Vaak begint Winschooten afleidingen of samenstellingen van een trefwoord op een nieuwe, ongesprongen regel, bijvoorbeeld bij het lemma aal het woord Aalschaar. Deze subtrefwoorden staan in de druk cursief, maar zijn door ons vetcursief gemaakt en eveneens op een nieuwe regel gezet (waarbij het inspringen is verwaarloosd). Afwijkend van het origineel zijn ook deze woorden zonder hoofdletter geschreven, dus: aalschaar. Dergelijke subtrefwoorden (die in de druk cursief aan het begin van een nieuwe alinea staan) kunnen ook uit meerdere woorden bestaan. Deze zijn door ons in hun geheel vetcursief gemaakt. Voorbeelden van zulke meerwoordige ingangen: aanleggen tegen iemand; agter af woonen; ballast schieten; beneepen sijn; beseild sijn; beset sijn, oover boord springen, bot vangen. Ook subtrefwoorden die met een spatie zijn gespeld, zijn door ons in hun geheel vetcursief gemaakt. Voorbeelden: agter uit; naa aapen; beeting knie; beeting stut, bramseils blocs. Als het tweede gedeelte van zo’n subtrefwoord met een spatie erin ook met een hoofdletter begint (Admiraals Vlag), is dat door ons eveneens klein geschreven: admiraals vlag.
+
+	De regel dat subtrefwoorden vetcursief worden weergeven, geldt alleen voor subtrefwoorden aan het begin van de alinea. Het uitgangspunt was hierbij de typografie van het origineel. Subtrefwoorden die door ruimtegebrek midden in de alinea van het hoofdtrefwoord staan, en daardoor slecht als zodanig herkenbaar zijn, zijn conform het origineel overgenomen.
+            
+	Op de regel dat subtrefwoorden door ons vetcursief worden gemaakt, is één uitzondering gemaakt: als een subtrefwoord een uitdrukking is, d.w.z. niet een samenstelling of een afleiding maar een zegswijze, veelal in de vorm van een werkwoord met bepalingen, wordt het niet vetcursief gemaakt, maar conform de druk gecursiveerd. Ook wordt dan het hoofdlettergebruik conform de druk overgenomen. Voorbeelden van zulke uitdrukkingen (bij het lemma anker): Het anker agter de kat setten; Op een anker te land koomen.
+
+	Verwijzingen naar andere trefwoorden worden in de druk veelal voorafgegaan door het woordje sie en zijn in de regel cursief gezet. In de digitale uitgave zijn dergelijke verwijswoorden gecursiveerd en onderstreept. Af en toe gebruikt Winschooten een andere formulering om naar een ander lemma te verwijzen. Een voorbeeld is de volgende vooruitwijzing in het lemma aanhaalen: “sult gij vinden in het woord haalen.” Ook in deze gevallen is in de transcriptie het evidente verwijswoord gecursiveerd én onderstreept. Een enkele keer is in de druk het verwijswoord na sie niet gecursiveerd, bv. in het lemma aanhouden: “sie, houden.” Het niet-cursiveren is hier een zetfout. Ook hier is het verwijswoord, afwijkend van de druk, door ons gecursiveerd en onderstreept: “sie, houden.” Enkele andere foutjes in de markering van trefwoorden in de druk zijn ten behoeve van de geïntegreerde database stilzwijgend rechtgetrokken.
+            
+	In Van Lennep en Pan staan de trefwoorden in het origineel kleinkapitaal met beginhoofdletter. In de transcriptie zijn de trefwoorden vet gezet en in kleine letters. Verwijswoorden zijn cursief gezet met beginkapitaal. In de transcriptie zijn dergelijke verwijswoorden cursief onderstreept en zonder hoofdletter genoteerd. Daarbij hebben wij altijd nagekeken of de woorden waarnaar wordt verwezen daadwerkelijk als trefwoord in het boek voorkomen; alleen als dat het geval is, is het woord onderstreept.
+            
+	Van Lennep en Pan gebruiken een breed liggend streepje in de artikelen om het woord in kwestie af te korten; het woord zelf wordt aangeduid door de beginletter (als hoofdletter), gevolgd door de streep. Onder haven bijvoorbeeld ZeeH—, RivierH—, KrijgsH—, OorlogsH—, KoopvaardyH—. In de digitale uitgave zijn de verkorte trefwoorden met het oog op de leesbaarheid en de opzoekbaarheid altijd uitgeschreven, zonder hoofdletter (behalve aan het begin van een zin): zeehaven, rivierhaven, krijgshaven, oorlogshaven, koopvaardyhaven. De zin op p. XII in het origineel die het gebruik van de vervangingsstreep uitlegt, is in de digitale editie geschrapt.
+            
+	Een enkele maal hebben we in de digitale uitgave van Van Lennep bij het oplossen van de brede liggende streepjes gekozen voor wat evident bedoeld is, in plaats van het woord mechanisch in te voegen: zo staat er bij kaal: K—le ra en K—le boeg. Er zou dus kaalle ra en kaalle boeg moeten staan, maar in de transcriptie hebben wij voor het evident bedoelde kale ra, kale boeg gekozen.
+
+            Zetfouten
+In deze diplomatische editie is afgezien van normalisering van de spelling of verbetering van de tekst. Een consequentie hiervan is dat ook evidente zetfouten niet zijn gecorrigeerd. Markante voorbeelden van in de editie niet verbeterde zetfouten in Winschooten zijn: p. 3, blijben, sc. blijven; p. 5: maaaken, sc. maaken; p. 10: gemaande, sc. genaamde; Babstoof, sc. Badstoof; p. 91: Seeljagt, sc. Speeljagt; p. 100: Spanajards, sc. Spanjaards; p. 145: riork, sc. riool; p. 189: paxinim, sc. pax enim; p. 322: pis vis, sc. piscis. In de Seeman komen in enkele Griekse woorden soms merkwaardige zetfouten voor, wellicht beheerste de zetter deze taal niet en heeft de auteur de proef hierop niet gecontroleerd, vgl. de lemma’s astrolabium, mast, porren, rukwind en seelui. Dat de tekst destijds niet heel grondig is gecorrigeerd, blijkt niet alleen uit de zetfouten, maar ook uit een aantal ontbrekende nummers van pagina’s, boeken of verzen bij literatuurverwijzingen, zie p. 67 (getij), 68 (geus), 86 (holteropa), 104 (kenteren), 124 (krab), 129 (kruid), 188 (pijp), 219 (sand), 223 (schans), 229 (schieman), 344 (vuur), 355 (weeven), 359 (west) en 367 (wurm). Zie in dit verband ook de foutieve kopteksten (in de editie niet verwerkt) op p. 43, 53, 57, 167, 181 en 203.
+            
+	Omgekeerde letters zijn overgenomen zoals zij er staan, zodat een enkele keer een u optreedt i.p.v. een n, en andersom. Voorbeelden bij Winschooten 1681: p. 23: benrs i.p.v. beurs; p. 261: pronkeu i.p.v. pronken; p. 263: beteekeud i.p.v. beteekend. In gerede twijfelgevallen is de voorkeur gegeven aan de meest voor de hand liggende lezing.
+            
+	Omgekeerd gezette letters die geen andere interpretatie toelaten, hebben wij daarentegen als de evident bedoelde letter overgenomen. Voorbeelden in de Seeman: p. 33, booven haalen, derde regel, de v in booven; p. 122, kost, achtste regel, de e in kosten; p. 180: opsetten, negende regel, de tweede e van opsetten; p. 208, rijden, zesde regel, de k van komt; p. 283, spui, vierde regel, de tweede m van stemming.
+
+Een eventuele zetfout in Van Lennep is het trefwoord tuits; volgens het Woordenboek der Nederlandsche taal gaat het hier om een spookwoord - een woord dat nooit is gebruikt, wellicht is het een zetfout voor tuitouw? Het interessante is dat dit woord bewijst hoezeer de lexicografen van elkaar overschreven: het trefwoord tuits duikt namelijk na 1856 op in verschillende woordenboeken (Kramers, Calisch, Bal, Kuipers), tot en met de Grote Van Dale 1950.
+            
+	Verder zijn er soms in de tekst van Van Lennep zetfouten gemaakt in de verwijswoorden; zo wordt onder bosbank en potdek verwezen naar schanddek, dat echter is opgenomen in de vorm schandek. Bij koinen staat: zie Kortjens; Kortjens is een zetfout voor Kontjens. Dergelijke fouten hebben wij niet gecorrigeerd.
+
+            Bijlage: editorische ingrepen
+            
+Winschooten 1681
+
+* p. 9, arbeiden: loos afbreekstreepje achter dan verwerkt als komma.
+
+* p. 13, bakboord: custode woor in transcriptie verwerkt, op p. 14 ontbreekt deze lettergreep in het zetsel.
+
+* p. 16, barghouten, barrighouten, barrikhouten: gemeenschappelijke verwijzing naar berghouten na accolade om technische redenen bij ieder trefwoord geplaatst, accolade niet weergegeven.
+
+* p. 38, broek, broekings: gemeenschappelijke omschrijving na accolade om technische redenen bij beide trefwoorden geplaatst, accolade niet weergegeven.
+
+* p. 61, gaarboord: loze punt in van.de verwerkt als spatie.
+
+* p. 229, schieman: hoge punt na cap verwerkt als reguliere punt.
+
+* p. 231, schijtvalk: in de druk staat schijtval (k, om technische redenen trefwoord zonder zetfout verwerkt.
+
+* p. 266, snees: in transcriptie van Hebreeuwse woorden subscripte tekens niet verwerkt.
+
+* p. 313, top: dubbele komma na trefwoord verwerkt als enkele komma.
+
+* p. 318, trek: loos afbreekstreepje na volgd verwerkt als punt.
+
+            Van Lennep 1856
+
+* p. XII: geschrapt (want in de digitale uitgave uitgewerkt, zie commentaar boven): “Voorts zijn de verklaarde woorden, wanneer zy in het artikel, dat hen betreft, nogmaals voorkomen, aangeduid door de aanvangletter en een streep. Zoo beduidt op AAK, A- Aak, A-EN Aken. Zoo op BLOK - B-s, Bloks, enz.”
+
+* 26, bestek: verbeterd B geïnterpreteerd als verbeterd B— en uitgewerkt als verbeterd bestek.
+
+* p. 91, jagen: J—hout, J—poorten, niet uitgewerkt als jagenhout, jagenpoorten maar als het bedoelde jaaghout, jaagpoorten.
+
+* p. 93, kaal: K—le ra en K—le boeg, niet uitgewerkt als kaalle ra en kaalle boeg maar als het bedoelde kale ra, kale boeg.
+
+* p. 97, kant zetten: De zeilen K—Z is geïnterpreteerd als De zeilen kantzetten (in het origineel had moeten staan K—Z—).
+
+* p. 170, prop: — van kabelgarens, geïnterpreteerd als P— van kabelgarens en uitgewerkt als prop van kabelgarens.
+
+* p. 177, roeien: (van beide zijden R—en), na R— staat ten onrechte en, geïnterpreteerd als het bedoelde roeien.
+
+
+
+Op den Seeman
+van den heer Wigardus à Winschooten:
+   Groot voortsetter van de Neederlandse Taalkunst.
+
+Behaald een Seeman, die door ’t schuimend peekel spoed
+
+Met koop’re steevens naa de Goudmijn ooit een stoet
+
+Van eer? of een die schuimd van arge roofgedrogten
+
+De plas, waar op sijn moed heeft seegenen bevogten?
+
+Vvat rist, en oovermaat van Laauw’re groenten is
+
+Dees een verpligt aan sulk een SEEMAAN, die seer wis
+
+t’ Ontdekken weet een lengt van uitgepikte schatten,
+
+En’t onrein, dat ons spraak oneindig quam bespatten,
+
+Met schranderheid veegd weg. Een ander seil om taal
+
+Naa’t vaak eng Engeland; of naa de ligte saal
+
+Van ’t onvrank Vrankrijk; of naa misgelijker paalen,
+
+Om’t onrooms Rooms; meer roem treft aan die harssenschaalen,
+
+Die soeken ’t Binnelands, om uit en t’huis van land
+
+Te wesen nooit. Die borst het nutst en veiligst strand:
+
+Want doen sij wel, die d’eer van ’t buiten streeks opdelven,
+
+’t Is dubbeld wel gedaan, wen men verheft sig selven.
+
+Jacobus vander Brugge.
+
+
+
+Aan den taalkundigen Leeser.
+
+Hier komt te voorschijn een Papiere SEEMAN, die, gelijk bij veel van oude en ervaare Seeluiden bekend geleerd te hebben, alsoo ook bereid is het selve met woeker aan uuw meede te deelen: het verscheeld veel wie een taal spreekt, en of de selve eigendlijk, of oneigendlijk gebruikt werd: ruuw sijn SEEMANS werken, en seeden, en dienvolgens ruuw haare woorden: maar hoe ruuw, en onbeschaafd de selve in haaren grond moogen sijn: sij konnen egter tot sieraad van de onse gebruikt werden: dat dit mijn seggen waar is, blijkt ten oovervloed uit onse beste Schrijvers deeser eeuw, en om nu van geen andere te spreeken: wat is’er geestrijker in onse moedertaal beschreeven (ik spreek naa den letter) als Comœdia Vetus? en wat is’er suiverder, en doorvrogter werk, als dat van den Drost van Muiden? maar waar van daan anders haare geestigheid? waar van daan anders haare suiverheid? als dat sij bei- de soo seer sijn opgepropt, en opgepronkt met Seemans woorden? Dit vaarwaater staat voor ieder oopen, en daar en kan geen regtschaapen Neêrlands borst sijn, die niet door liefde behoord te branden, om deesen handel naa sijn uitterste vermoogen voort te setten, en sijn Vaaderland een heerlijken dienst te doen! voorwaar hoe ik mij dieper, en dieper heb ingewikkeld in het naaspooren van onse taal, hoe ik mijn geluk te hooger agten moet, dat ik in mijn jonge jaaren gevallen ben in handen van soo een Leermeester, die, behalven dat hij ongemeen ervaaren was in de geleerden taalen, als Latijnse, Griekse, Arabiese, en andere, een uitsteekend liefhebber was van de onse. *{Ik meen Adrianus Junius vermaard Rector vvel eer in een der Latijnse Schoolen te Amsterdam.} deese man gaande gemaakt sijnde door de gemeensaame kennis, die hij met den welgemelden Drost onderhield, en door het geduurig leesen, en herleesen sijner schriften, meer en meer aangeset sijnde, blaakte door een sonderlingen iever tot de selve: dog de wijl hij alreede   het grootste gedeelte van sijne jaaren in uitheemse versleeten had, en hem de geleegendheid niet gegund wierd, om alles naauwkeurig naa te vorssen: soo heeft hij nogtans dat gedaan, dat hij doen kon, te weeten, de Neederlandse taal bij monde voort te setten, en in de harten sijner leerlingen soo een lust, en liefde tot de selve in te boessemen, dat’er meer liefhebbers uit sijn school, als uit alle de schoolen, niet van Holland alleen: maar van gants Neederland, voort gekoomen sijn: en daarom ben ik wel eer ten hoogsten verwonderd geweest, dat’er tot die tijd toe (mijns weetens) niet een liefhebber uit soo groot een meenigte was te voorschijn gekoomen, die een werk soo heilsaam voor onse taal, met ernst had durven onderneemen: maar naa dat ik iets diergelijks selfs heb beginnen aan te vangen, en vernoomen heb, wat onuitspreekelijk een arbeid daar aan vast is: nu kan ik ligtelijk beseffen, wat haar van haaren goeden iever weederhouden heeft: en voor mij ik wil dat ook wel rond uit bekennen, dat indien ik   niet al te ver t’ see waar geweest, ik sou’ meede gedooken hebben: dog nu moest het doorstaan, schoonder een vreesselijk onweer, en een holle see op handen was: dit sal sonder twijfel van soo een, voor een stoute daad erkend werden, die nooit see gesien heeft, nog voor bevaaren man was scheep gekoomen: dog daar sou’ ik mij soo seer niet aan kreunen: indien maar met regt niet en konde geseid werden, dat ik iets gedaan had, dat met mijn ampt, en pligt niet oovereen en quam: soo sullen sonder twijfel sommige menssen spreeken, en wel voornaamendlijk soodaanige, die de minste kennis deeser saaken hebben: en daarom sal het niet ondienstig sijn, dat ik haar, en alle waare liefhebbers der taalen in het gemeen, aanwijs: hoe noodsaakelijk het ondersoek der konstwoorden, en spreekwijsen in alle taalen sij, en dat sij voor al uit de saaken selfs, en uit die geen, die daar daagelijks meede beesig sijn, moeten, en behooren naa gevorst te werden: en daar in agt ik de Latijnse, Griekse, en andere taalen on- gelukkig, dat het niemand ooit heeft gelust, of in den sin gekoomen is, om op deese wijs de haare voort te setten: en seeker het is den geleerde ten oovervloed bekend, wat verschillen, en oneenigheeden tussen haar ontstaan sijn, en nog daagelijks ontstaan, om dat de beteekenis en der woorden, en der spreekwijsen, met de saaken selfs verlooren sijn. Dit ongeval soek ik in de onse (voor soo veel in mij is) te verhoeden: de wijl sulks in de taalen mij aanbevoolen, niet doendelijk is: eeven wel op dat deese mijne geringe arbeid daar in buiten opspraak blijven mogt: soo heb ik, neevens den opbouw der Neederlandse Taal, meede ernstig beesig gevveest in het naa vorssen van haaren oorspronk, en afkomst: en ik meen, dat ik al veele vvoorden onder de onse aangevveesen heb, die uitspruitsels van de Griekse, en Latijnse sijn: en nogtans voor goed Neêrduits door gaan: vvaar door ik alle liefhebbers vvil gebeeden, en vermaand hebben, dat sij haar voor al gelieven te bevlijtigen in het ondersoeken der taalen,   die men de geleerde noemd; op dat soo doende haar oogen meer en meer mogten geoopend werden in de onse: want wie soude durven ontkennen, dat deese soo niet de moeders, immers de soogvrouwen van alle heedendaagse taalen, en dien volgens ook van de onse sijn? Voor het laatste, deese Seeman kan uuw dienen voor Stuurman, om op see een goede streek te houden, en Kaart, en Graadboog, en Kompas wel te gebruiken, en soo gij eenige haaven in moet, voor een Loods verstrekken: aangesien hem de dieptens, en droogtens van deese kust wel bekend sijn: gebruik hem tot uuw voordeel: en soo de tijd, en de geleegendheid het lijden kon, ik sou’ uuw ook in het korte leeveren, een Land, en Steeman, om onder de naam van deese drie, uuw te geeven een ruuwe schets van onse geheele Neederlandse taal, en tot een toe gifje van dit alles, een volslaagen Letterkonst: dog ik beloof niet, want beloften maaken schuld: maar soo sy koomen, ontfang haar beleefdelijk, en het sal mij verpligten tot meerder. Vaar wel.
+
+
+
+Op den Seeman,
+       Door den heer W. à Winschooten.
+
+Leer Leeser uit dit Boek, de Duitse taal wel spreeken;
+
+De Seeman heeft voor uuw, uit ’t diep die opgehaald:
+
+Soo dat de grond daar van, hem op doet, tot een teeken,
+
+Waar aan te sien is, dat veel menssen sijn verdwaald;
+
+Om dat haar monden laaten glippen, soo veel woorden;
+
+Die de geheugenis niet kend, ook niet regt weet
+
+Van waar haar grondwoord komt; soo is het dat sij moorden
+
+Haar moeder taal, dat van ons werd gehoord met leet.
+
+Door lees met oordeel, en toets dan aan uuwe reeden,
+
+Of hier de waarheid is, soo jaa, soo volg die naa,
+
+En prijs dien ijveraar, die dit met volle leeden
+
+Uuw voorsteld tot uuw nut, bevrijding van uuw schaa’.
+
+Johannes de Vivie.
+
+
+
+Hollands Scheepskroon,
+Haar eerbiedig opgedraagen in haar welbevaaren Seeman,
+Door den Hooggeleerden Heer Wigardus à Winschooten.
+
+Mediis tranquillus in undis.
+
+’T sij naabuur, oude vrind, of bondgenoot geheeten,
+
+Die met een scheef gesigt, en trotse grootsheid roemd,
+
+Sig meester van de See met fiere monden noemd,
+
+Is ijdel in sijn roem, te dwaas’lijk uitgemeeten.
+
+Was iemand Heer van See, die niemand als alleene
+
+De Schepper van ’t heel Al met regt genaamd kan sijn:
+
+Soo was Sees erfgenaam, naar allen oogenschijn,
+
+Den Batavier, die eerst ter Golven is verscheene.
+
+Wie past de Scheepskroon, als die alle Seen bevaaren,
+
+En alle Reen besogt, en alle Stroom beseild,
+
+Die tot de Noordas toe, haar gronden heeft gepeild.
+
+Verwinnend’ te gelijk haar vijand in de baaren.
+
+Getuige sij het silt, dat kust, en streeld ons stranden:
+
+Oost See, Toscaanse Ree, en Persiaanse Golf,
+
+Of dorre Steenklip van den Spaanssen Avondwolf;
+
+Daar ’s vijands vlooten sijn vernield door Hollands handen.
+
+Maar, braave Rector, gij versierd met nieuwen luister
+
+Ons Scheepskroon: en beweerd ons ooveroude regt,
+
+Wen gij ons Moedertaal door Seelui opgeregt,
+
+Hersteld, vernieuwd, verligt, en voerd haar uit het duister.
+
+Ons tong, ons taal, is meest als in de See gebooren;
+
+En al wat Holland noemd, dat sweemd naa mast, en kiel.
+
+Soo is ’t een vaste grond, en geen los wankel wiel,
+
+Dat haar met regt de roem der Seevaart moet behooren.
+
+Wij houden ons voldaan met blijdschap, en verbonden
+
+Aan uuwe naarstigheid, en wenssen dat gij ’t oog
+
+Op Weid’, en Akker slaat, want ook aldaar de boog 
+
+Sal spannen onse taal, in suiv’re lettergronden.
+
+Ons Holland leefd van See (’t is waar!) maar ook van Weiden,
+
+Haar vrugten sijn haar schatt’; men twijffeld dan met regt.
+
+Wie is hier in voldaan? wie sag ’t pleidooi beslegt?
+
+Of See, of Veld meer geeft, waar uit wij spijs bereiden.
+
+His juventus orta parentibus
+            Infecit aequor sanguine Boetico.
+
+                Praeceptori olim suo meritissimo
+                    L.M.Q. Accinuit. 
+                        Johannes à Staveren. 
+P. & L. S. 
+

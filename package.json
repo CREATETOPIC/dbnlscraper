@@ -24,6 +24,7 @@
     "jsonexport": "^1.1.0",
     "lodash": "^4.15.0",
     "nice-json2csv": "^0.2.2",
+    "sendgrid-nodejs": "^0.1.0",
     "x-ray": "^2.3.0"
   }
 }

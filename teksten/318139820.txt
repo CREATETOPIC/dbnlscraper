@@ -1,0 +1,426 @@
+
+
+             -->
+
+Verantwoording van de digitale uitgave van de Nederduitsche spreekwoorden en ‘Oud en Nieuw’ door Carolus Tuinman
+door Nicoline van der Sijs
+            
+Bron
+            
+De uitgave betreft de digitale versie van de twee delen met Nederduitsche spreekwoorden door Carolus Tuinman uit 1726 en 1727, waarvan de titels luiden:
+            
+De OORSPRONG En UITLEGGING Van dagelyks gebruikte NEDERDUITSCHE SPREEKWOORDEN, Opgeheldert Tot grondig verstand der Vaderlandsche Moedertaal; Door CAROLUS TUINMAN. Te MIDDELBURG, By MICHIEL SCHRYVER, Boekverkooper aan de Beurs. 1726.
+
+en:
+            
+OORSPRONG en UYTLEGGING van dagelyks gebruikte NEDERDUITSCHE SPREEKWOORDEN: Tot opheldering der Vaderlandsche Moedertaal. II DEEL. Hier zyn bygevoegt NATUURLYKE VOORTEKENEN VAN ALLERLEI WEDER. EN DE SCHOOL VAN SALERNO. Door CAROLUS TUINMAN. TE MIDDELBURG, By MICHIEL SCHRYVER, Boekverkooper aan de Beurs in Cicero, 1727.
+
+Hieraan is, vanwege de interessante taalkundige observaties, het volgende onderdeel toegevoegd uit de Fakkel der Nederduitsche taale, die Tuinman in 1722 publiceerde:
+            
+OUD EN NIEUW; OF Vergelyking der oude en nieuwe Nederduitsche Taal in vorming en spreekwyzen, dienende tot een FAKKEL, Om de oorsprongen der Hedensdaagsche ongeregeltheden aan te wyzen, en licht te geven Tot verdere beschaving van onze Moedertaal. DOOR CAROLUS TUINMAN.
+
+Als ‘leggers’ van de digitale edities is zowel voor de Spreekwoorden als voor ‘Oud en Nieuw’ gebruik gemaakt van een exemplaar in privé-bezit. De digitale tekstuitgave van de spreekwoordenverzamelingen van Tuinman wordt gepubliceerd op de website van de Digitale Bibliotheek voor de Nederlandse Letteren (dbnl).
+            
+                Achtergrond van het Bijbeldigitaliseringsproject
+                
+In juni 2007 heeft Nicoline van der Sijs in verschillende media een oproep gedaan voor hulp van vrijwilligers bij het digitaliseren van de Statenvertaling 1637. Vanwege de grote respons is het zogeheten Bijbeldigitaliseringsproject vervolgens uitgebreid met andere laatmiddeleeuwse en vroegmoderne bijbelvertalingen waarvan het NBG de afbeeldingen op internet heeft geplaatst. Inmiddels zijn er transcripties gepubliceerd van de Statenvertaling uit 1637, de Delftse bijbel uit 1477, de Leuvense bijbel uit 1548, de Lutherse bijbelvertaling van 1648, de Deux-Aesbijbel uit 1562 en de Liesveltbijbel uit 1542. Bovendien zijn vijf psalmberijmingen en kerkboeken getranscribeerd en op internet gepubliceerd: de Psalmen van Datheen en de Heidelbergse Catechismus (1566), de Psalmen van Willem van Haecht (1583), de Psalmen en Lofzangen van Marnix van Sint Aldegonde (1591), De CL. Davids Psalmen van Johan de Brune (1644) en Het boek der psalmen, nevens de gezangen bij de hervormde kerk van Nederland in gebruik (1773). Er wordt gewerkt aan een digitale versie van de Biestkensbijbel (1560), van de Vorstermanbijbel (1528/1531), het Nieuwe Testament van Jan Utenhove (1556) en van de tweede druk van de Statenvertaling uit 1657. Niet-bijbelse deelprojecten zijn de spreekwoordenverzameling Nievwe Wyn in Oude Le’er-Zacken van Johan de Brune de Oude (1636), en Het Groot VVoordenboeck: Gestelt in ‘t Neder-duytsch, ende in ‘t Engelsch van Hendrick Hexham uit 1648.
+                
+	Alle teksten zijn gepubliceerd op de website van dbnl en gedeponeerd bij Data Archieving and Networked Services DANS, een onderdeel van de KNAW. De Bijbels zijn voorts gepubliceerd op de website van het Nederlands Bijbelgenootschap (NBG), en sommige tevens op de website van het Instituut voor Nederlandse Lexicologie (INL).
+                
+	Aparte projecten vormen de Friese bijbelvertaling van dr. G.A. Wumkes uit 1943 en de Nije Fryske bibeloersetting uit 1995, te vinden op biblijanet.nl; Wumkes staat ook op de Digitale Historische Bibliotheek Friesland (www.wumkes.nl). 
+                
+	Begin 2009 zijn de werkzaamheden van de vrijwilligers die meewerken aan het digitaliseren, ondergebracht in een stichting, de Stichting Vrijwilligersnetwerk Nederlandse Taal (SVNT). Voor het Bijbeldigitaliseringsproject is een besloten e-maildiscussiegroep opgericht waarin de vrijwilligers informatie met elkaar uitwisselen. 
+
+                Medewerkers aan de digitale uitgave van de teksten van Tuinman
+                
+Aan het overtikken en tot tweemaal toe corrigeren van de teksten van Tuinman hebben 27 mensen een bijdrage geleverd. De medewerkers hebben een of meer porties van telkens 20 pagina’s tekst overgetikt. Een aantal van de medewerkers heeft zich beziggehouden met de correctie van door anderen overgetikte porties; in onderstaande lijst is dit achter de desbetreffende namen toegevoegd.
+
+Coördinatie
+
+dr. Nicoline van der Sijs, Leiden (NL)
+
+Medewerkers
+
+drs. Christine van Baalen, Maassluis (NL)
+
+drs. Hans Beelen, Oldenburg (D) (corrector)
+
+Jan P. Bom, Ermelo (NL)
+
+Krijn van Dijk, De Lier (NL)
+
+ir. J.F. (Jan) Entrop, Tiel (NL)
+
+drs. A.J. (Bram) Ettema, Wassenaar (NL)
+
+M.N. den Harder, Soest (NL)
+
+Betty Hoekema, Haren (NL)
+
+dr. J.J. (Jantien) Kettenes-van den Bosch, Putten (NL)
+
+drs. Paula Koning, Rotterdam (NL)
+
+René Kurpershoek, Amsterdam (NL)
+
+Tineke van der Laan, Rome (I)
+
+Brenda Mudde, Amsterdam (NL)
+
+Huib Neven, Krimpen aan den IJssel (NL)
+
+Ans van Nifterick Post, Rijswijk (NL)
+
+drs. M.S.L. Plokker, Driebergen (NL)
+
+drs. Carri Sijssens, Maarn (NL)
+
+drs. Ingrid Vedder, Bunnik (NL)
+
+Louis Vermeulen, Kalmthout-Heide (B)
+
+Wim Visser, Castricum (NL)
+
+Henk van Waveren, em. rem. pred. Almelo (NL)
+
+drs. J.M.A. (Koos) van der Werff, Rotterdam (NL)
+
+Jan Dirk Wiegman, Alphen a.d. Rijn (NL)
+
+Herman Wiltink, Krimpen a/d IJssel (NL) (corrector)
+
+drs. Dirk van Wolferen, Goor (NL)
+
+dr. Ton van der Wouden, Leiden (NL)
+
+                Achtergrondinformatie over Tuinman en zijn werken
+                
+Carolus Tuinman (1659 gedoopt in Maastricht – 1728, Middelburg) was vanaf 1684 predikant in verschillende Zeeuwse gemeenten en publiceerde verschillende soorten werken: stichtelijke gedichten (vanaf 1699), godgeleerde werken waaronder vooral de felle antispinozistische pamfletten opvielen, en aan het einde van zijn leven enkele taalkundige werken. Alleen de taalkundige werken zijn voor het vervolg van belang. In 1722 verscheen de Fakkel der Nederduitsche taale, het eerste etymologische woordenboek van het Nederlands. De complete titel luidt: Fakkel der Nederduitsche Taale; Ontsteken byzonderlyk aan de Hebreeuwsche, Grieksche, en Latijnsche spraaken, als ook de oude Duitsche, uit de overblyfzels der gryze aaloudheid, en die van laatere eeuwen. In dit werk wilde Tuinman de eigenlijke betekenis van Nederlandse woorden achterhalen, en dat deed hij door de woorden in verband te brengen met die uit de bijbelse talen Hebreeuws, Grieks en Latijn, op basis van willekeurige klank- en betekenisovereenkomsten van de woorden. Dit is conform de ideeën over etymologie uit die periode, waarbij moet worden opgemerkt dat Tuinman in tegenstelling tot veel van zijn voorgangers en tijdgenoten meer aandacht besteedde aan de betekenisovereenkomst van woorden dan aan de klankovereenkomst. Vanuit modern oogpunt bezien bezit dit werk geen enkele wetenschappelijke waarde, maar wel is het een interessante bron voor de geschiedenis van het denken over etymologie. Een enkel voorbeeld volstaat om dit te tonen. Tuinman schrijft: ‘Naam is van ’t Latynsche nomen, het ontgevelde onoma der Grieken. Zo ’t schynt van ’t Hebreeuwsche naam, zeggen.  ’ Tegenwoordig echter geldt naam als afleiding van noemen; de Latijnse en Griekse woorden zijn verwant met het Nederlandse woord, en alledrie de woorden worden herleid tot het Indo-Europees; dat er enige klankovereenkomst bestaat met het Hebreeuws is louter toeval. In 1731 verscheen postuum in Middelburg een Vervolg op de Fakkel, met een voorrede door Johan Huibert Jungius.
+                
+	Aan het einde van de Fakkel uit 1722 heeft Tuinman een apart onderdeel opgenomen, met een afzonderlijke titelpagina en paginanummer, onder de titel Oud en Nieuw; of Vergelyking der oude en nieuwe Nederduitsche Taal, in vorming en spreekwyzen. Dit deel, met 75 pagina’s, geeft wél informatie die nog steeds waardevol is: in 153 aantekeningen signaleert Tuinman overeenkomsten en verschillen tussen het Nederlands van zijn eigen tijd, begin achttiende eeuw, en dat van enige eeuwen geleden. De aantekeningen handelen over woordbetekenis, spelling, geslachten, naamvallen (zowel vorm als functie) en vervoeging. Vanwege de interessante informatie die hier wordt gegeven, hebben we van dit gedeelte een digitale uitgave vervaardigd. 
+                
+	In 1726 publiceerde Tuinman het eerste verklarende woordenboek van spreekwoorden: De oorsprong en uitlegging van dagelijks gebruikte Nederduitsche spreekwoorden. Eerder waren al wel (meestal niet-alfabetische) verzamelingen met spreekwoorden verschenen, waarvan de bekendste Jacob Cats’ Spiegel van den ouden ende nieuwen tijdt, bestaende uit spreeckwoorden ende sinspreucken uit 1632 is. Maar dergelijke verzamelingen hadden vooral een moralistisch doel en werden niet, zoals het woordenboek van Tuinman, samengesteld om taalkundige redenen. 
+                
+	Het boek met ongeveer 2000 spreekwoorden was een groot succes: binnen een paar weken was de totale oplage van 1000 exemplaren uitverkocht, zo schrijft Tuinman in de voorrede van het vervolg, Oorsprong en uytlegging van dagelyks gebruikte Nederduitsche spreekwoorden, II. deel, uit 1727. In dit tweede deel nam Tuinman na het spreekwoordengedeelte nog enkele andere teksten op: over voortekens van het weer, een aanhangsel over de thermometer en barometer, en een vertaling van Latijnsche voorschriften om gezond te blijven uit de School van Salerno. De School van Salerno was een medische hogeschool, gevestigd in de Italiaanse plaats Salerno, die zijn hoogtepunt beleefde tussen de 10e en de 13e eeuw en die was gegrondvest op de klassieke Griekse en Latijnse medische kennis. Uit de twaalfde eeuw dateert een medisch leerdicht waarin de uitgangspunten van de School van Salerno werden uiteengezet, en dit leerdicht, vaak toegeschreven aan Jo(h)annes de Mediolano, heeft Tuinman blijkens de Voorreden reeds in zijn ‘jongelingschap’ vertaald in het Nederlands.
+                
+	In 1729 publiceerde Tuinman tot slot nog een werk getiteld Rymlust, waarmee hij ‘de rymrykheid der Nederduitsche taal’ wilde aantonen, dus hoe geschikt het Nederlands was om mee te rijmen –Tuinman beschouwde Rymlust als een taalkundig werk.
+                
+	In zijn eigen tijd werd het werk van Tuinman over het algemeen gewaardeerd, maar in latere perioden werd er negatiever over gedacht. Zo schreef P.G. Witsen Geysbeek in zijn Biographisch anthologisch en critisch woordenboek der Nederduitsche dichters uit 1824: ‘Zijne Fakkel der Nederduitsche Taale heeft dezelve waarlijk weinig toegelicht, en zijn Oorsprong en Uitlegging der Nederduitsche Spreekwoorden draagt weinig blijken van oordeel en smaak. Zijne rijmwerken zijn naauwelijks der vermelding waardig.’ En eind 19e eeuw schreven J.G. Frederiks en F. Jos. van den Branden in hun Biographisch woordenboek der Noord- en Zuidnederlandsche letterkunde: ‘Zijne etymologie is van eene zeer bedenkelijke verdienste en de opheldering der spreekwoorden is veelal louter phantasie.’
+                
+	Tegenwoordig valt het waardeoordeel over Tuinman weer wat positiever uit: de spreekwoordenverzameling is interessant omdat zij een beeld geeft welke spreekwoorden in de eerste helft van de 18e eeuw bekend waren en gebruikt werden; lang niet alle verklaringen ervan kloppen, volgens de huidige inzichten, maar geen enkel ander werk uit de tijd van Tuinman of daarvoor vermeldt een zo groot aantal spreekwoorden, inclusief vele synoniemen en varianten. De opmerkingen die Tuinman in ‘Oud en Nieuw’ maakt over de taal uit zijn eigen tijd in vergelijking met die uit eerdere tijden, met name de middeleeuwen, zijn soms weliswaar wat breedsprakig, maar wel zeer informatief, juist voor lezers die hiervan bijna drie eeuwen na Tuinman kennisnemen. Zo pleit hij ervoor het dagelijkse taalgebruik te stellen boven de regels die de taalkundigen voorschrijven, en daarom te schrijven een oude en edele vrouw en Ik zag een man met een langen baard, liever dan het officiële eene oude ende edele vrouwe en Ik zag eenen man met eenen langen baard . Maar dit alles neemt volgens hem niet weg dat ‘een net spreker, en byzonder schryver’ wel op de hoogte moet zijn van de regels, zodat hij geen taalfouten begaat. Voor ons is het interessant te lezen dat het in zijn tijd al normaal was om van een oude en edele vrouw te spreken, hoewel de meeste schrijvers in die tijd nog de spellingregels met betrekking tot de verbuiging van lidwoorden volgden.
+
+Gebruikte literatuur
+
+Meer informatie over ontstaan en achtergrond van Tuinmans spreekwoordenverzameling en over de persoon Tuinman is te vinden in:
+
+- Aa, A.J. van der e.a. (18521878), Biographisch woordenboek der Nederlanden, bevattende levensbeschrijvingen van zoodanige personen, die zich op eenigerlei wijze in ons vaderland vermaard gemaakt hebben, Haarlem, 21 delen.
+
+- Bonth, R. de (1994), ‘Grasduinen in Carolus Tuinmans (1659-1728) Oud en Nieuw’, in: Voortgang. Jaarboek voor de Neerlandistiek 14 (1993/1994), 21-59.
+
+- Bonth, Roland de (1995), ‘A Black Sheep and a White Crow. Carolus Tuinman (1659-1728) and Lambert ten Kate (1674-1731) on Etymology’, in: Klaus D. Dutz & Kjell-Åke Forsgren (eds.), History and Rationality. The Skövde Papers in the Historiography of Linguistics, Münster, 107-132. 
+
+- Bork, G.J. van en P.J. Verkruijsse (1985), De Nederlandse en Vlaamse auteurs, Weesp.
+
+- Florijn, H. (2009), ‘Carolus Tuinman: Voetiaan en neerlandicus’, in: Reformatorisch Dagblad van 17 december 2009.
+
+- Frederiks, J.G. en F. Jos. van den Branden (1888-1891), Biographisch woordenboek der Noord- en Zuidnederlandsche letterkunde, Amsterdam.
+
+- Laan, K. ter (1952), Letterkundig woordenboek voor Noord en Zuid, Den Haag.
+
+- Molhuyzen, P.C. en P.J. Blok (19111937), Nieuw Nederlandsch biografisch woordenboek, Leiden, 10 delen.
+
+- Sijs, Nicoline van der (2004), Taal als mensenwerk: het ontstaan van het ABN, Den Haag.
+
+- Witsen Geysbeek, P.G. (1824), Biographisch anthologisch en critisch woordenboek der Nederduitsche dichters, deel 5, Amsterdam.
+
+                Inhoudsopgaven van de digitale uitgaven van Tuinman
+
+- De oorsprong en uitlegging van dagelyks gebruikte Nederduitsche spreekwoorden, 1726
+
+De Nederduitsche spreekwoorden. door Carolus Tuinman.  
+
+Verklaaring der titelplaat.  
+
+De oorsprong en uitlegging van dagelyks gebruikte Nederduitsche spreekwoorden, enz.  
+
+Bericht.  
+
+Voorreden.  
+
+Op de spreekwoorden.  
+
+Op de oorsprong en uitlegging der Nederduitsche spreekwoorden, enz. – Jacobus Leydekker   
+
+Op dit zelve taalwerk. – Corn. Gentman Leydekker  
+
+Oorsprong en uitlegging der Nederduitsche spreekwoorden.  
+
+    I. Spreekwoorden uit de H. Schrift.  
+
+    II. Spreekwoorden gesproten uit het Heidendom.  
+
+    III. Spreekwoorden afkomstig uit het Pausdom.  
+
+    IV. Spreekwoorden uit oude meeningen, en gewoonten.  
+
+    V. Spreekwoorden van oude of laater geschiedenissen.  
+
+    VI. Spreekwoorden uit gebeurde of verzierde kluchtvertellingen.  
+
+    VII. Spreekwoorden die spelen in dubbelzinnigheid.  
+
+    VIII. Spreekwoorden van ‘t Vryen, Huwelijk, Kinderen, enz.  
+
+    IX, Spreekwoorden van de Keuken.  
+
+    X. Spreekwoorden van de Kelder.  
+
+    XI. Spreekwoorden van kostwinning, en koophandel, enz.  
+
+    XII. Spreekwoorden van de scheepvaart, en landreizen, enz.  
+
+    XIII. Spreekwoorden van spaarzaamheid, gierigheid en verquisting, naarstigheid en verzuim, enz.  
+
+    XIV. Spreekwoorden van bedriegery, enz.  
+
+    XV. Spreekwoorden van liegen, snappen, kijven, enz.  
+
+    XVII. Spreekwoorden van pleiten, geschil hebben, enz.  
+
+    XVIII. Spreekwoorden van visschen, jagen, vangen, enz.  
+
+    XIX. Spreekwoorden van regeerbewind, kuipery, enz. [pag. 247
+
+    XX. Spreekwoorden van zingen, dobbelen, kaatzen, enz.  
+
+    XXI. Spreekwoorden van gekken, snoefshaanen, en vechters.  
+
+    XXII. Spreekwoorden van geweldenary, ontlusten, enz.  
+
+    XXIII. Spreekwoorden van wel- of qualijk vaaren, en gezint zyn.  
+
+    XXIV. Spreekwoorden van ziek zyn, ouderdom en sterven, enz.  
+
+    XXV. Spreekwoorden van veelerlei soorten, in eenen bundel.  
+
+    XXVI. Spreekwoorden van allerlei slach onder een.  
+
+    XXVII. Spreekwoorden mede van mengelstoffen.  
+
+Lyste der verklaarde spreekwoorden.  
+
+In te lasschen.  
+
+Besluit, tot vulling der leedige plaatze.  
+
+Drukfeilen.   
+
+Nalezing van Nederduitsche spreekwoorden.  
+
+Lyste der nalezing.  
+
+Hoofdverdeelingen der spreekwoorden.  
+
+Noch te verbeteren.   
+
+- Oorsprong en uytlegging van dagelyks gebruikte Nederduitsche spreekwoorden, II deel, 1727
+
+Oorsprong en uytlegging van dagelyks gebruikte Nederduitsche spreekwoorden  
+
+Bericht.  
+
+Voorreden.  
+
+Op dit boek.  
+
+Nederduitsche spreekwoorden.  
+
+    I. VYFTIG.  
+
+    II. VYFTIG.  
+
+    III. VYFTIG.  
+
+    IV. VYFTIG.  
+
+    V. VYFTIG.  
+
+    VI. VYFTIG.  
+
+    VII. VYFTIG.  
+
+    VIII. VYFTIG.  
+
+    IX. VYFTIG.  
+
+    X. VYFTIG.  
+
+    XI VYFTIG.  
+
+    XII. VYFTIG.  
+
+    XIII. VYFTIG.  
+
+    XIV VYFTIG.  
+
+Byvoegzel.  
+
+Toegift.   
+
+Lyste der verklaarde spreekwoorden.  
+
+Drukfeilen.   
+
+Natuurlyke voortekenen van allerlei weder, enz.  
+
+Lyste der voortekenen.  
+
+Voortekenen van het weder, enz.  
+
+Aanhangzel, behelzende een bericht van de wiskunstige en natuurkundige werktuigen, genaamt thermometrum, en barometrum, of aanwyzer der luchtwarmte, en des weders.  
+
+De Schoole van Salerno. Dat is, voorschriften om de gezondheid te bewaren. Vertaalt.  
+
+Toegift.  
+
+Zaaklijst der Schoole van Salerno.  
+
+Drukfeil.  
+
+- Oud en Nieuw; of vergelyking der oude en nieuwe Nederduitsche Taal in vorming en spreekwyzen, 1722
+
+Voorreden aan den taalkundige lezer.  
+
+Oud en Nieuw; of vergelyking der oude spreekwyze met de hedensdaagsche. 
+
+Drukfeilen.  
+
+                Gevolgde werkwijze bij het digitaliseren
+                
+Eerder is voor de Statenvertaling 1637 onderzocht in hoeverre het mogelijk is de tekst te scannen en met behulp van software te ‘lezen’, en vervolgens de scan met de hand te corrigeren. Het aantal scanfouten bleek door het oude zetsel te groot. Daarom is ervoor gekozen de tekst in zijn geheel over te tikken. Daarbij werden alle tekstelementen (boektitels, ondertitels, tussenregels etc.) voorzien van coderingen teneinde de tekst op internet te kunnen plaatsen. 
+                
+	Elke overgetikte portie tekst werd integraal met het origineel vergeleken en gecorrigeerd. Daarna werden alle porties samengevoegd tot een compleet boek en vond een tweede controle plaats. Die tweede controle betrof enerzijds technische aspecten, zoals de toevoeging van paginanummers, de compleetheid van de tekst, het gebruik van de juiste coderingen. Anderzijds werd opnieuw gekeken naar de legger, met name door gericht te zoeken naar veelgebruikte lettercombinaties waarin gemakkelijk tikfouten kunnen optreden en die in het origineel inconsequent zijn behandeld, zoals de spelling ij/y: naast elkaar komen bijvoorbeeld voor dagelijks en dagelyks, mogelijk en mogelyk, zekerlijk en zekerlyk. 
+                
+	Wanneer de legger leesproblemen opleverde doordat bijvoorbeeld letters zijn afgesleten, door inktvlekken, vliegenpoepjes, gaatjes of vouwen in het papier en dergelijke, is de bewuste passage nagekeken in een ander exemplaar van dezelfde editie. Als bij vergelijking met een ander exemplaar van het boek bleek dat er sprake was van een individueel-mechanische afwijking van de legger (bijvoorbeeld een vlekje of ‘gerezen wit’), dan werd deze afwijking in de uitgave genegeerd. Bij onoplosbare leesproblemen is altijd gekozen voor de klaarblijkelijk bedoelde vorm. 
+
+                >Diplomatische uitgave
+                
+De gedigitaliseerde versie is een diplomatische weergave van de tekst, dat wil zeggen dat het origineel zo exact mogelijk is gevolgd, inclusief inconsequente spellingen. Ook het hoofdlettergebruik en de interpunctie van het origineel en de leestekens zijn exact overgenomen. Vormverschillen tussen letters zijn buiten beschouwing gelaten, omdat het gaat om betekenisloze typografische verschillen. Dus het gebruik van twee verschillende letters s (de korte en de lange s, die wat op een f lijkt) is genegeerd.
+                
+	Het spatiegebruik rond leestekens is in de digitale versie genormaliseerd. In het zetsel staat een halve spatie vóór interpunctie zoals een komma (eigenlijk is er sprake van wat lege ruimte op het zetblokje voor het leesteken) en een hele spatie erna. In de digitale editie is consequent na – en niet vóór – leestekens een spatie gezet, onafhankelijk van wat er in het origineel staat. Deze keuze is gemaakt omdat het gaat om een betekenisloos typografisch verschil. Wel zijn spaties gezet in afkortingen zoals b. v. en d. i., conform het origineel. Ook bij verwijzingen naar bijbelboeken is de spatiëring genormaliseerd, bijvoorbeeld in: 1 Sam. 17: 51. 1 Sam. 17: 38, 39. 2 Sam. 13: 6. Spreuken 17: 22. 18: 14. en 15: 15. Bij een meerdelig bijbelboek is altijd een spatie gezet tussen het cijfer en het bijbelboek (1 Sam. en 2 Sam.), terwijl in het origineel hier soms wel en soms geen spatie staat, en na het hoofdstuknummer volgt een dubbele punt zonder spatie ervoor maar met een spatie erachter (Sam. 17: 51), terwijl in het origineel vaak zowel voor als achter de dubbele punt een spatie staat. 
+                
+	In ‘Oud en Nieuw’ staat op pag. 26 (punt 30) en 74 (punt 151) Grieks, wat als zodanig is overgenomen in de digitale editie. Op pag. 26 staan tevens twee Hebreeuwse woorden; omdat de transcriptie erachter staat, zijn de Hebreeuwse tekens vervangen door de tekst  . Op pag. 74 staan bovendien enkele klinkers met een tekentje erboven; dit zijn geen accenten maar superscripte e’tjes, zoals die vaak voorkomen in oudere Duitse drukken om de umlaut weer te geven. In de digitale editie zijn deze tekens daarom overgenomen als ä, ö en ü. 
+
+Aangepaste vormgeving
+
+De vormgeving van de oorspronkelijke tekst is in de digitale uitgave losgelaten. De regeleinden van lopende tekst komen in de digitale uitgave dus niet overeen met die in de oorspronkelijke tekst, behalve als het gaat om dichtregels. Afgebroken woorden zijn in de digitale uitgave aaneengetikt.
+                
+	 De spreekwoorden staan in deel 1 in het origineel telkens vet cursief en op een nieuwe regel gecentreerd, in deel 2 staan ze alleen cursief. Daarna volgt op een nieuwe, ingesprongen regel in romein de uitleg van het spreekwoord. In de digitale uitgave is gekozen voor een woordenboekopmaak, zodat de gegevens gemakkelijker toegepast kunnen worden voor taalkundig onderzoek. In concreto houdt dit in dat iedere ingang vet cursief gezet is (zowel in deel 1 als in deel 2), niet gecentreerd of ingesprongen, en afgesloten door een punt. Na de punt loopt de tekst met de uitleg op dezelfde regel door. Voor iedere nieuwe ingang is een witregel geplaatst. Op basis van de typografie en opmaak kunnen de trefwoorden en de verschillende onderdelen van de tekst nu automatisch herkend worden en gekoppeld aan andere teksten of woordenboeken. In het origineel staat dus bijvoorbeeld:
+
+Eigen lof stinkt.
+	Niets is walgelyker, dan dat ymand zich zelven pryst. Dus hebben de Latijnen ons voorgezegt, Propria laus foetet, of fordet. Salomo leerde dat al Spreuken 27: 2. Men zegt van zulk een zelfroemer niet onaardig: Hy moet geen goede buuren hebben; want hy prijst zich zelven.
+
+In de digitale editie is dit overgenomen als:
+
+Eigen lof stinkt. Niets is walgelyker, dan dat ymand zich zelven pryst. Dus hebben de Latijnen ons voorgezegt, Propria laus foetet, of fordet. Salomo leerde dat al Spreuken 27: 2. Men zegt van zulk een zelfroemer niet onaardig: Hy moet geen goede buuren hebben; want hy prijst zich zelven.
+
+De verschillende aanhangsels zijn zoveel mogelijk op dezelfde manier behandeld als de hierboven beschreven spreekwoorden. In deel twee van de spreekwoorden zijn de ‘Natuurlyke voortekenen van allerlei weder’ en het ‘Aanhangzel’ telkens genummerd, waarbij de nummers gecentreerd staan, en de bijbehorende tekst op een nieuwe regel begint. In de digitale editie zijn die nummers aan het begin van een regel gezet, en is de rest van de tekst erachter doorgetikt. Voor de 153 genummerde onderdelen van het gedeelte ‘Oud en Nieuw’ uit de Fakkel geldt hetzelfde. 
+                
+	In het gedeelte ‘De schoole van Salerno’ begint de tekst telkens met een Latijnse tekst, die vervolgens is vertaald. Voor het gebruik op internet is de Latijnse tekst telkens als zodanig gecodeerd. De regels van de rijmende tekst van ‘De schoole van Salerno’ zijn in het origineel op vrij willekeurige wijze ingesprongen; in de digitale editie is dit inspringen niet overgenomen. 
+
+Paginering
+
+Er is altijd aangegeven waar een nieuwe pagina in het origineel begint, en de paginanummers uit het origineel zijn overgenomen. Ongenummerde pagina’s in het origineel zijn doorgenummerd. Dat er sprake is van een gereconstrueerd, toegevoegd nummer, is aangegeven door de toevoeging van een asterisk; zie de inhoudsopgaven hierboven.
+                
+	Custodes onder aan de pagina’s, katernnummeringen voor de drukker en binder en kopteksten boven aan de pagina zijn in de digitale uitgave genegeerd.
+
+Drukfouten
+
+Druk- of zetfouten zijn niet gecorrigeerd. Omgekeerde letters zijn overgenomen zoals zij in het origineel staan: dus wanneer in de tekst u in plaats van n is gezet, waarbij de zetter de letter per ongeluk op zijn kop heeft gezet, dan is dit zo overgenomen: nagalateue in plaats van nagelatene. Fouten in getallen die zouden leiden tot verkeerde lezingen of niet-werkende links, zijn door ons in de onderliggende html gecorrigeerd. Het gaat om de volgende gevallen: 
+
+Deel I Spreekwoorden:
+
+- ontbrekend paginanummer 370 op pag. 2, Lyste der verklaarde Spreekwoorden: Als ’t lukt, kalft de os.
+
+Deel II Spreekwoorden:
+
+- Natuurlyke voortekenen pag. 14, opsomming: 16, lees: 26
+
+- idem pag. 43: opsommingsnummer vergeten: 2.
+
+- Voortekenen van het weder, enz., pag. 5, opsommingen: 
+
+    5., lees: 6.
+
+    6., lees: 7.
+
+    7., lees: 8.
+
+- idem, pag. 6, opsommingen: 2. vergeten en verkeerd nummer: 7., lees: 3.
+
+- Aanhangzel, verkeerd paginanummer: pag. 5, lees: 7
+
+- De Schoole van Salerno, verkeerd hoofdstuknummer: CAP. LXXIII, lees: LXXII
+
+Niet gecorrigeerd is het feit dat Tuinman in het Bericht over de barometer in deel II op pag. 4 opmerkt: ‘Dit verschaft tien zeer merkwaardige waarnemingen’, en vervolgens een lijstje van twaalf waarnemingen geeft.
+                
+	Op een aantal plaatsen in het werk staan lijstjes van verbeteringen: in Spreekwoorden deel 1: Drukfeilen (pag. *58), en Noch te verbeteren (pag. *44); in deel 2: Drukfeilen (pag. *276) en Drukfeil (pag. 66); in ‘Oud en Nieuw’: Drukfeilen (pag. 76). Conform de intentie van de auteur zijn deze verbeteringen in de tekst zelf verwerkt.
+
+Twee edities van deel I
+
+Van het eerste deel van de spreekwoorden uit 1726 bestaan twee edities, die enkele duidelijke verschillen kennen. De opvallendste is dat op de ene titelpagina het jaartal 1726 staat en op de andere het jaartal 1720. Het jaar 1720 is een zetfout - op de titelplaat die aan de titelpagina voorafgaat, staat namelijk wél het juiste jaartal 1726. Dat deze editie-1720 (zoals ik hem verder zal noemen) later is vervaardigd dan de editie-1726, en waarschijnlijk een roofdruk is, blijkt uit het feit dat de pagina direct volgend op de titelpagina in deze uitgave blanco is, terwijl in de editie-1726 op deze pagina een Bericht is opgenomen, met de hand gesigneerd door Carolus Tuinman zelf, waarin staat:
+                
+ALzo ik met misnoegen gezien heb, dat andere mijner werkjes, buiten mijne opzigt nagedrukt, lelijk zyn verminkt, en als geradebraakt door grove drukfeilen, niet alleen in letteren en misvormde woorden, tot krenking van den zin; maar ook in ’t uitlaten en misplaatzen van woorden, ja geheele regels, schoon men een wel gedrukt exemplaar voor zich had; behalven ’t geen verdorven is, door dat (zo ’t schijnt) te willen verbeteren: Zo betuige ik, om in dit werkje met niets diergelijks onderworpen te zyn, dat ik geene afdrukzels voor mijn echt werk erkenne, dan die ik met mijne hand heb onderteikent.
+
+Een laatste opvallend verschil is dat de pagina met ‘Drukfeilen’ in de editie 1720 ontbreekt.
+                
+	Omdat de editie-1726 de oorspronkelijke is en geautoriseerd door Tuinman, is die editie door ons gedigitaliseerd. Het exemplaar van de roofdruk met het jaartal 1720 bevindt zich in het Instituut voor Nederlandse Lexicologie te Leiden en is gebruikt voor de samenstelling van het Woordenboek der Nederlandsche taal. Wij hebben de twee edities met elkaar vergeleken, en daarbij kwamen nog meer verschillen naar voren. Zo staan er op de titelpagina’s van de edities 1726/1720 verschillende prenten. Er is duidelijk sprake van twee verschillende zetsels: dat blijkt uit inhoudelijke verschillen (bijvoorbeeld in spelling) en technische verschillen, zoals afwijkende afbrekingen en uitlijningen in o.a. de Voorreden: de teksten die op één regel in beide boeken staan, zijn niet één op één hetzelfde. De afbreking aan het eind verschilt, of een kort woord staat soms op een volgende regel. Een steekproef toont aan dat de custoden onderaan de pagina wél nauwkeurig gevolgd zijn. Opvallend is ook dat in de 1720-editie de leestekens dun zijn gedrukt of weggelaten, terwijl ze in de 1726-editie goed leesbaar zijn.
+                
+	Een aardig inhoudelijk verschil is te vinden in het poëem op pag. 2 dat de zinnebeeldige titelplaat verklaart. De editie-1720 vermeldt de volgende regels:
+                
+Dus   word de Moedertaal verçiert, en opgeklaart, Die and’re spraaken door dien pronk ruim evenaart.Hy dwaalt, die ’t tadaleheim waant innig te doorgronden.Maar Spreekwoords zin en kracht niet recht heeft uitgevonden.
+
+In de editie 1726 staat taalgeheim in plaats van het raadselachtige tadaleheim. Er moet hier trouwens worden opgemerkt dat zowel de tekst uit 1726 als die uit 1720 drukfouten bevat en dat het daarbij regelmatig om verschillende gaat: dat betekent dus dat er in de tekst van 1720 fouten zijn gecorrigeerd uit de eerste editie uit 1726, maar dat er tegelijkertijd tijdens het zetten weer nieuwe fouten bij zijn gekomen. 
+                
+	De meeste verschillen tussen de edities 1726/1720 betreffen de spelling; naar schatting gaat het om ongeveer 4400 verschillen in het zetsel. Sommige spellingverschillen zijn vrij consequent, wat waarschijnlijk betekent dat de zetters verschillende richtlijnen hebben gehanteerd. Zo eindigen bijvoeglijke naamwoorden in 1726 meestal op -ijk, terwijl de zetter van de editie 1720 vaker koos voor –yk. Andere veelvoorkomende verschillen zijn te vinden in de spelling van klinkers (enkele of dubbele) en in de keuze tussen z of s:
+
+17261720
+
+aaloudenalouden
+
+lezenleezen
+
+sprekenspreeken
+
+zozoo
+
+zodanigzoodaanig
+
+zaksak
+
+zese
+
+zeg(gen)seg(gen)
+
+zelfself
+
+zichsich
+
+zinsin
+
+zommigesommige
+
+zondersonder
+
+zulkesulke
+
+verrichtenverrighten
+
+&c.enz.
+
+Opvallend is dat bepaalde stukken veel meer verschillen vertonen dan andere: zo komen de pagina’s 160-168 in de edities 1726-1720 grotendeels met elkaar overeen, maar vanaf bladzijde 169 is in de editie 1720 vaak een z uit de eerste editie 1726 gewijzigd in een s. 
+                
+	Uit opmerkingen van Tuinman blijkt dat er ook binnen de editie-1726 en de editie 1727 verschillen bestaan in de gedrukte exemplaren: in het lijstje ‘Drukfeilen’ bij deel 1 noemt hij enkele voorbeelden van drukfouten die alleen staan ‘in zommige afdruksels’, en in deel 2 merkt hij bij een vergelijkbaar lijstje op: ‘Verscheide dezer drukfeilen zyn in een goed gedeelte der exemplaaren onder ’t drukken verbetert.’ Hiermee zinspeelt hij op het toenmalige gebruik om tijdens het drukken proef te lezen en verbeteringen in het zetsel aan te brengen, waardoor er exemplaren in omloop kwamen waarin katernen in verschillende staten van correctie waren samengebonden, zodat ieder gedrukt exemplaar in principe een unieke mix van tekstvarianten kan bieden. In de meeste gevallen zal het gaan om minieme verschillen. 
+
+december 2010
+
