@@ -6,10 +6,10 @@ Vrijwel al deze scrapers maken gebruik van Node js. Node maakt het mogelijk om J
 
 Je kan node uitbreiden met zogenaamde packages. Dat zijn kleine plugins die je kan installeren met `npm install PACKAGENAME`. Al deze packages zijn te vinden in de npm repository (https://www.npmjs.com/). Wanneer je voor het eerst een node script maakt dan moet je eerst npm initialiseren. Dat doe je door `npm init` in de command line te tikken. Vervolgens wordt er een bestand genaamd `package.json` gemaakt. Deze package json bevat alle modules/plugins/packages die gebruikt worden voor het script.
 
-In mijn geval maak ik veelvuldig gebruik van de x-ray module (https://github.com/matthewmueller/x-ray). X-ray is een kleine module die het scrapen makkelijker maakt.
+In dit geval maak ik veelvuldig gebruik van de x-ray module (https://github.com/matthewmueller/x-ray). X-ray is een kleine module die het scrapen makkelijker maakt.
 
 ## DBNL scraper (één tekst)
-De scraper is te vinden op: https://github.com/CREATETOPIC/dbnlscraper/blob/master/scraper_literatuur.js
+Script: https://github.com/CREATETOPIC/dbnlscraper/blob/master/scraper_literatuur.js
 
 Tik in de terminal:
 `node scraper_literatuur.js TITLE FIRSTPAGE LASTPAGE > RECORDNUMBER.txt`
@@ -24,14 +24,14 @@ FIRSTPAGE & LASTPAGE is eveneens zichtbaar in de DBNL URL. Kijk hiervoor naar de
 RECORDNUMBER zoals beschreven staat in Picarta.
 
 ## DBNL scraper voor meerdere teksten
-Node.js is vereist
+Script: dbnl_scraper_batch.js
+
+Dit script trekt meerdere teksten van DBNL af. De te downloaden teksten worden automatisch uit de DBNL koppelsheet (Google Spreadsheet) gehaald. Deze teksten worden vervolgens in het mapje 'teksten' geplaatst. Om de DBNL servers niet te overbelasten zit er één minuut pauze tussen ieder boek. Tussen iedere pagina is er een delay van één seconde.
 
 Tik in de terminal: 
-`node scraper_multiple.js`
+`node dbnl_scraper_batch.js`
 
-De te downloaden teksten worden automatisch uit de DBNL koppelsheet (Google Spreadsheet) gehaald. Deze teksten worden vervolgens in het mapje 'teksten' geplaatst. Om de DBNL servers niet te overbelasten zit er één minuut pauze tussen ieder boek. Tussen iedere pagina is er een delay van één seconde.
-
-## Geheugen van Nederland scraper
+## Geheugen van Nederland scraper (shellscript)
 Tik in de terminal:
 `sh gvn_scraper.sh`
 
